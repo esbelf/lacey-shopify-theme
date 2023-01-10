@@ -216,6 +216,7 @@
       }
     {% endstyle %}
 
+    {{ 'app.css' | asset_url | stylesheet_tag }}
     {{ 'base.css' | asset_url | stylesheet_tag }}
 
     {%- unless settings.type_body_font.system? -%}
@@ -248,7 +249,7 @@
     {% sections 'header-group' %}
 
     <main id="MainContent" class="content-for-layout focus-none" role="main" tabindex="-1">
-      <h1>ERIC THEME v3</h1>
+      <h1 class="tw-mb-20">ERIC THEME v3</h1>
       {{ content_for_layout }}
     </main>
 
