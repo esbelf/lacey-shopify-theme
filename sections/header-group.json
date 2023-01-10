@@ -8,7 +8,7 @@
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
-            "text": "Welcome to our store",
+            "text": "Call +34 674 152 312",
             "text_alignment": "center",
             "color_scheme": "background-1",
             "link": ""
