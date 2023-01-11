@@ -10,30 +10,15 @@
     "81e482c6-072b-45c2-b8c1-6a1027fd0c32": {
       "type": "video-with-text",
       "blocks": {
-        "template--17548613452080__81e482c6-072b-45c2-b8c1-6a1027fd0c32-167346050085ed931f-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image with text"
-          }
-        },
         "template--17548613452080__81e482c6-072b-45c2-b8c1-6a1027fd0c32-167346050085ed931f-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
-          }
-        },
-        "template--17548613452080__81e482c6-072b-45c2-b8c1-6a1027fd0c32-167346050085ed931f-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
+            "text": "<p>Goodbye To Muck & Weeds® offers environmentally-friendly alternatives to eliminate aquatic lakeweeds and control muck (mud) in lakes, rivers, and ponds.<\/p><p>We developed our flagship products, LakeMats® and MuckMats®, over a decade ago out of necessity in Grand Rapids, Michigan USA<\/p><p>Simply put, we were tired of constantly raking weeds, sinking into the muck, and HATED the idea of throwing herbicides and other chemicals into the lake to control the weeds.<\/p><p>Since that moment, we have expanded from the United States to Canada and, as of 2021, Europe.<\/p><p>Our EU base is in Barcelona, Spain, which allows us to offer FREE shipping across the EU and the UK. There we source over 70% of our product from within Spain, helping to support the local economy and grow a sustainable business.<\/p>"
           }
         }
       },
       "block_order": [
-        "template--17548613452080__81e482c6-072b-45c2-b8c1-6a1027fd0c32-167346050085ed931f-0",
-        "template--17548613452080__81e482c6-072b-45c2-b8c1-6a1027fd0c32-167346050085ed931f-1",
-        "template--17548613452080__81e482c6-072b-45c2-b8c1-6a1027fd0c32-167346050085ed931f-2"
+        "template--17548613452080__81e482c6-072b-45c2-b8c1-6a1027fd0c32-167346050085ed931f-1"
       ],
       "settings": {
         "color_scheme": "background-1",
