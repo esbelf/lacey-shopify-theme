@@ -3,12 +3,62 @@
     "main": {
       "type": "main-page",
       "settings": {
-        "padding_top": 28,
-        "padding_bottom": 28
+        "padding_top": 8,
+        "padding_bottom": 0
+      }
+    },
+    "ce70eda5-eda8-4c98-b346-3649b3d0acb5": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--17548613452080__ce70eda5-eda8-4c98-b346-3649b3d0acb5-16734450090787cb68-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text",
+            "heading_size": "h1"
+          }
+        },
+        "template--17548613452080__ce70eda5-eda8-4c98-b346-3649b3d0acb5-16734450090787cb68-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Goodbye To Muck & Weeds® offers environmentally-friendly alternatives to eliminate aquatic lakeweeds and control muck (mud) in lakes, rivers, and ponds.<\/p><p>We developed our flagship products, LakeMats® and MuckMats®, over a decade ago out of necessity in Grand Rapids, Michigan USA<\/p><p>Simply put, we were tired of constantly raking weeds, sinking into the muck, and HATED the idea of throwing herbicides and other chemicals into the lake to control the weeds.<\/p><p>Since that moment, we have expanded from the United States to Canada and, as of 2021, Europe.<\/p><p>Our EU base is in Barcelona, Spain, which allows us to offer FREE shipping across the EU and the UK. There we source over 70% of our product from within Spain, helping to support the local economy and grow a sustainable business.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--17548613452080__ce70eda5-eda8-4c98-b346-3649b3d0acb5-16734450090787cb68-0",
+        "template--17548613452080__ce70eda5-eda8-4c98-b346-3649b3d0acb5-16734450090787cb68-1"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1cbf3ccb-f59e-4286-9b8d-4533188b6b2e": {
+      "type": "video",
+      "settings": {
+        "heading": "Video",
+        "heading_size": "h1",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     }
   },
   "order": [
-    "main"
+    "main",
+    "ce70eda5-eda8-4c98-b346-3649b3d0acb5",
+    "1cbf3ccb-f59e-4286-9b8d-4533188b6b2e"
   ]
 }
