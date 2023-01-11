@@ -18,6 +18,14 @@ module.exports = {
         'heading': 'var(--font-heading-family)'
       },
     },
+    colors: {
+      primary: "#1e4858", // #0B3C58
+      secondary: "#bcdada",
+      thirdary: '#2B677E',
+      transparent: 'transparent',
+      current: 'currentColor',
+      white: '#ffffff',
+    }
   },
   plugins: [],
 }

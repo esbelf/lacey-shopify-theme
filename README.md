@@ -23,7 +23,9 @@ You can find a more detailed version of our theme code principles in the [contri
 
 ## DEV commands Eric
 
- npx tailwindcss -i ./assets/app-tailwind.css -o ./assets/app.css -w
+> shopify theme dev --store lacey-global
+
+> npx tailwindcss -i ./assets/app-tailwind.css -o ./assets/app.css -w
 
 ## Getting started
 
