@@ -33,7 +33,7 @@
         "template--17548613452080__ce70eda5-eda8-4c98-b346-3649b3d0acb5-16734450090787cb68-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "Who are we?",
             "heading_size": "h1"
           }
         },
@@ -50,10 +50,11 @@
         "template--17548613452080__ce70eda5-eda8-4c98-b346-3649b3d0acb5-16734450090787cb68-1"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/aboutus-min.jpg",
         "height": "adapt",
-        "desktop_image_width": "medium",
+        "desktop_image_width": "small",
         "layout": "image_first",
-        "desktop_content_position": "top",
+        "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
         "color_scheme": "background-1",
