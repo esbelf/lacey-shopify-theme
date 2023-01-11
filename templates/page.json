@@ -52,7 +52,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/aboutus-min.jpg",
         "height": "adapt",
-        "desktop_image_width": "small",
+        "desktop_image_width": "medium",
         "layout": "image_first",
         "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
@@ -63,17 +63,31 @@
         "padding_bottom": 36
       }
     },
-    "1cbf3ccb-f59e-4286-9b8d-4533188b6b2e": {
-      "type": "video",
+    "9212795d-a9f2-4498-b9bc-5dcd4b5b040d": {
+      "type": "video-with-text",
+      "blocks": {
+        "template--17548613452080__9212795d-a9f2-4498-b9bc-5dcd4b5b040d-1673461402e5b1f8d7-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Environmentally Friendly"
+          }
+        },
+        "template--17548613452080__9212795d-a9f2-4498-b9bc-5dcd4b5b040d-1673461402e5b1f8d7-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our mats are the least intrusive solution for controlling lake weeds & muck. Our unique fabric is gas and water permeable, it cannot harm fish and all other lakes \"residents.\" It allows the benthic microorganisms to do their job, keeping your lake clean. Unlike toxic chemicals that spread over large areas, the small footprint of our Mat controls only the limited area you need clear to get kayaks, boats, or people in and out of the lake.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--17548613452080__9212795d-a9f2-4498-b9bc-5dcd4b5b040d-1673461402e5b1f8d7-0",
+        "template--17548613452080__9212795d-a9f2-4498-b9bc-5dcd4b5b040d-1673461402e5b1f8d7-1"
+      ],
       "settings": {
-        "heading": "Video",
-        "heading_size": "h1",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "description": "",
-        "full_width": false,
         "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/07b1100a4994433f808ab2140d87ccf9.mp4",
+        "height": "adapt",
+        "layout": "text_first"
       }
     }
   },
@@ -81,6 +95,6 @@
     "main",
     "81e482c6-072b-45c2-b8c1-6a1027fd0c32",
     "ce70eda5-eda8-4c98-b346-3649b3d0acb5",
-    "1cbf3ccb-f59e-4286-9b8d-4533188b6b2e"
+    "9212795d-a9f2-4498-b9bc-5dcd4b5b040d"
   ]
 }
