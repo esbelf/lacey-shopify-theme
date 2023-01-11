@@ -41,10 +41,24 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "1cbf3ccb-f59e-4286-9b8d-4533188b6b2e": {
+      "type": "video",
+      "settings": {
+        "heading": "Video",
+        "heading_size": "h1",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "main",
-    "ce70eda5-eda8-4c98-b346-3649b3d0acb5"
+    "ce70eda5-eda8-4c98-b346-3649b3d0acb5",
+    "1cbf3ccb-f59e-4286-9b8d-4533188b6b2e"
   ]
 }
