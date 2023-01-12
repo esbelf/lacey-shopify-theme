@@ -15,6 +15,11 @@
           "settings": {
           }
         },
+        "description": {
+          "type": "description",
+          "settings": {
+          }
+        },
         "caption": {
           "type": "text",
           "settings": {
@@ -42,11 +47,6 @@
           "type": "buy_buttons",
           "settings": {
             "show_dynamic_checkout": true
-          }
-        },
-        "description": {
-          "type": "description",
-          "settings": {
           }
         },
         "collapsible-row-0": {
@@ -95,12 +95,12 @@
       "block_order": [
         "vendor",
         "title",
+        "description",
         "caption",
         "price",
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
-        "description",
         "collapsible-row-0",
         "collapsible-row-1",
         "collapsible-row-2",
@@ -111,15 +111,50 @@
         "enable_sticky_info": true,
         "media_size": "large",
         "constrain_to_viewport": false,
-        "media_fit": "contain",
+        "media_fit": "cover",
         "gallery_layout": "stacked",
         "media_position": "left",
         "image_zoom": "lightbox",
         "mobile_thumbnails": "hide",
         "hide_variants": true,
-        "enable_video_looping": false,
-        "padding_top": 36,
+        "enable_video_looping": true,
+        "padding_top": 20,
         "padding_bottom": 12
+      }
+    },
+    "6a1a2597-7af2-4b92-9144-9c26aeb5228b": {
+      "type": "video-with-text",
+      "blocks": {
+        "template--17565950083376__6a1a2597-7af2-4b92-9144-9c26aeb5228b-16735280062dc9322d-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "What is a LakeMat® for?"
+          }
+        },
+        "template--17565950083376__6a1a2597-7af2-4b92-9144-9c26aeb5228b-16735280062dc9322d-1": {
+          "type": "text",
+          "settings": {
+            "text": "<ul><li>Elimating lake weeds<\/li><li>Creating a lovely swimming area<\/li><li>Safe for walking lake bottom<\/li><li>No stepping in weeds, rocks or sticks<\/li><\/ul>"
+          }
+        },
+        "template--17565950083376__6a1a2597-7af2-4b92-9144-9c26aeb5228b-16735280062dc9322d-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17565950083376__6a1a2597-7af2-4b92-9144-9c26aeb5228b-16735280062dc9322d-0",
+        "template--17565950083376__6a1a2597-7af2-4b92-9144-9c26aeb5228b-16735280062dc9322d-1",
+        "template--17565950083376__6a1a2597-7af2-4b92-9144-9c26aeb5228b-16735280062dc9322d-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "video_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0050\/2779\/0919\/files\/1_1_Cutting_fruit_H.mp4?v=1603372350",
+        "height": "adapt",
+        "layout": "image_first"
       }
     },
     "image-with-text": {
@@ -233,6 +268,7 @@
   },
   "order": [
     "main",
+    "6a1a2597-7af2-4b92-9144-9c26aeb5228b",
     "image-with-text",
     "multicolumn",
     "related-products"
