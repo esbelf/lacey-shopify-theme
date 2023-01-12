@@ -240,6 +240,36 @@
         "layout": "image_first"
       }
     },
+    "12865129-6d13-4abb-b9ab-9e007613d811": {
+      "type": "rich-text",
+      "blocks": {
+        "template--17565950083376__12865129-6d13-4abb-b9ab-9e007613d811-167352800641a06330-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Benefits of LakeMats®<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--17565950083376__12865129-6d13-4abb-b9ab-9e007613d811-167352800641a06330-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>There are a few reasons why LakeMats® are a great option for your lake or pond area:<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--17565950083376__12865129-6d13-4abb-b9ab-9e007613d811-167352800641a06330-0",
+        "template--17565950083376__12865129-6d13-4abb-b9ab-9e007613d811-167352800641a06330-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 28,
+        "padding_bottom": 0
+      }
+    },
     "7897295e-2f80-4c07-bc7a-281d3b3f63a5": {
       "type": "multicolumn",
       "blocks": {
@@ -297,19 +327,19 @@
         "d895100f-0bf9-4388-989a-5df6c2854f0d"
       ],
       "settings": {
-        "title": "Multicolumn",
+        "title": "",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
-        "columns_desktop": 3,
+        "columns_desktop": 2,
         "column_alignment": "left",
         "background_style": "primary",
-        "button_label": "Button label",
+        "button_label": "",
         "button_link": "",
         "color_scheme": "background-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 36,
+        "padding_top": 8,
         "padding_bottom": 36
       }
     },
@@ -337,6 +367,7 @@
     "6a1a2597-7af2-4b92-9144-9c26aeb5228b",
     "multicolumn",
     "c14b25fb-0d14-4e51-badc-09ae2a6248fa",
+    "12865129-6d13-4abb-b9ab-9e007613d811",
     "7897295e-2f80-4c07-bc7a-281d3b3f63a5",
     "related-products"
   ]
