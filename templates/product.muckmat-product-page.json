@@ -242,6 +242,7 @@
     },
     "9c0b7a61-dd59-42f8-b006-36d23adf0005": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "template--17574336266544__9c0b7a61-dd59-42f8-b006-36d23adf0005-1673526858daaa97c4-0": {
           "type": "heading",
@@ -272,6 +273,7 @@
     },
     "multicolumn": {
       "type": "multicolumn",
+      "disabled": true,
       "blocks": {
         "column-0": {
           "type": "column",
@@ -343,6 +345,87 @@
         "padding_bottom": 16
       }
     },
+    "2a975f59-16a0-430b-8a7e-48ea9a39f9f9": {
+      "type": "rich-text",
+      "blocks": {
+        "template--17574336266544__2a975f59-16a0-430b-8a7e-48ea9a39f9f9-1673532589ac26356c-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>How to create a beach with the MuckMat®<\/p>",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "template--17574336266544__2a975f59-16a0-430b-8a7e-48ea9a39f9f9-1673532589ac26356c-0"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "inverse",
+        "full_width": true,
+        "padding_top": 16,
+        "padding_bottom": 16
+      }
+    },
+    "172f7eec-48a3-44fe-9d41-001b216326d3": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/sand_main_home.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "inverse",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "6f94a351-6611-4fa7-9155-8e80304fa0de": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--17574336266544__6f94a351-6611-4fa7-9155-8e80304fa0de-1673532589e4399ca5-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Three Steps to create a beach",
+            "heading_size": "h1"
+          }
+        },
+        "template--17574336266544__6f94a351-6611-4fa7-9155-8e80304fa0de-1673532589e4399ca5-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Step 1 <\/strong>- Assemble MuckMat® in 30 minutes<br\/><br\/><strong>Step 2 <\/strong>- Place on the bottom of your lake. Easy to walk in with two people on both ends. The mat will slowly sink on its own.<br\/><\/p><p><strong>Step 3 <\/strong>-  Place a thin layer of sand. You can add more sand to create a thick beach if desired<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--17574336266544__6f94a351-6611-4fa7-9155-8e80304fa0de-1673532589e4399ca5-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17574336266544__6f94a351-6611-4fa7-9155-8e80304fa0de-1673532589e4399ca5-0",
+        "template--17574336266544__6f94a351-6611-4fa7-9155-8e80304fa0de-1673532589e4399ca5-1",
+        "template--17574336266544__6f94a351-6611-4fa7-9155-8e80304fa0de-1673532589e4399ca5-2"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "related-products": {
       "type": "related-products",
       "settings": {
@@ -368,6 +451,9 @@
     "f4fc12ca-5435-40d4-be35-18e2a4068d14",
     "9c0b7a61-dd59-42f8-b006-36d23adf0005",
     "multicolumn",
+    "2a975f59-16a0-430b-8a7e-48ea9a39f9f9",
+    "172f7eec-48a3-44fe-9d41-001b216326d3",
+    "6f94a351-6611-4fa7-9155-8e80304fa0de",
     "related-products"
   ]
 }
