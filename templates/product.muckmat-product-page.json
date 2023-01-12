@@ -122,6 +122,33 @@
         "padding_bottom": 12
       }
     },
+    "d0cefaf3-9046-44de-97f1-acdc1f0ee2f7": {
+      "type": "video-with-text",
+      "blocks": {
+        "template--17574336266544__d0cefaf3-9046-44de-97f1-acdc1f0ee2f7-1673532589b29d7680-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "What is a MuckMat® for?"
+          }
+        },
+        "template--17574336266544__d0cefaf3-9046-44de-97f1-acdc1f0ee2f7-1673532589b29d7680-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Creates a firm lake bottom<\/p><p>Eliminating aquatic weeds<\/p><p>Prevents sinking into muddy lake bottoms<\/p><p>Building an ideal beach and swim area<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--17574336266544__d0cefaf3-9046-44de-97f1-acdc1f0ee2f7-1673532589b29d7680-0",
+        "template--17574336266544__d0cefaf3-9046-44de-97f1-acdc1f0ee2f7-1673532589b29d7680-1"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "video_url": "Creates a firm lake bottomEliminating aquatic weedsPrevents sinking into muddy lake bottomsBuilding an ideal beach and swim area",
+        "height": "adapt",
+        "layout": "image_first"
+      }
+    },
     "image-with-text": {
       "type": "image-with-text",
       "blocks": {
@@ -280,6 +307,7 @@
   },
   "order": [
     "main",
+    "d0cefaf3-9046-44de-97f1-acdc1f0ee2f7",
     "image-with-text",
     "9c0b7a61-dd59-42f8-b006-36d23adf0005",
     "multicolumn",
