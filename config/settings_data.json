@@ -121,6 +121,11 @@
     "predictive_search_show_vendor": false,
     "predictive_search_show_price": false,
     "currency_code_enabled": true,
+    "checkout_logo_image": "shopify:\/\/shop_images\/logo.png",
+    "checkout_body_background_color": "#fafafa",
+    "checkout_input_background_color_mode": "white",
+    "checkout_accent_color": "#1e4858",
+    "checkout_button_color": "#1e4858",
     "sections": {
       "main-password-header": {
         "type": "main-password-header",
