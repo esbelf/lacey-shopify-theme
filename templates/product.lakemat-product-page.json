@@ -240,6 +240,79 @@
         "layout": "image_first"
       }
     },
+    "7897295e-2f80-4c07-bc7a-281d3b3f63a5": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--17565950083376__7897295e-2f80-4c07-bc7a-281d3b3f63a5-167352800698be9353-0": {
+          "type": "column",
+          "settings": {
+            "title": "Low Maintenance",
+            "text": "<p>Lake mats don’t take a lot of work to install. They don’t require much time or strenuous labor. You also don’t need special skills or tools. Almost anyone can install lake weed control mats.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--17565950083376__7897295e-2f80-4c07-bc7a-281d3b3f63a5-167352800698be9353-1": {
+          "type": "column",
+          "settings": {
+            "title": "Eco-Friendly",
+            "text": "<p>Another way of eliminating aquatic weeds is to use chemicals. However, these options can damage the lake’s ecosystem. LakeMats® are safe for the environment. LakeMat® materials are all-natural and organic.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--17565950083376__7897295e-2f80-4c07-bc7a-281d3b3f63a5-167352800698be9353-2": {
+          "type": "column",
+          "settings": {
+            "title": "Effective",
+            "text": "<p>LakeMats® are very effective at blocking sunlight from lake weeds. This makes the lake more user-friendly, inviting, and more aesthetically pleasing.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "557e983e-1753-42e3-a225-c86b899d192c": {
+          "type": "column",
+          "settings": {
+            "title": "Inexpensive",
+            "text": "<p>Other solutions like chemicals and aerators are expensive and need to be used frequently. Lake mats are relatively inexpensive. They can be used for many years. They require no yearly applications, maintenance, outlay for materials, or power to run them.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "d895100f-0bf9-4388-989a-5df6c2854f0d": {
+          "type": "column",
+          "settings": {
+            "title": "Easy to Use and Move",
+            "text": "<p>LakeMats® for weeds can be installed at any time, moved, or taken out when no longer needed. When not in use, LakeMats® can be easily removed and safely stored.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17565950083376__7897295e-2f80-4c07-bc7a-281d3b3f63a5-167352800698be9353-0",
+        "template--17565950083376__7897295e-2f80-4c07-bc7a-281d3b3f63a5-167352800698be9353-1",
+        "template--17565950083376__7897295e-2f80-4c07-bc7a-281d3b3f63a5-167352800698be9353-2",
+        "557e983e-1753-42e3-a225-c86b899d192c",
+        "d895100f-0bf9-4388-989a-5df6c2854f0d"
+      ],
+      "settings": {
+        "title": "Multicolumn",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "related-products": {
       "type": "related-products",
       "disabled": true,
@@ -264,6 +337,7 @@
     "6a1a2597-7af2-4b92-9144-9c26aeb5228b",
     "multicolumn",
     "c14b25fb-0d14-4e51-badc-09ae2a6248fa",
+    "7897295e-2f80-4c07-bc7a-281d3b3f63a5",
     "related-products"
   ]
 }
