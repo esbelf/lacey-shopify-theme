@@ -149,6 +149,62 @@
         "layout": "image_first"
       }
     },
+    "7af925f9-79bf-4df8-b613-bb648ec497ad": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--17574336266544__7af925f9-79bf-4df8-b613-bb648ec497ad-16735325897ed3c2bd-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/how-muckmat-works-1-min.jpg",
+            "title": "Unique Mat, Frame and Geogrid",
+            "text": "<p>Eliminates weeds through preventing photosynthesis<\/p><p>Water and gas permeable to not harm the natural ecosystem<\/p><p>Non-woven geotextile - won’t catch fish hooks or other debris<\/p><p>Geogrid - stops you from sinking in the muck<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--17574336266544__7af925f9-79bf-4df8-b613-bb648ec497ad-16735325897ed3c2bd-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/how-muckmat-works-2-min.jpg",
+            "title": "Installed MuckMat®",
+            "text": "<p>Creates a firm and secure lake bottom<\/p><p>Geogrid and framed-mat stabilizes the loose sediments and stops you from sinking - the “snow shoe effect”<\/p><p>High strength - place you dock or boatlift on our mats!<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--17574336266544__7af925f9-79bf-4df8-b613-bb648ec497ad-16735325897ed3c2bd-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/how-muckmat-works-3-min.jpg",
+            "title": "MuckMat® on the Lakebottom",
+            "text": "<p>No surprises - walking and swimming safe lakebottom<\/p><p>No sinking & no lake weeds<\/p><p>Pleasant and non-slippery surface<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17574336266544__7af925f9-79bf-4df8-b613-bb648ec497ad-16735325897ed3c2bd-0",
+        "template--17574336266544__7af925f9-79bf-4df8-b613-bb648ec497ad-16735325897ed3c2bd-1",
+        "template--17574336266544__7af925f9-79bf-4df8-b613-bb648ec497ad-16735325897ed3c2bd-2"
+      ],
+      "settings": {
+        "title": "How the MuckMat® works?",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "image-with-text": {
       "type": "image-with-text",
       "blocks": {
@@ -308,6 +364,7 @@
   "order": [
     "main",
     "d0cefaf3-9046-44de-97f1-acdc1f0ee2f7",
+    "7af925f9-79bf-4df8-b613-bb648ec497ad",
     "image-with-text",
     "9c0b7a61-dd59-42f8-b006-36d23adf0005",
     "multicolumn",
