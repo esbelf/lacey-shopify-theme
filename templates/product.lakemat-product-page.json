@@ -240,8 +240,8 @@
         "template--17565950083376__c14b25fb-0d14-4e51-badc-09ae2a6248fa-16735280062dc9322d-2": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": ""
+            "button_label": "Download Owner's Manual",
+            "button_link": "https:\/\/www.goodbyetomuck.eu\/GoodbyetoMuck-OwnersManual.pdf"
           }
         }
       },
