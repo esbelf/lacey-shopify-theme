@@ -278,6 +278,59 @@
         "padding_bottom": 36
       }
     },
+    "b9b6c742-8ac7-497d-86e1-9aedd67e149d": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--17575199834416__b9b6c742-8ac7-497d-86e1-9aedd67e149d-1673531417b1ee0d2a-0": {
+          "type": "column",
+          "settings": {
+            "title": "Leave it & Forget it",
+            "text": "<p>Leave it in the lake, ice can’t hurt it. The BoatLift Mat will be ready for you the next summer when you are ready to install your BoatLift Mat<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--17575199834416__b9b6c742-8ac7-497d-86e1-9aedd67e149d-1673531417b1ee0d2a-1": {
+          "type": "column",
+          "settings": {
+            "title": "Unique Patented Design",
+            "text": "<p>The BoatLift Mat is made from the strongest geo-textile on Earth. It is the same material used to stabilize extremely soft soils in highway construction. The ultra-strong, over-sized, aluminum-steel tube framing system will hold your lift no matter how deep the muck is<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--17575199834416__b9b6c742-8ac7-497d-86e1-9aedd67e149d-1673531417b1ee0d2a-2": {
+          "type": "column",
+          "settings": {
+            "title": "Quick and Easy",
+            "text": "<p>Assembles in just 10 Minutes. Place the BoatLift Mat on the mucky lake bottom. It will provide an instant firm base for you to set your lift on top of. Your lift won’t sink and it will stay level.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17575199834416__b9b6c742-8ac7-497d-86e1-9aedd67e149d-1673531417b1ee0d2a-0",
+        "template--17575199834416__b9b6c742-8ac7-497d-86e1-9aedd67e149d-1673531417b1ee0d2a-1",
+        "template--17575199834416__b9b6c742-8ac7-497d-86e1-9aedd67e149d-1673531417b1ee0d2a-2"
+      ],
+      "settings": {
+        "title": "Your BoatLift Mat Benefits",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
     "related-products": {
       "type": "related-products",
       "settings": {
@@ -301,6 +354,7 @@
     "def7ed24-ba89-439b-a785-3693c407ea6a",
     "multicolumn",
     "504b8359-825f-463e-8e73-14313d297d09",
+    "b9b6c742-8ac7-497d-86e1-9aedd67e149d",
     "related-products"
   ]
 }
