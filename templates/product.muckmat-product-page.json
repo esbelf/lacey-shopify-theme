@@ -196,7 +196,7 @@
         "columns_desktop": 3,
         "column_alignment": "left",
         "background_style": "primary",
-        "button_label": "Button label",
+        "button_label": "",
         "button_link": "",
         "color_scheme": "background-1",
         "columns_mobile": "1",
@@ -205,39 +205,39 @@
         "padding_bottom": 36
       }
     },
-    "image-with-text": {
-      "type": "image-with-text",
+    "f4fc12ca-5435-40d4-be35-18e2a4068d14": {
+      "type": "video-with-text",
       "blocks": {
-        "image-with-text-0": {
+        "template--17574336266544__f4fc12ca-5435-40d4-be35-18e2a4068d14-1673532589b29d7680-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
-            "heading_size": "h1"
+            "heading": "Installing the MuckMat®"
           }
         },
-        "image-with-text-1": {
+        "template--17574336266544__f4fc12ca-5435-40d4-be35-18e2a4068d14-1673532589b29d7680-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "text_style": "body"
+            "text": "<p>30 minute assembly & install<br\/><\/p><p>Instruction manual included<br\/><\/p><p>Environmentally firendly: no chemicals, it will not harm fish and other lake resident<\/p>"
+          }
+        },
+        "template--17574336266544__f4fc12ca-5435-40d4-be35-18e2a4068d14-1673532589b29d7680-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Download Manual",
+            "button_link": "https:\/\/www.goodbyetomuck.eu\/GoodbyetoMuck-OwnersManual.pdf"
           }
         }
       },
       "block_order": [
-        "image-with-text-0",
-        "image-with-text-1"
+        "template--17574336266544__f4fc12ca-5435-40d4-be35-18e2a4068d14-1673532589b29d7680-0",
+        "template--17574336266544__f4fc12ca-5435-40d4-be35-18e2a4068d14-1673532589b29d7680-1",
+        "template--17574336266544__f4fc12ca-5435-40d4-be35-18e2a4068d14-1673532589b29d7680-2"
       ],
       "settings": {
-        "height": "small",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-2",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "color_scheme": "background-1",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/c5a7fe6b44a542c4ae9bb2ea6d0dadfb.mp4",
+        "height": "adapt",
+        "layout": "image_first"
       }
     },
     "9c0b7a61-dd59-42f8-b006-36d23adf0005": {
@@ -365,7 +365,7 @@
     "main",
     "d0cefaf3-9046-44de-97f1-acdc1f0ee2f7",
     "7af925f9-79bf-4df8-b613-bb648ec497ad",
-    "image-with-text",
+    "f4fc12ca-5435-40d4-be35-18e2a4068d14",
     "9c0b7a61-dd59-42f8-b006-36d23adf0005",
     "multicolumn",
     "related-products"
