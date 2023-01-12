@@ -157,14 +157,44 @@
         "padding_bottom": 36
       }
     },
+    "9c0b7a61-dd59-42f8-b006-36d23adf0005": {
+      "type": "rich-text",
+      "blocks": {
+        "template--17574336266544__9c0b7a61-dd59-42f8-b006-36d23adf0005-1673526858daaa97c4-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Benefits of LakeMats®<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--17574336266544__9c0b7a61-dd59-42f8-b006-36d23adf0005-1673526858daaa97c4-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>There are a few reasons why LakeMats® are a great option for your lake or pond area:<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--17574336266544__9c0b7a61-dd59-42f8-b006-36d23adf0005-1673526858daaa97c4-0",
+        "template--17574336266544__9c0b7a61-dd59-42f8-b006-36d23adf0005-1673526858daaa97c4-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 16,
+        "padding_bottom": 8
+      }
+    },
     "multicolumn": {
       "type": "multicolumn",
       "blocks": {
         "column-0": {
           "type": "column",
           "settings": {
-            "title": "Free Shipping",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "Low Maintenance",
+            "text": "<p>Lake mats don’t take a lot of work to install. They don’t require much time or strenuous labor. You also don’t need special skills or tools. Almost anyone can install lake weed control mats.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -172,8 +202,35 @@
         "column-1": {
           "type": "column",
           "settings": {
-            "title": "Hassle-Free Exchanges",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "Eco-Friendly",
+            "text": "<p>Another way of eliminating aquatic weeds is to use chemicals. However, these options can damage the lake’s ecosystem. LakeMats® are safe for the environment. LakeMat® materials are all-natural and organic.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "54e884f6-41b0-4d8e-a094-d57bb3278448": {
+          "type": "column",
+          "settings": {
+            "title": "Effective",
+            "text": "<p>LakeMats® are very effective at blocking sunlight from lake weeds. This makes the lake more user-friendly, inviting, and more aesthetically pleasing.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "e34e8786-6567-476e-bff5-1fc3607c70bf": {
+          "type": "column",
+          "settings": {
+            "title": "Inexpensive",
+            "text": "<p>Other solutions like chemicals and aerators are expensive and need to be used frequently. Lake mats are relatively inexpensive. They can be used for many years. They require no yearly applications, maintenance, outlay for materials, or power to run them.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "6f43df39-1b14-4dc1-ae64-d113092a926c": {
+          "type": "column",
+          "settings": {
+            "title": "Easy to Use and Move",
+            "text": "<p>LakeMats® for weeds can be installed at any time, moved, or taken out when no longer needed. When not in use, LakeMats® can be easily removed and safely stored.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -181,7 +238,10 @@
       },
       "block_order": [
         "column-0",
-        "column-1"
+        "column-1",
+        "54e884f6-41b0-4d8e-a094-d57bb3278448",
+        "e34e8786-6567-476e-bff5-1fc3607c70bf",
+        "6f43df39-1b14-4dc1-ae64-d113092a926c"
       ],
       "settings": {
         "title": "",
@@ -190,14 +250,14 @@
         "image_ratio": "adapt",
         "columns_desktop": 2,
         "column_alignment": "left",
-        "background_style": "none",
+        "background_style": "primary",
         "button_label": "",
         "button_link": "",
         "color_scheme": "background-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 0,
+        "padding_bottom": 16
       }
     },
     "related-products": {
@@ -221,6 +281,7 @@
   "order": [
     "main",
     "image-with-text",
+    "9c0b7a61-dd59-42f8-b006-36d23adf0005",
     "multicolumn",
     "related-products"
   ]
