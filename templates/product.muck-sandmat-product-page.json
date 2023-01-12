@@ -30,7 +30,7 @@
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
-            "picker_type": "button"
+            "picker_type": "dropdown"
           }
         },
         "quantity_selector": {
@@ -122,39 +122,34 @@
         "padding_bottom": 12
       }
     },
-    "image-with-text": {
-      "type": "image-with-text",
+    "46a7ed41-e19e-41b0-8c3f-c4112762ffdc": {
+      "type": "rich-text",
       "blocks": {
-        "image-with-text-0": {
+        "template--17575199899952__46a7ed41-e19e-41b0-8c3f-c4112762ffdc-16735323263416ea0d-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "<p>Benefits of Muck SandMats<\/p>",
             "heading_size": "h1"
           }
         },
-        "image-with-text-1": {
+        "template--17575199899952__46a7ed41-e19e-41b0-8c3f-c4112762ffdc-16735323263416ea0d-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "text_style": "body"
+            "text": "<p>There are a few reasons why Muck SandMats are a great option for your lake or pond area:<\/p>"
           }
         }
       },
       "block_order": [
-        "image-with-text-0",
-        "image-with-text-1"
+        "template--17575199899952__46a7ed41-e19e-41b0-8c3f-c4112762ffdc-16735323263416ea0d-0",
+        "template--17575199899952__46a7ed41-e19e-41b0-8c3f-c4112762ffdc-16735323263416ea0d-1"
       ],
       "settings": {
-        "height": "small",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-2",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 20,
+        "padding_bottom": 0
       }
     },
     "multicolumn": {
@@ -163,8 +158,8 @@
         "column-0": {
           "type": "column",
           "settings": {
-            "title": "Free Shipping",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "Designed to firm up a mucky lake bottom",
+            "text": "<p>Soft, spongy shorelines, yards and mucky lake bottoms in shallow water near shore - Creates an ideal base for creating a beach area<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -172,8 +167,35 @@
         "column-1": {
           "type": "column",
           "settings": {
-            "title": "Hassle-Free Exchanges",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "Easy to maintain",
+            "text": "<p>Keep your beach looking great. The Muck SandMat is easy to maintain - inhibits weed growth - protects your shoreline from erosion - keeps your sand from sinking, washing out and drifting<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "2b91f6f8-a5c4-4893-97a3-29f3998ceccb": {
+          "type": "column",
+          "settings": {
+            "title": "A great base for the sand",
+            "text": "<p>Creates a solid foundation and keep your shore from eroding - provides excellent “soil separation” - keeps your sand from mixing with dirt, mud and muck below it<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1b9feea5-b579-4c66-a611-9393dc120ab2": {
+          "type": "column",
+          "settings": {
+            "title": "Creates an awesome beach",
+            "text": "<p>The beach you have always wanted - Kids will love playing in the sand, and you’ll have an attractive lakefront - for guests and hanging out with friends and family.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "c5924c75-d9e2-4aa1-a758-963f549ee1f5": {
+          "type": "column",
+          "settings": {
+            "title": "100% Guaranteed",
+            "text": "<p>We guarantee your Muck SandMat. It will last for at least 50 years - you’ll never need to replace Muck SandMat - Made of the same industrial grade, geo-textile fabric used to support soil under highways.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -181,7 +203,10 @@
       },
       "block_order": [
         "column-0",
-        "column-1"
+        "column-1",
+        "2b91f6f8-a5c4-4893-97a3-29f3998ceccb",
+        "1b9feea5-b579-4c66-a611-9393dc120ab2",
+        "c5924c75-d9e2-4aa1-a758-963f549ee1f5"
       ],
       "settings": {
         "title": "",
@@ -190,14 +215,14 @@
         "image_ratio": "adapt",
         "columns_desktop": 2,
         "column_alignment": "left",
-        "background_style": "none",
+        "background_style": "primary",
         "button_label": "",
         "button_link": "",
         "color_scheme": "background-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 8,
+        "padding_bottom": 20
       }
     },
     "related-products": {
@@ -220,7 +245,7 @@
   },
   "order": [
     "main",
-    "image-with-text",
+    "46a7ed41-e19e-41b0-8c3f-c4112762ffdc",
     "multicolumn",
     "related-products"
   ]
