@@ -122,39 +122,34 @@
         "padding_bottom": 12
       }
     },
-    "image-with-text": {
-      "type": "image-with-text",
+    "def7ed24-ba89-439b-a785-3693c407ea6a": {
+      "type": "rich-text",
       "blocks": {
-        "image-with-text-0": {
+        "template--17575199834416__def7ed24-ba89-439b-a785-3693c407ea6a-16735314171f326d29-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "<p>Reasons to Use Goodbye to Muck® BoatLift Mats<\/p>",
             "heading_size": "h1"
           }
         },
-        "image-with-text-1": {
+        "template--17575199834416__def7ed24-ba89-439b-a785-3693c407ea6a-16735314171f326d29-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "text_style": "body"
+            "text": "<p>If cleaner, clearer shores and water isn’t a good enough reason to use a <a href=\"https:\/\/www.goodbyetomuck.eu\/lakemat\">LakeMat®<\/a> or BoatLift Mat, there are some other benefits to having one on the bottom of your lake.<\/p>"
           }
         }
       },
       "block_order": [
-        "image-with-text-0",
-        "image-with-text-1"
+        "template--17575199834416__def7ed24-ba89-439b-a785-3693c407ea6a-16735314171f326d29-0",
+        "template--17575199834416__def7ed24-ba89-439b-a785-3693c407ea6a-16735314171f326d29-1"
       ],
       "settings": {
-        "height": "small",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-2",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 20,
+        "padding_bottom": 0
       }
     },
     "multicolumn": {
@@ -163,8 +158,8 @@
         "column-0": {
           "type": "column",
           "settings": {
-            "title": "Free Shipping",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "Easy Installation",
+            "text": "<p>Installation is easy and takes less than 30 minutes, from assembly to installation. Simply put it together, move it to the lake, select the area you want to control the muck and weeds, and set it. Removal is just as simple.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -172,8 +167,44 @@
         "column-1": {
           "type": "column",
           "settings": {
-            "title": "Hassle-Free Exchanges",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "Low Maintenance",
+            "text": "<p>Unlike other things on the lake that require constant maintenance, the LakeMat® or BoatLift Mat don’t require any extra attention. Set it and forget it – it’s as simple as that.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "88eb58d1-f255-42c6-a094-b04bd9b7ed37": {
+          "type": "column",
+          "settings": {
+            "title": "Environmentally Friendly",
+            "text": "<p>The Goodbye to Muck® Mats are a “green” solution to the lake problems you face. Unlike herbicides or other chemical solutions, they’re non-toxic, they don’t use chemicals, and they won’t disturb what’s good for the lake – <a href=\"http:\/\/www.cwss.org\/uploaded\/media_pdf\/3326-008_2003.pdf\">only the weeds and muck that can harm it<\/a>.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "0e77c136-d3c0-43be-aa42-a8d4716432eb": {
+          "type": "column",
+          "settings": {
+            "title": "Durable",
+            "text": "<p>Yes, our BoatLift Mats are built to <a href=\"https:\/\/betterboat.com\/pontoon\/average-pontoon-boat-weight-10-common-examples\/\">sustain the weight of your boat AND lift!<\/a> The frame is 1½” thick, aluminized steel, which does well against corrosion and rust. The fabric is a polypropylene woven mesh material which can hold up to 6,000 lbs once it’s assembled and placed properly. The material is expected to last longer than any boat or boat lift, so you won’t have to keep relacing it! It can even last in place during winter months!<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "d6aa1bef-7264-423e-8539-9e9277273873": {
+          "type": "column",
+          "settings": {
+            "title": "Breathable",
+            "text": "<p>As organic matter in the bottom of the lake decomposes, gases are released. Since the Goodbye to Muck® Mats are porous, they allow gases from underneath to escape. It also allows for water and smaller particles to move freely, so that the Mats don’t move.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "2d226f4d-4631-49e0-a06d-83d3a7b6495c": {
+          "type": "column",
+          "settings": {
+            "title": "Cost Effective",
+            "text": "<p>It’s usually a one-and-done purchase with any of the Goodbye to Muck® Mats, as they last a long time and don’t need to be replaced. The alternatives to <a href=\"https:\/\/www.goodbyetomuck.com\/blog\/how-to-get-rid-of-lake-weeds-and-muck\">controlling lake weeds and lake muck<\/a> can add up over time, costing you much more than what it would cost for one Mat (or however many you need for you lake).<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -181,7 +212,11 @@
       },
       "block_order": [
         "column-0",
-        "column-1"
+        "column-1",
+        "88eb58d1-f255-42c6-a094-b04bd9b7ed37",
+        "0e77c136-d3c0-43be-aa42-a8d4716432eb",
+        "d6aa1bef-7264-423e-8539-9e9277273873",
+        "2d226f4d-4631-49e0-a06d-83d3a7b6495c"
       ],
       "settings": {
         "title": "",
@@ -194,6 +229,49 @@
         "button_label": "",
         "button_link": "",
         "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 8,
+        "padding_bottom": 20
+      }
+    },
+    "504b8359-825f-463e-8e73-14313d297d09": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--17575199834416__504b8359-825f-463e-8e73-14313d297d09-1673531417b1ee0d2a-0": {
+          "type": "column",
+          "settings": {
+            "title": "Frustrated With Your Boat Lift Sinking Into the Muck?",
+            "text": "<p>If you’re anything like us, you’ve probably spent a lot of time and effort messing with your boat lift, to make sure it’s level, etc.<\/p><p>Maybe you’ve tried adding bigger pieces of metal, installing concrete bases or patio blocks, treated wood, or any other DIY solution to your boat lift, only for the lift to eventually sink right back down into the muck over time.<\/p><p>What’s worse, is the further into the muck the lift sinks, the more difficult it is to get it back out after your boat drives the lift deeper into the muck, season over season.<\/p><p>Additionally, we’ve had to replace dock poles and other lift parts because of the stress on the posts when trying to remove the lifts, which can get costly.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--17575199834416__504b8359-825f-463e-8e73-14313d297d09-1673531417b1ee0d2a-1": {
+          "type": "column",
+          "settings": {
+            "title": "Use a BoatLift Mat to Keep Your Boat Lift Above the Muck",
+            "text": "<p>Be the expert on the lake by installing a BoatLift Mat under your boat lift. Your neighbors and fellow boaters will wonder what your secret is to keeping your lift afloat.<\/p><p>By creating a more firm, sturdy, flat surface, the BoatLift Mat is the best way to keep your boat lift from sinking in the muck.<\/p><p>Not only will your lift stay level and secure, but you’ll also notice the water and shoreline around your dock and boat lift area is cleaner and clearer.<\/p><p>No more weeds, no more algae, no more muck. Your family, your guests, your boat lift, as well as the Division of Water Resources (DWR), or lake patrol, will all thank you for using the BoatLift Mat.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17575199834416__504b8359-825f-463e-8e73-14313d297d09-1673531417b1ee0d2a-0",
+        "template--17575199834416__504b8359-825f-463e-8e73-14313d297d09-1673531417b1ee0d2a-1"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "accent-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 36,
@@ -220,8 +298,9 @@
   },
   "order": [
     "main",
-    "image-with-text",
+    "def7ed24-ba89-439b-a785-3693c407ea6a",
     "multicolumn",
+    "504b8359-825f-463e-8e73-14313d297d09",
     "related-products"
   ]
 }
