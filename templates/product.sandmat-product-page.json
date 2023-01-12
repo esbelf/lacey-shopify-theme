@@ -216,12 +216,55 @@
         "padding_top": 36,
         "padding_bottom": 28
       }
+    },
+    "59107c89-a0f8-43fa-858e-2a9f941ad876": {
+      "type": "rich-text",
+      "blocks": {
+        "template--17575199867184__59107c89-a0f8-43fa-858e-2a9f941ad876-16735317692603da24-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>SandMats vs Other Products<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--17575199867184__59107c89-a0f8-43fa-858e-2a9f941ad876-16735317692603da24-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>You can use chemicals.<\/strong><\/p><p>These are quick and effective. However, they are expensive. They can also harm pond life, the water, and people who swim there. Chemicals can drift into yards and water supplies. To be used safely, chemicals must be applied by someone with special knowledge much like a specialist who applies lawn pesticides and herbicides. Because of their harmful, often deadly effects on flora, fauna, and people, many people avoid using chemicals to kill lake or pond weeds. Chemicals also do not aid in retaining sand.<\/p><p><strong><br\/>Some people opt for aerators or pond fountains.<\/strong><\/p><p>These products can keep docks, pond areas, and waterfronts clean. They will blast pond or lake weeds, muck, and decaying materials as far as hundred feet away. This keeps areas clear for water sports and swimming. This equipment uses high-velocity water propulsion. However, aerators and fountains merely move the debris away from an area. They do not dispose of it. Think of pond fountains as being like leaf blowers. Both move materials from one area to another. Aerators and fountains also do not retain sand. Moreover, their motion contributes to shifting, drifting, and sinking sand.<\/p><p>Notably less expensive, SandMats will retain beach sand, keep it from sinking into the muck at the bottom of your pond or lake.<br\/><br\/><\/p><p><strong>Sandmats are easy to install.<\/strong><\/p><p>They are safe, effective, long-lasting, and environmentally friendly.<\/p><p>They are an effective way to stop sand erosion and keep it from sinking into the muck at the bottom of your pond or lake.<\/p>"
+          }
+        },
+        "template--17575199867184__59107c89-a0f8-43fa-858e-2a9f941ad876-16735317692603da24-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--17575199867184__59107c89-a0f8-43fa-858e-2a9f941ad876-16735317692603da24-0",
+        "template--17575199867184__59107c89-a0f8-43fa-858e-2a9f941ad876-16735317692603da24-1",
+        "template--17575199867184__59107c89-a0f8-43fa-858e-2a9f941ad876-16735317692603da24-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
     "main",
     "image-with-text",
     "multicolumn",
-    "related-products"
+    "related-products",
+    "59107c89-a0f8-43fa-858e-2a9f941ad876"
   ]
 }
