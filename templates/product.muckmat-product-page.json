@@ -399,29 +399,22 @@
             "text": "<p><strong>Step 1 <\/strong>- Assemble MuckMat® in 30 minutes<br\/><br\/><strong>Step 2 <\/strong>- Place on the bottom of your lake. Easy to walk in with two people on both ends. The mat will slowly sink on its own.<br\/><\/p><p><strong>Step 3 <\/strong>-  Place a thin layer of sand. You can add more sand to create a thick beach if desired<\/p>",
             "text_style": "body"
           }
-        },
-        "template--17574336266544__6f94a351-6611-4fa7-9155-8e80304fa0de-1673532589e4399ca5-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
-          }
         }
       },
       "block_order": [
         "template--17574336266544__6f94a351-6611-4fa7-9155-8e80304fa0de-1673532589e4399ca5-0",
-        "template--17574336266544__6f94a351-6611-4fa7-9155-8e80304fa0de-1673532589e4399ca5-1",
-        "template--17574336266544__6f94a351-6611-4fa7-9155-8e80304fa0de-1673532589e4399ca5-2"
+        "template--17574336266544__6f94a351-6611-4fa7-9155-8e80304fa0de-1673532589e4399ca5-1"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/beach-steps-square-min.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
-        "layout": "image_first",
+        "layout": "text_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
+        "color_scheme": "inverse",
+        "mobile_content_alignment": "center",
         "padding_top": 36,
         "padding_bottom": 36
       }
