@@ -15,28 +15,40 @@
           "type": "testimonial",
           "settings": {
             "customer_name": "james",
-            "testimonial_text": "<p>another fantastic review<\/p>"
+            "testimonial_text": "<p>another fantastic review<\/p>",
+            "stars": "1"
           }
         },
         "template--17589790736688__b1c13304-6dc8-487b-866e-0d8ff5ec45ce-16736282393f26fd7d-1": {
           "type": "testimonial",
           "settings": {
             "customer_name": "asdfasdf",
-            "testimonial_text": "<p>great product<\/p>"
+            "testimonial_text": "<p>great product<\/p>",
+            "stars": "1"
           }
         },
         "template--17589790736688__b1c13304-6dc8-487b-866e-0d8ff5ec45ce-16736282393f26fd7d-2": {
           "type": "testimonial",
           "settings": {
-            "customer_name": "asdf",
-            "testimonial_text": "<p>asdf<\/p>"
+            "customer_name": "test name",
+            "testimonial_text": "<p>Easy to assemble the lake mat. Grand kids now love the water!<\/p>",
+            "stars": "1"
+          }
+        },
+        "0ac4e902-7383-41e5-9f50-8f813620b6a8": {
+          "type": "testimonial",
+          "settings": {
+            "customer_name": "another",
+            "testimonial_text": "<p>asdfasdf<\/p>",
+            "stars": "2"
           }
         }
       },
       "block_order": [
         "template--17589790736688__b1c13304-6dc8-487b-866e-0d8ff5ec45ce-16736282393f26fd7d-0",
         "template--17589790736688__b1c13304-6dc8-487b-866e-0d8ff5ec45ce-16736282393f26fd7d-1",
-        "template--17589790736688__b1c13304-6dc8-487b-866e-0d8ff5ec45ce-16736282393f26fd7d-2"
+        "template--17589790736688__b1c13304-6dc8-487b-866e-0d8ff5ec45ce-16736282393f26fd7d-2",
+        "0ac4e902-7383-41e5-9f50-8f813620b6a8"
       ],
       "settings": {
       }
