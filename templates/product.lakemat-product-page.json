@@ -85,8 +85,15 @@
             "page": ""
           }
         },
+        "e04340f0-7470-40b8-8ce5-cde9769a380b": {
+          "type": "sku",
+          "settings": {
+            "text_style": "body"
+          }
+        },
         "share": {
           "type": "share",
+          "disabled": true,
           "settings": {
             "share_label": "Share"
           }
@@ -105,6 +112,7 @@
         "collapsible-row-1",
         "collapsible-row-2",
         "collapsible-row-3",
+        "e04340f0-7470-40b8-8ce5-cde9769a380b",
         "share"
       ],
       "settings": {
