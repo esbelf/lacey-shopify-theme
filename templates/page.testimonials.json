@@ -14,33 +14,211 @@
         "template--17589790736688__b1c13304-6dc8-487b-866e-0d8ff5ec45ce-16736282393f26fd7d-0": {
           "type": "testimonial",
           "settings": {
-            "customer_name": "james",
-            "testimonial_text": "<p>another fantastic review<\/p>",
-            "stars": "1"
+            "customer_name": "Dave",
+            "testimonial_title": "Easy to assemble the lake mat",
+            "testimonial_text": "<p>Easy to assemble the lake mat. Grand kids now love the water!<\/p>",
+            "testimonial_location": "CA",
+            "stars": "5"
           }
         },
         "template--17589790736688__b1c13304-6dc8-487b-866e-0d8ff5ec45ce-16736282393f26fd7d-1": {
           "type": "testimonial",
           "settings": {
-            "customer_name": "asdfasdf",
-            "testimonial_text": "<p>great product<\/p>",
-            "stars": "1"
+            "customer_name": "P. Gagnon",
+            "testimonial_title": "Great Product",
+            "testimonial_text": "<p>High quality product. Delivery was quick. Assembly was easy. Hopeful this will help in controlling the weed growth in our pond.<\/p>",
+            "testimonial_location": "US",
+            "stars": "5"
           }
         },
         "template--17589790736688__b1c13304-6dc8-487b-866e-0d8ff5ec45ce-16736282393f26fd7d-2": {
           "type": "testimonial",
           "settings": {
-            "customer_name": "test name",
-            "testimonial_text": "<p>Easy to assemble the lake mat. Grand kids now love the water!<\/p>",
-            "stars": "1"
+            "customer_name": "David Yokom",
+            "testimonial_title": "These products are fantastic!",
+            "testimonial_text": "<p>These products are fantastic - we have two Muck Mats and a Lake Mat - and if I could show a picture, I would! The mats are easy to put together, and light-weight enough to install. We were impressed with the engineering - it's early days, but they definitely covered a lot of weeds quickly. Interested to see how the Lake Mat moves around the bay - but highly recommend the product for anyone looking to get rid of weeds, or put a mat down overtop some muck!<\/p>",
+            "testimonial_location": "CA",
+            "stars": "5"
           }
         },
         "0ac4e902-7383-41e5-9f50-8f813620b6a8": {
           "type": "testimonial",
           "settings": {
-            "customer_name": "another",
-            "testimonial_text": "<p>asdfasdf<\/p>",
-            "stars": "2"
+            "customer_name": "Gus V",
+            "testimonial_title": "Excellent service",
+            "testimonial_text": "<p>Excellent service. I called as I was having an issue and they jumped to resolve it. I will be telling our neighbours about this product<\/p>",
+            "testimonial_location": "CA",
+            "stars": "5"
+          }
+        },
+        "7e49d9fb-166d-4da1-9b35-19e24fc5fb9b": {
+          "type": "testimonial",
+          "settings": {
+            "customer_name": "Thane Johnson",
+            "testimonial_title": "Great solution for our pond",
+            "testimonial_text": "<p>Great solution for our pond<\/p>",
+            "testimonial_location": "US",
+            "stars": "5"
+          }
+        },
+        "92cace23-7628-4ff2-a2a6-e9a9badf8d00": {
+          "type": "testimonial",
+          "settings": {
+            "customer_name": "M.B.",
+            "testimonial_title": "I love my MuckMat!",
+            "testimonial_text": "<p>I love my MuckMat!! It enables me to wade in my pond over muck which is like quicksand! Ingenious design, like a snowshoe over muck!!!<\/p>",
+            "testimonial_location": "US",
+            "stars": "5"
+          }
+        },
+        "6c1232ce-c1ce-4b83-9131-d4df6eb2b10d": {
+          "type": "testimonial",
+          "settings": {
+            "customer_name": "Mark lux",
+            "testimonial_title": "I now have 3 mats at my beach",
+            "testimonial_text": "<p>I now have 3 mats at my beach. I installed the 1st mat 5 years ago. I’ve added sand on top of them giving me a nice play area for grandkids. I also have another mat that is supporting my boat lift. Great product if you have a lot of muck like I have (10’ deep)<\/p>",
+            "testimonial_location": "US",
+            "stars": "5"
+          }
+        },
+        "96aebf9b-124f-4edb-86a7-19024471c7e5": {
+          "type": "testimonial",
+          "settings": {
+            "customer_name": "Tracey",
+            "testimonial_title": "installed on our lake shore by my son...",
+            "testimonial_text": "<p>installed on our lake shore by my son and friends last year. It does a great job of keeping the area muck free although periodically I use a push broom to try and rid the area of accumulated leaves and debris. It is impossible to move though...the force of water prevents lifting. Also avoid the plastic grid type edge as it is very sharp and will cut feet. Overall very pleased with the product.<\/p>",
+            "testimonial_location": "US",
+            "stars": "4"
+          }
+        },
+        "8118e79e-8e7f-4ffe-8d84-df06c30d56ae": {
+          "type": "testimonial",
+          "settings": {
+            "customer_name": "Tom Colosimo",
+            "testimonial_title": "Excellent 1st Prize for our Annual Drawing",
+            "testimonial_text": "<p>We have ordered these Ex-Large MuckMat Pro weed mats as the #1 prize for our annual drawing of contributors for our Inlet weed treatments. They have been extremely well received and contributors have been super excited when notified they were drawn first. Excellent customer service and prompt delivery.<\/p>",
+            "testimonial_location": "US",
+            "stars": "5"
+          }
+        },
+        "1d5451df-d10d-42c0-8e1e-642125505499": {
+          "type": "testimonial",
+          "settings": {
+            "customer_name": "Sarah Edwards",
+            "testimonial_title": "I had a great experience!",
+            "testimonial_text": "<p>I had a great experience ordering, receiving our delivery, and installing our muck mat. The installation was so easy, my husband and I did it in a day. Putting the mat in place was easy, and very reasonable in price. We did rent a small bobcat to move sand to our beach, but that was a small fee compared to the use and enjoyment we've gotten from our beach. A couple years later, and our mat has held up great! Way better than dumping chemicals in our water. Very happy customer!<\/p>",
+            "testimonial_location": "US",
+            "stars": "5"
+          }
+        },
+        "b8d90c0d-9a74-4ada-9511-d58c6259f20f": {
+          "type": "testimonial",
+          "settings": {
+            "customer_name": "Austin",
+            "testimonial_title": "Better at the Beach",
+            "testimonial_text": "<p>The Lake Mat has changed the swimming experience for our family at our pond. It is no longer slippery,and the sharp Little Rock’s are covered by the mat. My kids can play at the beach and wade into the water. Before we would have a ham at the dock latter, and water shoes had to be worn.<\/p>",
+            "testimonial_location": "US",
+            "stars": "4"
+          }
+        },
+        "03c80fb2-3c64-4f33-9eee-f5575ba1830e": {
+          "type": "testimonial",
+          "settings": {
+            "customer_name": "Teresa",
+            "testimonial_title": "This has helped us to get rid of...",
+            "testimonial_text": "<p>This has helped us to get rid of seaweed and yuk and also allows us to walk in the water without sinking in muk past our ankles. We’ve had our mat for one season and loved it so far. We would like to get another<\/p>",
+            "testimonial_location": "US",
+            "stars": "5"
+          }
+        },
+        "bd4ae4e5-a14f-4926-a293-9fcd7c445c01": {
+          "type": "testimonial",
+          "settings": {
+            "customer_name": "Charlie",
+            "testimonial_title": "Concerning my beach mat purchase:",
+            "testimonial_text": "<p>Concerning my beach mat purchase: This is a great company with a great product. The company is great because the owner wants to assist you to accomplish your goal with his product and tries very hard to do so. The response to customers is prompt and helpful. The product is great because it is well thought out and made from top quality material.<\/p>",
+            "testimonial_location": "US",
+            "stars": "5"
+          }
+        },
+        "24984a5c-49f1-4d56-9986-c8b6873202f5": {
+          "type": "testimonial",
+          "settings": {
+            "customer_name": "DEENA A",
+            "testimonial_title": "We bought 2 of these last year",
+            "testimonial_text": "<p>We bought 2 of these last year, and we bout 2 more large ones this year! LOVE these!!!!<\/p>",
+            "testimonial_location": "US",
+            "stars": "5"
+          }
+        },
+        "b3501a6c-ee6f-43d5-ac5b-1e79d2b6e77c": {
+          "type": "testimonial",
+          "settings": {
+            "customer_name": "JIM",
+            "testimonial_title": "Worked Great",
+            "testimonial_text": "",
+            "testimonial_location": "US",
+            "stars": "5"
+          }
+        },
+        "5502f0f9-5927-4157-9e0d-c8898007ccac": {
+          "type": "testimonial",
+          "settings": {
+            "customer_name": "D Friary",
+            "testimonial_title": "The product shipped to Canada in a…",
+            "testimonial_text": "<p>The product shipped to Canada in a couple days and has been in for a year now . It exceeded our expectations and was easy to assemble and install . We would certainly recommend and would be interested in purchasing an additional mat .<\/p>",
+            "testimonial_location": "CA",
+            "stars": "5"
+          }
+        },
+        "3fa8c1f5-245a-4962-accc-6e8f5ccabd95": {
+          "type": "testimonial",
+          "settings": {
+            "customer_name": "Sue",
+            "testimonial_title": "No more sinking into the muck!",
+            "testimonial_text": "<p>We purchased a muck mat two years ago. It was easy to put together and put in the lake with four people carrying it. It worked well keeping the muck below the mat. Last year, we tried to move the mat but could not without the bottom grid ripping off the mat. Still, we purchased another mat knowing that we can't move it this time.<\/p>",
+            "testimonial_location": "US",
+            "stars": "4"
+          }
+        },
+        "93b12d9c-e90c-4543-aaf7-fd871ad2a0c4": {
+          "type": "testimonial",
+          "settings": {
+            "customer_name": "Jodi",
+            "testimonial_title": "We've had our muck mat for about a year…",
+            "testimonial_text": "<p>We've had our muck mat for about a year now, and we couldn't be happier with our purchase! The coveted area has stayed clean of weeds and we don't sink in muck. We will be purchasing another one soon! Thanks for a great product!!<\/p>",
+            "testimonial_location": "US",
+            "stars": "5"
+          }
+        },
+        "3b3d5dab-2445-4271-b39e-cdd337cb4e16": {
+          "type": "testimonial",
+          "settings": {
+            "customer_name": "Unknown",
+            "testimonial_title": "Water lilies",
+            "testimonial_text": "<p>We had an explosion of water lily growth in our small lake. The mats Absolutely worked. A brilliant, natural and green solution which was easy to implement. Best is we were able to avoid the alternative of spraying weed killer into the lake. The mats aren’t visible.<\/p>",
+            "testimonial_location": "Sperryville VA",
+            "stars": "5"
+          }
+        },
+        "66696f91-2a89-4335-8a1d-7e34ef14ff42": {
+          "type": "testimonial",
+          "settings": {
+            "customer_name": "Joanna Callaway",
+            "testimonial_title": "Our Lake Mats are fantastic",
+            "testimonial_text": "<p>Our Lake Mats are fantastic. We put them down, laid sand on top and are good to go for a fun summer. We were concerned because we are on a big slope but the mats have really kept the sand in place and the weeds and muk are gone!<\/p>",
+            "testimonial_location": "US",
+            "stars": "5"
+          }
+        },
+        "16228c0c-989e-4a47-aea9-0cba598751dd": {
+          "type": "testimonial",
+          "settings": {
+            "customer_name": "customer",
+            "testimonial_title": "Mat is Constructed well but the Stakes were Useless",
+            "testimonial_text": "<p>Ordering was a simple process. Shipping was prompt. Installation took two strong middle age guys. The stakes that came with the mat were useless. I purchased long plastic auger camping stakes the worked fine. Just installed it so I have no experience with how effective the is controlling the weeds. In two months I will try to reposition it and I’ll see how difficult it is to move.<\/p>",
+            "testimonial_location": "US",
+            "stars": "5"
           }
         }
       },
@@ -48,7 +226,24 @@
         "template--17589790736688__b1c13304-6dc8-487b-866e-0d8ff5ec45ce-16736282393f26fd7d-0",
         "template--17589790736688__b1c13304-6dc8-487b-866e-0d8ff5ec45ce-16736282393f26fd7d-1",
         "template--17589790736688__b1c13304-6dc8-487b-866e-0d8ff5ec45ce-16736282393f26fd7d-2",
-        "0ac4e902-7383-41e5-9f50-8f813620b6a8"
+        "0ac4e902-7383-41e5-9f50-8f813620b6a8",
+        "7e49d9fb-166d-4da1-9b35-19e24fc5fb9b",
+        "92cace23-7628-4ff2-a2a6-e9a9badf8d00",
+        "6c1232ce-c1ce-4b83-9131-d4df6eb2b10d",
+        "96aebf9b-124f-4edb-86a7-19024471c7e5",
+        "8118e79e-8e7f-4ffe-8d84-df06c30d56ae",
+        "1d5451df-d10d-42c0-8e1e-642125505499",
+        "b8d90c0d-9a74-4ada-9511-d58c6259f20f",
+        "03c80fb2-3c64-4f33-9eee-f5575ba1830e",
+        "bd4ae4e5-a14f-4926-a293-9fcd7c445c01",
+        "24984a5c-49f1-4d56-9986-c8b6873202f5",
+        "b3501a6c-ee6f-43d5-ac5b-1e79d2b6e77c",
+        "5502f0f9-5927-4157-9e0d-c8898007ccac",
+        "3fa8c1f5-245a-4962-accc-6e8f5ccabd95",
+        "93b12d9c-e90c-4543-aaf7-fd871ad2a0c4",
+        "3b3d5dab-2445-4271-b39e-cdd337cb4e16",
+        "66696f91-2a89-4335-8a1d-7e34ef14ff42",
+        "16228c0c-989e-4a47-aea9-0cba598751dd"
       ],
       "settings": {
       }
