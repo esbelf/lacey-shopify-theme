@@ -169,6 +169,25 @@
                     {%- endform -%}
                   </div>
                 {%- endif -%}
+              {%- when 'trustpilot' -%}
+                <div
+                  className="mb-5 mt-3 trustpilot-widget"
+                  data-locale="en-US"
+                  data-template-id="5419b6a8b0d04a076446a9ad"
+                  data-businessunit-id="6250052b6d362e6ca97f041e"
+                  data-style-height="24px"
+                  data-style-width="100%"
+                  data-theme="light"
+                  data-min-review-count="10"
+                >
+                  <a
+                    href="https://www.trustpilot.com/review/goodbyetomuck.com"
+                    target="_blank"
+                    rel="noopener"
+                  >
+                    Trustpilot Reviews
+                  </a>
+                </div>
               {%- when 'sku' -%}
                 <p
                   class="product__sku no-js-hidden{% if block.settings.text_style == 'uppercase' %} caption-with-letter-spacing{% elsif block.settings.text_style == 'subtitle' %} subtitle{% endif %}{% if product.selected_or_first_available_variant.sku.size == 0 %} visibility-hidden{% endif %}"
