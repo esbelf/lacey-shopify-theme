@@ -15,6 +15,11 @@
           "settings": {
           }
         },
+        "04b31cfe-31fd-496e-9b7b-29cf50accdf0": {
+          "type": "trustpilot",
+          "settings": {
+          }
+        },
         "caption": {
           "type": "text",
           "settings": {
@@ -95,6 +100,7 @@
       "block_order": [
         "vendor",
         "title",
+        "04b31cfe-31fd-496e-9b7b-29cf50accdf0",
         "caption",
         "price",
         "variant_picker",
