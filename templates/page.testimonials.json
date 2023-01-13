@@ -7,94 +7,42 @@
         "padding_bottom": 0
       }
     },
-    "81e482c6-072b-45c2-b8c1-6a1027fd0c32": {
-      "type": "video-with-text",
+    "b1c13304-6dc8-487b-866e-0d8ff5ec45ce": {
+      "type": "testimonials-page",
       "blocks": {
-        "template--17548613452080__81e482c6-072b-45c2-b8c1-6a1027fd0c32-167346050085ed931f-1": {
-          "type": "text",
+        "template--17589790736688__b1c13304-6dc8-487b-866e-0d8ff5ec45ce-16736282393f26fd7d-0": {
+          "type": "testimonial",
           "settings": {
-            "text": "<p>Goodbye To Muck & Weeds® offers environmentally-friendly alternatives to eliminate aquatic lakeweeds and control muck (mud) in lakes, rivers, and ponds.<\/p><p>We developed our flagship products, LakeMats® and MuckMats®, over a decade ago out of necessity in Grand Rapids, Michigan USA<\/p><p>Simply put, we were tired of constantly raking weeds, sinking into the muck, and HATED the idea of throwing herbicides and other chemicals into the lake to control the weeds.<\/p><p>Since that moment, we have expanded from the United States to Canada and, as of 2021, Europe.<\/p><p>Our EU base is in Barcelona, Spain, which allows us to offer FREE shipping across the EU and the UK. There we source over 70% of our product from within Spain, helping to support the local economy and grow a sustainable business.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--17548613452080__81e482c6-072b-45c2-b8c1-6a1027fd0c32-167346050085ed931f-1"
-      ],
-      "settings": {
-        "color_scheme": "background-1",
-        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/8f4963056f074d3dacd39af7ecd96c3e.mp4",
-        "height": "adapt",
-        "layout": "text_first"
-      }
-    },
-    "ce70eda5-eda8-4c98-b346-3649b3d0acb5": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--17548613452080__ce70eda5-eda8-4c98-b346-3649b3d0acb5-16734450090787cb68-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Who are we?",
-            "heading_size": "h1"
+            "customer_name": "james",
+            "testimonial_text": "<p>another<\/p>"
           }
         },
-        "template--17548613452080__ce70eda5-eda8-4c98-b346-3649b3d0acb5-16734450090787cb68-1": {
-          "type": "text",
+        "template--17589790736688__b1c13304-6dc8-487b-866e-0d8ff5ec45ce-16736282393f26fd7d-1": {
+          "type": "testimonial",
           "settings": {
-            "text": "<p>Goodbye To Muck & Weeds® offers environmentally-friendly alternatives to eliminate aquatic lakeweeds and control muck (mud) in lakes, rivers, and ponds.<\/p><p>We developed our flagship products, LakeMats® and MuckMats®, over a decade ago out of necessity in Grand Rapids, Michigan USA<\/p><p>Simply put, we were tired of constantly raking weeds, sinking into the muck, and HATED the idea of throwing herbicides and other chemicals into the lake to control the weeds.<\/p><p>Since that moment, we have expanded from the United States to Canada and, as of 2021, Europe.<\/p><p>Our EU base is in Barcelona, Spain, which allows us to offer FREE shipping across the EU and the UK. There we source over 70% of our product from within Spain, helping to support the local economy and grow a sustainable business.<\/p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "template--17548613452080__ce70eda5-eda8-4c98-b346-3649b3d0acb5-16734450090787cb68-0",
-        "template--17548613452080__ce70eda5-eda8-4c98-b346-3649b3d0acb5-16734450090787cb68-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/aboutus-min.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "9212795d-a9f2-4498-b9bc-5dcd4b5b040d": {
-      "type": "video-with-text",
-      "blocks": {
-        "template--17548613452080__9212795d-a9f2-4498-b9bc-5dcd4b5b040d-1673461402e5b1f8d7-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Environmentally Friendly"
+            "customer_name": "",
+            "testimonial_text": ""
           }
         },
-        "template--17548613452080__9212795d-a9f2-4498-b9bc-5dcd4b5b040d-1673461402e5b1f8d7-1": {
-          "type": "text",
+        "template--17589790736688__b1c13304-6dc8-487b-866e-0d8ff5ec45ce-16736282393f26fd7d-2": {
+          "type": "testimonial",
           "settings": {
-            "text": "<p>Our mats are the least intrusive solution for controlling lake weeds & muck. Our unique fabric is gas and water permeable, it cannot harm fish and all other lakes \"residents.\" It allows the benthic microorganisms to do their job, keeping your lake clean. Unlike toxic chemicals that spread over large areas, the small footprint of our Mat controls only the limited area you need clear to get kayaks, boats, or people in and out of the lake.<\/p>"
+            "customer_name": "",
+            "testimonial_text": ""
           }
         }
       },
       "block_order": [
-        "template--17548613452080__9212795d-a9f2-4498-b9bc-5dcd4b5b040d-1673461402e5b1f8d7-0",
-        "template--17548613452080__9212795d-a9f2-4498-b9bc-5dcd4b5b040d-1673461402e5b1f8d7-1"
+        "template--17589790736688__b1c13304-6dc8-487b-866e-0d8ff5ec45ce-16736282393f26fd7d-0",
+        "template--17589790736688__b1c13304-6dc8-487b-866e-0d8ff5ec45ce-16736282393f26fd7d-1",
+        "template--17589790736688__b1c13304-6dc8-487b-866e-0d8ff5ec45ce-16736282393f26fd7d-2"
       ],
       "settings": {
-        "color_scheme": "background-1",
-        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/07b1100a4994433f808ab2140d87ccf9.mp4",
-        "height": "adapt",
-        "layout": "text_first"
       }
     }
   },
   "order": [
     "main",
-    "81e482c6-072b-45c2-b8c1-6a1027fd0c32",
-    "ce70eda5-eda8-4c98-b346-3649b3d0acb5",
-    "9212795d-a9f2-4498-b9bc-5dcd4b5b040d"
+    "b1c13304-6dc8-487b-866e-0d8ff5ec45ce"
   ]
 }
