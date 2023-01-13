@@ -53,9 +53,19 @@
         "padding_top": 24,
         "padding_bottom": 24
       }
+    },
+    "ef6a7dcf-9279-4577-ae8f-49b8c43e36cb": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<p>Our products are registered and protected by the USPTO and EUIPOGoodbye to Muck & Weeds, Sociedad Limitada does not warrant that the re-creation, re-use or sale of any of its products by any unauthorized parties.<\/p>",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
-    "footer"
+    "footer",
+    "ef6a7dcf-9279-4577-ae8f-49b8c43e36cb"
   ]
 }
