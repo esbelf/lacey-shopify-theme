@@ -5,6 +5,7 @@
       "blocks": {
         "heading": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "Image banner",
             "heading_size": "h0"
@@ -12,6 +13,7 @@
         },
         "text": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "Give customers details about the banner image(s) or content on the template.",
             "text_style": "body"
@@ -19,6 +21,7 @@
         },
         "button": {
           "type": "buttons",
+          "disabled": true,
           "settings": {
             "button_label_1": "Shop all",
             "button_link_1": "shopify:\/\/collections\/all",
@@ -36,7 +39,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/sand_main_home.png",
-        "image_overlay_opacity": 50,
+        "image_overlay_opacity": 0,
         "image_height": "large",
         "desktop_content_position": "bottom-center",
         "show_text_box": false,
@@ -47,34 +50,95 @@
         "show_text_below": false
       }
     },
-    "rich_text": {
-      "type": "rich-text",
+    "934d7a8d-7619-458e-b8ee-9ce685ce058d": {
+      "type": "video-with-text",
       "blocks": {
-        "heading": {
+        "template--17548616237360__934d7a8d-7619-458e-b8ee-9ce685ce058d-16735340201090ad98-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Talk about your brand<\/p>",
-            "heading_size": "h1"
+            "heading": "Why the MuckMat® is Best"
           }
         },
-        "text": {
+        "template--17548616237360__934d7a8d-7619-458e-b8ee-9ce685ce058d-16735340201090ad98-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+            "text": "<p>Our LakeMats® and MuckMats® are chemical-free, affordable, and environmentally friendly alternatives to fight against lake weeds and muck.<\/p><p><strong>Creates a firm lake bottom<\/strong><\/p><p><strong>Eliminates weeds!<\/strong><\/p><p><strong>ncludes high quality matierals: patented mat, frame and geogrid<\/strong><\/p>"
+          }
+        },
+        "template--17548616237360__934d7a8d-7619-458e-b8ee-9ce685ce058d-16735340201090ad98-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop Now",
+            "button_link": "shopify:\/\/products\/muckmat"
           }
         }
       },
       "block_order": [
-        "heading",
-        "text"
+        "template--17548616237360__934d7a8d-7619-458e-b8ee-9ce685ce058d-16735340201090ad98-0",
+        "template--17548616237360__934d7a8d-7619-458e-b8ee-9ce685ce058d-16735340201090ad98-1",
+        "template--17548616237360__934d7a8d-7619-458e-b8ee-9ce685ce058d-16735340201090ad98-2"
       ],
       "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
         "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 0
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/d0be4f8519344a7bb1a326372ab6108b.mp4",
+        "height": "adapt",
+        "layout": "text_first"
+      }
+    },
+    "multicolumn": {
+      "type": "multicolumn",
+      "blocks": {
+        "column1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/how-muckmat-works-1-min.jpg",
+            "title": "Unique Mat, Frame and Geogrid",
+            "text": "<p>Eliminates weeds through preventing photosynthesis<br\/>Water and gas permeable to not harm the natural ecosystem<br\/>Non-woven geotextile - won’t catch fish hooks or other debris<br\/>Geogrid - stops you from sinking in the muck<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/how-muckmat-works-2-min.jpg",
+            "title": "Installed MuckMat®",
+            "text": "<p>Creates a firm and secure lake bottom<br\/>Geogrid and framed-mat stabilizes the loose sediments and stops you from sinking - the “snow shoe effect”<\/p><p>High strength - place you dock or boatlift on our mats!<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/how-muckmat-works-3-min.jpg",
+            "title": "MuckMat® on the Lakebottom",
+            "text": "<p>No surprises - walking and swimming safe lakebottom<br\/>No sinking & no lake weeds<br\/>Pleasant and non-slippery surface<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column1",
+        "column2",
+        "column3"
+      ],
+      "settings": {
+        "title": "How the MuckMat® works?",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 20,
+        "padding_bottom": 20
       }
     },
     "featured_collection": {
@@ -103,119 +167,12 @@
         "padding_top": 28,
         "padding_bottom": 36
       }
-    },
-    "collage": {
-      "type": "collage",
-      "blocks": {
-        "collection-0": {
-          "type": "collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "product": {
-          "type": "product",
-          "settings": {
-            "product": "",
-            "second_image": false
-          }
-        },
-        "collection-1": {
-          "type": "collection",
-          "settings": {
-            "collection": ""
-          }
-        }
-      },
-      "block_order": [
-        "collection-0",
-        "product",
-        "collection-1"
-      ],
-      "settings": {
-        "heading": "Multimedia collage",
-        "heading_size": "h2",
-        "desktop_layout": "left",
-        "mobile_layout": "collage",
-        "card_styles": "product-card-wrapper",
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "video": {
-      "type": "video",
-      "settings": {
-        "heading": "",
-        "heading_size": "h1",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "description": "",
-        "full_width": false,
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "multicolumn": {
-      "type": "multicolumn",
-      "blocks": {
-        "column1": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column2": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column3": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column1",
-        "column2",
-        "column3"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "third",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "center",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
     "image_banner",
-    "rich_text",
-    "featured_collection",
-    "collage",
-    "video",
-    "multicolumn"
+    "934d7a8d-7619-458e-b8ee-9ce685ce058d",
+    "multicolumn",
+    "featured_collection"
   ]
 }

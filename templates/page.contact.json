@@ -2,9 +2,40 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "8d96cd0e-0aa2-44c6-af0c-33d1746e3554": {
+      "type": "rich-text",
+      "blocks": {
+        "template--17548613648688__8d96cd0e-0aa2-44c6-af0c-33d1746e3554-1673535205375f0c90-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Contact Us<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--17548613648688__8d96cd0e-0aa2-44c6-af0c-33d1746e3554-1673535205375f0c90-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Questions, reach us directly<br\/><br\/><strong>Our Email<\/strong>: <a href=\"mailto:admin@goodbyetomuck.com\">admin@goodbyetomuck.com<\/a><br\/><br\/><strong>Live Chat<\/strong><\/p><p>give us a call or send us a message using the insite messaging system on the bottom right<br\/><br\/><\/p><p><strong>Our Number<\/strong>: <a href=\"tel:441223926587\">+44 1223 92 658<br\/><\/a><br\/><strong>Our WhatsApp<\/strong>: <a href=\"tel:34674152312\">+34 674 152 312<\/a><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--17548613648688__8d96cd0e-0aa2-44c6-af0c-33d1746e3554-1673535205375f0c90-0",
+        "template--17548613648688__8d96cd0e-0aa2-44c6-af0c-33d1746e3554-1673535205375f0c90-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 20,
+        "padding_bottom": 16
       }
     },
     "form": {
@@ -20,6 +51,7 @@
   },
   "order": [
     "main",
+    "8d96cd0e-0aa2-44c6-af0c-33d1746e3554",
     "form"
   ]
 }
