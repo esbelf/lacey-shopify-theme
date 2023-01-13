@@ -376,6 +376,7 @@
     },
     "172f7eec-48a3-44fe-9d41-001b216326d3": {
       "type": "image-banner",
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/sand_main_home.png",
         "image_overlay_opacity": 0,
@@ -387,6 +388,14 @@
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": true
+      }
+    },
+    "7f2d188d-6a63-4811-9f09-a4665395fef2": {
+      "type": "dynamic-image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/sand_main_home.png",
+        "image_2": "shopify:\/\/shop_images\/sand_main_home_mobile.png",
+        "color_scheme": "background-1"
       }
     },
     "6f94a351-6611-4fa7-9155-8e80304fa0de": {
@@ -452,6 +461,7 @@
     "multicolumn",
     "2a975f59-16a0-430b-8a7e-48ea9a39f9f9",
     "172f7eec-48a3-44fe-9d41-001b216326d3",
+    "7f2d188d-6a63-4811-9f09-a4665395fef2",
     "6f94a351-6611-4fa7-9155-8e80304fa0de",
     "related-products"
   ]
