@@ -25,12 +25,20 @@
             "heading": "Our Promises",
             "subtext": "<p>Free delivery and returns<\/p><p><\/p><p>100-day return policy<\/p><p><\/p><p>Flexible payment options<\/p>"
           }
+        },
+        "a460678d-8c1a-431b-9481-2c4657eb5460": {
+          "type": "text",
+          "settings": {
+            "heading": "",
+            "subtext": "<p>Our products are registered and protected by the USPTO and EUIPO<\/p><p>Goodbye to Muck & Weeds, Sociedad Limitada does not warrant that the re-creation, re-use or sale of any of its products by any unauthorized parties.<\/p>"
+          }
         }
       },
       "block_order": [
         "footer-0",
         "footer-1",
-        "footer-2"
+        "footer-2",
+        "a460678d-8c1a-431b-9481-2c4657eb5460"
       ],
       "settings": {
         "color_scheme": "accent-1",
@@ -38,7 +46,7 @@
         "newsletter_heading": "Subscribe to our email list for discounts & promotions",
         "show_social": true,
         "enable_country_selector": true,
-        "enable_language_selector": false,
+        "enable_language_selector": true,
         "payment_enable": true,
         "show_policy": false,
         "margin_top": 48,
