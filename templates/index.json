@@ -1,7 +1,16 @@
 {
   "sections": {
+    "99a97d6e-10fe-47f2-9edf-883a4a87e116": {
+      "type": "dynamic-image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/sand_main_home.png",
+        "image_2": "shopify:\/\/shop_images\/sand_main_home_mobile.png",
+        "color_scheme": "background-1"
+      }
+    },
     "image_banner": {
       "type": "image-banner",
+      "disabled": true,
       "blocks": {
         "heading": {
           "type": "heading",
@@ -170,6 +179,7 @@
     }
   },
   "order": [
+    "99a97d6e-10fe-47f2-9edf-883a4a87e116",
     "image_banner",
     "934d7a8d-7619-458e-b8ee-9ce685ce058d",
     "multicolumn",
