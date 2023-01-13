@@ -9,7 +9,7 @@
           "type": "link_list",
           "settings": {
             "heading": "Products",
-            "menu": "footer"
+            "menu": "products"
           }
         },
         "footer-1": {
@@ -22,8 +22,8 @@
         "footer-2": {
           "type": "text",
           "settings": {
-            "heading": "Our mission",
-            "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
+            "heading": "Our Promises",
+            "subtext": "<p>Free delivery and returns<\/p><p><\/p><p>100-day return policy<\/p><p><\/p><p>Flexible payment options<\/p>"
           }
         }
       },
