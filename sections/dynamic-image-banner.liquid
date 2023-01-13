@@ -1,7 +1,7 @@
 {{ 'section-dynamic-image-banner.css' | asset_url | stylesheet_tag }}
 
 <div
-  id="Banner-{{ section.id }}"
+  id="Dynamic-Banner-{{ section.id }}"
   class="banner"
 >
   {%- if section.settings.image != blank -%}
@@ -84,26 +84,6 @@
     },
     {
       "type": "select",
-      "id": "desktop_content_alignment",
-      "options": [
-        {
-          "value": "left",
-          "label": "t:sections.image-banner.settings.desktop_content_alignment.options__1.label"
-        },
-        {
-          "value": "center",
-          "label": "t:sections.image-banner.settings.desktop_content_alignment.options__2.label"
-        },
-        {
-          "value": "right",
-          "label": "t:sections.image-banner.settings.desktop_content_alignment.options__3.label"
-        }
-      ],
-      "default": "center",
-      "label": "t:sections.image-banner.settings.desktop_content_alignment.label"
-    },
-    {
-      "type": "select",
       "id": "color_scheme",
       "options": [
         {
@@ -130,11 +110,11 @@
       "default": "background-1",
       "label": "t:sections.all.colors.label",
       "info": "t:sections.image-banner.settings.color_scheme.info"
-    },
+    }
   ],
   "presets": [
     {
-      "name": "Dynamic Image Banner",
+      "name": "Dynamic Image Banner"
     }
   ]
 }
