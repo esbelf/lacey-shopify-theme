@@ -15,7 +15,7 @@
           "type": "testimonial",
           "settings": {
             "customer_name": "james",
-            "testimonial_text": "<p>another<\/p>"
+            "testimonial_text": "<p>another fantastic review<\/p>"
           }
         },
         "template--17589790736688__b1c13304-6dc8-487b-866e-0d8ff5ec45ce-16736282393f26fd7d-1": {
@@ -28,8 +28,8 @@
         "template--17589790736688__b1c13304-6dc8-487b-866e-0d8ff5ec45ce-16736282393f26fd7d-2": {
           "type": "testimonial",
           "settings": {
-            "customer_name": "",
-            "testimonial_text": ""
+            "customer_name": "asdf",
+            "testimonial_text": "<p>asdf<\/p>"
           }
         }
       },
