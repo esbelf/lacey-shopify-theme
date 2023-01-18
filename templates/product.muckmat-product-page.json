@@ -20,6 +20,11 @@
           "settings": {
           }
         },
+        "description": {
+          "type": "description",
+          "settings": {
+          }
+        },
         "caption": {
           "type": "text",
           "settings": {
@@ -47,11 +52,6 @@
           "type": "buy_buttons",
           "settings": {
             "show_dynamic_checkout": true
-          }
-        },
-        "description": {
-          "type": "description",
-          "settings": {
           }
         },
         "collapsible-row-0": {
@@ -101,12 +101,12 @@
         "vendor",
         "title",
         "ff685ec9-8fe4-4df8-abb2-c07f2154de23",
+        "description",
         "caption",
         "price",
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
-        "description",
         "collapsible-row-0",
         "collapsible-row-1",
         "collapsible-row-2",
