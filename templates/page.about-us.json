@@ -2,9 +2,33 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "padding_top": 0,
         "padding_bottom": 0
+      }
+    },
+    "b556ed00-91a7-4c60-a1af-785120a0e52f": {
+      "type": "rich-text",
+      "blocks": {
+        "template--17597811654960__b556ed00-91a7-4c60-a1af-785120a0e52f-1674051427f022cbc7-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>About Goodbye to Muck®<\/p>",
+            "heading_size": "hxl"
+          }
+        }
+      },
+      "block_order": [
+        "template--17597811654960__b556ed00-91a7-4c60-a1af-785120a0e52f-1674051427f022cbc7-0"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 12,
+        "padding_bottom": 12
       }
     },
     "924e1ca3-3197-47d1-943f-4a3b8d385d83": {
@@ -93,6 +117,7 @@
   },
   "order": [
     "main",
+    "b556ed00-91a7-4c60-a1af-785120a0e52f",
     "924e1ca3-3197-47d1-943f-4a3b8d385d83",
     "fcc47284-f3ed-4736-8d9b-732e22aea3cc",
     "dd1e33cb-b099-43cd-b7d3-1efcf621e348"
