@@ -8,7 +8,8 @@
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
-            "text": "Call +34 674 152 312",
+            "text-eu": "+34 674 152 312",
+            "text-com": "+1 (813) 321-5330",
             "text_alignment": "center",
             "color_scheme": "accent-1",
             "link": ""
