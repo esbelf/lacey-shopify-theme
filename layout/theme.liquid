@@ -35,6 +35,27 @@
       src="https://widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js"
     ></script>
 
+    <!-- Google tag (gtag.js) -->
+    {%- if request.host == 'goodbyetomuck.eu' -%}
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-7WLXB0ZZKY"></script>
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-7WLXB0ZZKY');
+      </script>
+    {%- else -%}
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZRWSKVN5E7"></script>
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-ZRWSKVN5E7');
+      </script>
+    {%- endif -%}
+
     <!-- GEO targetly script to switch .com to .eu in the european union -->
     <script>
       (function(g,e,o,t,a,r,ge,tl,y,s){
