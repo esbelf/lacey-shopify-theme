@@ -80,15 +80,29 @@
       ],
       "settings": {
         "color_scheme": "background-1",
-        "video_url": "https:\/\/youtu.be\/CZbOyv7qcJA",
+        "video_url": "",
         "height": "adapt",
         "layout": "image_first"
+      }
+    },
+    "9dfc33d5-96a5-4a39-abfa-cd4cc095b65b": {
+      "type": "video",
+      "settings": {
+        "heading": "Video",
+        "heading_size": "h1",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=CZbOyv7qcJA&ab_channel=GoodbyeToMuckandWeeds",
+        "description": "How to assembl and install a MuckMat",
+        "full_width": false,
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     }
   },
   "order": [
     "main",
     "617825b6-fa94-45a4-a735-d76d9b3ca668",
-    "34f05c95-70b1-4712-a5c3-f127b3111290"
+    "34f05c95-70b1-4712-a5c3-f127b3111290",
+    "9dfc33d5-96a5-4a39-abfa-cd4cc095b65b"
   ]
 }
