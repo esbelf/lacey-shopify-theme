@@ -7,42 +7,88 @@
         "padding_bottom": 0
       }
     },
-    "8b173f14-5982-494d-8bf3-dfb5c8163968": {
-      "type": "testimonials-page",
+    "617825b6-fa94-45a4-a735-d76d9b3ca668": {
+      "type": "image-with-text",
       "blocks": {
-        "template--17548613452080__8b173f14-5982-494d-8bf3-dfb5c8163968-16736285154c6976b2-0": {
-          "type": "testimonial",
+        "template--17548613452080__617825b6-fa94-45a4-a735-d76d9b3ca668-1675774452feb31f97-0": {
+          "type": "heading",
           "settings": {
-            "customer_name": "Johnny boy",
-            "testimonial_text": "<p>I loved this product.<\/p>"
+            "heading": "Image with text",
+            "heading_size": "h1"
           }
         },
-        "template--17548613452080__8b173f14-5982-494d-8bf3-dfb5c8163968-16736285154c6976b2-1": {
-          "type": "testimonial",
+        "template--17548613452080__617825b6-fa94-45a4-a735-d76d9b3ca668-1675774452feb31f97-1": {
+          "type": "text",
           "settings": {
-            "customer_name": "",
-            "testimonial_text": ""
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
           }
         },
-        "template--17548613452080__8b173f14-5982-494d-8bf3-dfb5c8163968-16736285154c6976b2-2": {
-          "type": "testimonial",
+        "template--17548613452080__617825b6-fa94-45a4-a735-d76d9b3ca668-1675774452feb31f97-2": {
+          "type": "button",
           "settings": {
-            "customer_name": "",
-            "testimonial_text": ""
+            "button_label": "Button label",
+            "button_link": ""
           }
         }
       },
       "block_order": [
-        "template--17548613452080__8b173f14-5982-494d-8bf3-dfb5c8163968-16736285154c6976b2-0",
-        "template--17548613452080__8b173f14-5982-494d-8bf3-dfb5c8163968-16736285154c6976b2-1",
-        "template--17548613452080__8b173f14-5982-494d-8bf3-dfb5c8163968-16736285154c6976b2-2"
+        "template--17548613452080__617825b6-fa94-45a4-a735-d76d9b3ca668-1675774452feb31f97-0",
+        "template--17548613452080__617825b6-fa94-45a4-a735-d76d9b3ca668-1675774452feb31f97-1",
+        "template--17548613452080__617825b6-fa94-45a4-a735-d76d9b3ca668-1675774452feb31f97-2"
       ],
       "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "34f05c95-70b1-4712-a5c3-f127b3111290": {
+      "type": "video-with-text",
+      "blocks": {
+        "template--17548613452080__34f05c95-70b1-4712-a5c3-f127b3111290-167577445976cf849a-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text"
+          }
+        },
+        "template--17548613452080__34f05c95-70b1-4712-a5c3-f127b3111290-167577445976cf849a-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        },
+        "template--17548613452080__34f05c95-70b1-4712-a5c3-f127b3111290-167577445976cf849a-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17548613452080__34f05c95-70b1-4712-a5c3-f127b3111290-167577445976cf849a-0",
+        "template--17548613452080__34f05c95-70b1-4712-a5c3-f127b3111290-167577445976cf849a-1",
+        "template--17548613452080__34f05c95-70b1-4712-a5c3-f127b3111290-167577445976cf849a-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "video_url": "https:\/\/youtu.be\/CZbOyv7qcJA",
+        "height": "adapt",
+        "layout": "image_first"
       }
     }
   },
   "order": [
     "main",
-    "8b173f14-5982-494d-8bf3-dfb5c8163968"
+    "617825b6-fa94-45a4-a735-d76d9b3ca668",
+    "34f05c95-70b1-4712-a5c3-f127b3111290"
   ]
 }
