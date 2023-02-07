@@ -23,19 +23,11 @@
             "text": "<p>We want to help you find the answers to your queries in a fast, dynamic and effective way.<br\/>That is why we have created this space, where you can have access to short informative videos on \"how to....\"<\/p>",
             "text_style": "body"
           }
-        },
-        "template--17548613452080__617825b6-fa94-45a4-a735-d76d9b3ca668-1675774452feb31f97-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
-          }
         }
       },
       "block_order": [
         "template--17548613452080__617825b6-fa94-45a4-a735-d76d9b3ca668-1675774452feb31f97-0",
-        "template--17548613452080__617825b6-fa94-45a4-a735-d76d9b3ca668-1675774452feb31f97-1",
-        "template--17548613452080__617825b6-fa94-45a4-a735-d76d9b3ca668-1675774452feb31f97-2"
+        "template--17548613452080__617825b6-fa94-45a4-a735-d76d9b3ca668-1675774452feb31f97-1"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/7.png",
@@ -54,7 +46,7 @@
     "a7b00610-5650-4969-b18a-31afcee1259c": {
       "type": "video",
       "settings": {
-        "heading": "Video",
+        "heading": "About company",
         "heading_size": "h1",
         "video_url": "https:\/\/www.youtube.com\/watch?v=oRx8zSW-P8E",
         "description": "",
@@ -64,39 +56,95 @@
         "padding_bottom": 36
       }
     },
-    "61bfcda8-6897-4ddb-9e5d-b8bbcca69577": {
-      "type": "video-with-text",
-      "blocks": {
-        "template--17548613452080__61bfcda8-6897-4ddb-9e5d-b8bbcca69577-1675780346cd9fc55f-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "About company "
-          }
-        },
-        "template--17548613452080__61bfcda8-6897-4ddb-9e5d-b8bbcca69577-1675780346cd9fc55f-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Goodbye To Muck & Weeds® offers environmentally-friendly alternatives to eliminate aquatic lakeweeds and control muck (mud) in lakes, rivers, and ponds. <\/p>"
-          }
-        },
-        "template--17548613452080__61bfcda8-6897-4ddb-9e5d-b8bbcca69577-1675780346cd9fc55f-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--17548613452080__61bfcda8-6897-4ddb-9e5d-b8bbcca69577-1675780346cd9fc55f-0",
-        "template--17548613452080__61bfcda8-6897-4ddb-9e5d-b8bbcca69577-1675780346cd9fc55f-1",
-        "template--17548613452080__61bfcda8-6897-4ddb-9e5d-b8bbcca69577-1675780346cd9fc55f-2"
-      ],
+    "2e8cf790-fd2e-449f-b2a5-cd2a4abb79b2": {
+      "type": "video",
       "settings": {
-        "color_scheme": "background-2",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=oRx8zSW-P8E",
-        "height": "adapt",
-        "layout": "text_first"
+        "heading": "How do I clean my Mat?",
+        "heading_size": "h1",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=5iTJy3AcXVE",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "08b3315e-75cd-4fae-9a38-972367337739": {
+      "type": "video",
+      "settings": {
+        "heading": "How heavy our Mats?",
+        "heading_size": "h1",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=gjdtdre8GNk",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "473a92e8-befb-4a06-911c-1bb73906d588": {
+      "type": "video",
+      "settings": {
+        "heading": "What about the guarantee?",
+        "heading_size": "h1",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=x35IQKD4t-g",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "37f66388-65a3-4359-a04c-2d106e0406a9": {
+      "type": "video",
+      "settings": {
+        "heading": "Can my Mat be left in all year?",
+        "heading_size": "h1",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=PaYABkgmNww",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "8d1f880e-7b80-432a-9b1a-d723e7f2c9c5": {
+      "type": "video",
+      "settings": {
+        "heading": "Any discounts for ordering multiple Mats?",
+        "heading_size": "h1",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=0e_HxJQGzYo",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "e570a851-e8df-4bfb-b002-ba894929d176": {
+      "type": "video",
+      "settings": {
+        "heading": "Mats VS Weed rake?",
+        "heading_size": "h1",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=bxPM1W-NF9Q",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "9d0653f9-d394-4835-bc63-4f3c1b0cace9": {
+      "type": "video",
+      "settings": {
+        "heading": "Is difficult to install a Mat?",
+        "heading_size": "h2",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=uS2ToSOrg-g",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     }
   },
@@ -104,6 +152,12 @@
     "main",
     "617825b6-fa94-45a4-a735-d76d9b3ca668",
     "a7b00610-5650-4969-b18a-31afcee1259c",
-    "61bfcda8-6897-4ddb-9e5d-b8bbcca69577"
+    "2e8cf790-fd2e-449f-b2a5-cd2a4abb79b2",
+    "08b3315e-75cd-4fae-9a38-972367337739",
+    "473a92e8-befb-4a06-911c-1bb73906d588",
+    "37f66388-65a3-4359-a04c-2d106e0406a9",
+    "8d1f880e-7b80-432a-9b1a-d723e7f2c9c5",
+    "e570a851-e8df-4bfb-b002-ba894929d176",
+    "9d0653f9-d394-4835-bc63-4f3c1b0cace9"
   ]
 }
