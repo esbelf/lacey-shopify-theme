@@ -20,13 +20,6 @@
           "settings": {
           }
         },
-        "caption": {
-          "type": "text",
-          "settings": {
-            "text": "{{ product.metafields.descriptors.subtitle.value }}",
-            "text_style": "subtitle"
-          }
-        },
         "description": {
           "type": "description",
           "settings": {
@@ -83,7 +76,6 @@
         "vendor",
         "title",
         "58c42644-fc76-4742-9f5a-a8dcab123e16",
-        "caption",
         "description",
         "variant_picker",
         "quantity_selector",

@@ -32,11 +32,6 @@
             "text_style": "subtitle"
           }
         },
-        "price": {
-          "type": "price",
-          "settings": {
-          }
-        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -45,6 +40,11 @@
         },
         "quantity_selector": {
           "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "price": {
+          "type": "price",
           "settings": {
           }
         },
@@ -92,9 +92,9 @@
         "bc70dea8-9827-4a4b-b199-379fb4cbdb30",
         "description",
         "caption",
-        "price",
         "variant_picker",
         "quantity_selector",
+        "price",
         "buy_buttons",
         "collapsible-row-0",
         "collapsible-row-1",

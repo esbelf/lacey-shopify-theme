@@ -25,13 +25,6 @@
           "settings": {
           }
         },
-        "caption": {
-          "type": "text",
-          "settings": {
-            "text": "{{ product.metafields.descriptors.subtitle.value }}",
-            "text_style": "subtitle"
-          }
-        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -84,7 +77,6 @@
         "title",
         "ff685ec9-8fe4-4df8-abb2-c07f2154de23",
         "description",
-        "caption",
         "variant_picker",
         "quantity_selector",
         "price",
