@@ -72,24 +72,6 @@
             "page": ""
           }
         },
-        "collapsible-row-2": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Dimensions",
-            "icon": "ruler",
-            "content": "",
-            "page": ""
-          }
-        },
-        "collapsible-row-3": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Care Instructions",
-            "icon": "heart",
-            "content": "",
-            "page": ""
-          }
-        },
         "e04340f0-7470-40b8-8ce5-cde9769a380b": {
           "type": "sku",
           "settings": {
@@ -116,19 +98,17 @@
         "buy_buttons",
         "collapsible-row-0",
         "collapsible-row-1",
-        "collapsible-row-2",
-        "collapsible-row-3",
         "e04340f0-7470-40b8-8ce5-cde9769a380b",
         "share"
       ],
       "settings": {
         "enable_sticky_info": true,
-        "media_size": "small",
+        "media_size": "medium",
         "constrain_to_viewport": false,
         "media_fit": "contain",
         "gallery_layout": "thumbnail_slider",
         "media_position": "left",
-        "image_zoom": "lightbox",
+        "image_zoom": "hover",
         "mobile_thumbnails": "columns",
         "hide_variants": true,
         "enable_video_looping": false,
