@@ -105,7 +105,7 @@
         "enable_sticky_info": true,
         "media_size": "medium",
         "constrain_to_viewport": false,
-        "media_fit": "contain",
+        "media_fit": "cover",
         "gallery_layout": "thumbnail_slider",
         "media_position": "left",
         "image_zoom": "hover",
