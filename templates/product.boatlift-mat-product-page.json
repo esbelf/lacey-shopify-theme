@@ -15,11 +15,6 @@
           "settings": {
           }
         },
-        "04b31cfe-31fd-496e-9b7b-29cf50accdf0": {
-          "type": "trustpilot",
-          "settings": {
-          }
-        },
         "description": {
           "type": "description",
           "settings": {
@@ -45,6 +40,11 @@
           "type": "buy_buttons",
           "settings": {
             "show_dynamic_checkout": true
+          }
+        },
+        "04b31cfe-31fd-496e-9b7b-29cf50accdf0": {
+          "type": "trustpilot",
+          "settings": {
           }
         },
         "collapsible-row-0": {
@@ -75,12 +75,12 @@
       "block_order": [
         "vendor",
         "title",
-        "04b31cfe-31fd-496e-9b7b-29cf50accdf0",
         "description",
         "variant_picker",
         "quantity_selector",
         "price",
         "buy_buttons",
+        "04b31cfe-31fd-496e-9b7b-29cf50accdf0",
         "collapsible-row-0",
         "collapsible-row-1",
         "share"
