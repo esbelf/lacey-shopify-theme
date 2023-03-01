@@ -413,7 +413,6 @@
     "7f2d188d-6a63-4811-9f09-a4665395fef2": {
       "type": "dynamic-image-banner",
       "settings": {
-        "image": "shopify:\/\/shop_images\/sand_main_home.png",
         "image_2": "shopify:\/\/shop_images\/sand_main_home_mobile.png",
         "color_scheme": "background-1"
       }
