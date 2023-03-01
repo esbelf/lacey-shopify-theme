@@ -25,13 +25,6 @@
           "settings": {
           }
         },
-        "caption": {
-          "type": "text",
-          "settings": {
-            "text": "{{ product.metafields.descriptors.subtitle.value }}",
-            "text_style": "subtitle"
-          }
-        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -72,12 +65,6 @@
             "page": ""
           }
         },
-        "e04340f0-7470-40b8-8ce5-cde9769a380b": {
-          "type": "sku",
-          "settings": {
-            "text_style": "body"
-          }
-        },
         "share": {
           "type": "share",
           "disabled": true,
@@ -91,14 +78,12 @@
         "title",
         "bc70dea8-9827-4a4b-b199-379fb4cbdb30",
         "description",
-        "caption",
         "variant_picker",
         "quantity_selector",
         "price",
         "buy_buttons",
         "collapsible-row-0",
         "collapsible-row-1",
-        "e04340f0-7470-40b8-8ce5-cde9769a380b",
         "share"
       ],
       "settings": {
