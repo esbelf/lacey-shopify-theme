@@ -160,6 +160,8 @@
       "view_full_details": "View full details",
       "xr_button": "View in your space",
       "xr_button_label": "View in your space, loads item in augmented reality window",
+      "shipping_in_eu": "Free shipping in the EU",
+      "shipping_in_usa": "Free shipping in the USA",
       "include_taxes": "Tax included.",
       "shipping_policy_html": "<a href=\"{{ link }}\">Shipping</a> calculated at checkout."
     },
