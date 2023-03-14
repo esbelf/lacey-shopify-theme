@@ -161,7 +161,9 @@
       "inventory_low_stock_show_count": "Låg lagernivå: {{ quantity }} kvar",
       "inventory_out_of_stock": "Slut i lager",
       "inventory_out_of_stock_continue_selling": "I lager",
-      "sku": "Lagerhållningsenhet"
+      "sku": "Lagerhållningsenhet",
+      "shipping_in_eu": "Fri frakt inom EU",
+      "shipping_in_usa": "Fri frakt inom USA"
     },
     "modal": {
       "label": "Mediagalleri"
