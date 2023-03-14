@@ -117,6 +117,9 @@
               <div class="product__tax caption rte">
                 {{ 'products.product.shipping_in_eu' | t }}
               </div>
+              <div class="product__tax caption rte">
+                {{ 'products.product.include_taxes' | t }}
+              </div>
               <div {{ block.shopify_attributes }}>
                 {%- assign product_form_installment_id = 'product-form-installment-' | append: section.id -%}
                 {%- form 'product', product, id: product_form_installment_id, class: 'installment caption-large' -%}
