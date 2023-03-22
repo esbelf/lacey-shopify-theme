@@ -10,34 +10,19 @@
     "e07121ba-aecd-4c2a-918d-245b221e759f": {
       "type": "image-with-text",
       "blocks": {
-        "template--17548613452080__e07121ba-aecd-4c2a-918d-245b221e759f-16794923229432aedb-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image with text",
-            "heading_size": "h2"
-          }
-        },
         "template--17548613452080__e07121ba-aecd-4c2a-918d-245b221e759f-16794923229432aedb-1": {
           "type": "text",
           "settings": {
-            "text": "<p>DREDGING<\/p><p>Welcome to our page about Dredging. If you're here, you probably already know that dredging is a commonly used method for maintaining the depth of bodies of water, such as rivers and lakes. However, traditional dredging methods can have negative impacts on the environment, including the disturbance of habitats, the release of harmful sediment, and the destruction of aquatic vegetation.<br\/>That's why we're excited to introduce an alternative and eco-friendly solution to dredging - Lakemats. Our innovative product is designed to be placed at the bottom of lakes, ponds, and other bodies of water to prevent the growth of unwanted aquatic vegetation while simultaneously protecting the environment.<br\/>Explore our website to learn more about the harmful effects of traditional dredging and how Lakemats can provide a sustainable solution for maintaining the health and beauty of our aquatic ecosystems.<\/p>",
+            "text": "<p>DREDGING<\/p><p>Welcome to our page about Dredging. If you're here, you probably already know that dredging is a commonly used method for maintaining the depth of bodies of water, such as rivers and lakes. However, traditional dredging methods can have negative impacts on the environment, including the disturbance of habitats, the release of harmful sediment, and the destruction of aquatic vegetation.<\/p>",
             "text_style": "body"
-          }
-        },
-        "template--17548613452080__e07121ba-aecd-4c2a-918d-245b221e759f-16794923229432aedb-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
           }
         }
       },
       "block_order": [
-        "template--17548613452080__e07121ba-aecd-4c2a-918d-245b221e759f-16794923229432aedb-0",
-        "template--17548613452080__e07121ba-aecd-4c2a-918d-245b221e759f-16794923229432aedb-1",
-        "template--17548613452080__e07121ba-aecd-4c2a-918d-245b221e759f-16794923229432aedb-2"
+        "template--17548613452080__e07121ba-aecd-4c2a-918d-245b221e759f-16794923229432aedb-1"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_2687_front.webp",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -46,6 +31,63 @@
         "content_layout": "no-overlap",
         "color_scheme": "background-1",
         "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "22311b0c-fb88-4ee4-abf6-b8bae79b6d70": {
+      "type": "rich-text",
+      "blocks": {
+        "template--17548613452080__22311b0c-fb88-4ee4-abf6-b8bae79b6d70-1679492881367025ba-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Ours Products<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--17548613452080__22311b0c-fb88-4ee4-abf6-b8bae79b6d70-1679492881367025ba-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>That's why we're excited to introduce an alternative and eco-friendly solution to dredging - Ours Mats. Our innovative product is designed to be placed at the bottom of lakes, ponds, and other bodies of water to prevent the growth of unwanted aquatic vegetation while simultaneously protecting the environment.<br\/>Explore our website to learn more about the harmful effects of traditional dredging and how Muck Sandmats can provide a sustainable solution for maintaining the health and beauty of our aquatic ecosystems.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--17548613452080__22311b0c-fb88-4ee4-abf6-b8bae79b6d70-1679492881367025ba-0",
+        "template--17548613452080__22311b0c-fb88-4ee4-abf6-b8bae79b6d70-1679492881367025ba-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "62f1af83-9e92-4b5f-85c5-1360d5200a6d": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "The best options before dredging lakes",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "the-best-option-before-dredging-methods",
+        "products_to_show": 3,
+        "columns_desktop": 3,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "inverse",
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -69,6 +111,7 @@
         "44b31341-6c43-4073-b260-4444d49265d6": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_0118.jpg"
           }
         }
       },
@@ -87,11 +130,27 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "402f298d-e338-4bcf-a774-399b137db74a": {
+      "type": "video",
+      "settings": {
+        "heading": "Video",
+        "heading_size": "h1",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "main",
     "e07121ba-aecd-4c2a-918d-245b221e759f",
-    "b0b1a83c-1d8c-46e3-86f0-3e7d6326f84c"
+    "22311b0c-fb88-4ee4-abf6-b8bae79b6d70",
+    "62f1af83-9e92-4b5f-85c5-1360d5200a6d",
+    "b0b1a83c-1d8c-46e3-86f0-3e7d6326f84c",
+    "402f298d-e338-4bcf-a774-399b137db74a"
   ]
 }
