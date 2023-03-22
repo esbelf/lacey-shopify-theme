@@ -7,30 +7,37 @@
         "padding_bottom": 0
       }
     },
-    "617825b6-fa94-45a4-a735-d76d9b3ca668": {
+    "e07121ba-aecd-4c2a-918d-245b221e759f": {
       "type": "image-with-text",
       "blocks": {
-        "template--17548613452080__617825b6-fa94-45a4-a735-d76d9b3ca668-1675774452feb31f97-0": {
+        "template--17548613452080__e07121ba-aecd-4c2a-918d-245b221e759f-16794923229432aedb-0": {
           "type": "heading",
           "settings": {
-            "heading": "We are here to serve you",
-            "heading_size": "h0"
+            "heading": "Image with text",
+            "heading_size": "h2"
           }
         },
-        "template--17548613452080__617825b6-fa94-45a4-a735-d76d9b3ca668-1675774452feb31f97-1": {
+        "template--17548613452080__e07121ba-aecd-4c2a-918d-245b221e759f-16794923229432aedb-1": {
           "type": "text",
           "settings": {
-            "text": "<p>We want to help you find the answers to your queries in a fast, dynamic and effective way.<br\/>That is why we have created this space, where you can have access to short informative videos on \"how to...\" and more.<\/p>",
+            "text": "<p>DREDGING<\/p><p>Welcome to our page about Dredging. If you're here, you probably already know that dredging is a commonly used method for maintaining the depth of bodies of water, such as rivers and lakes. However, traditional dredging methods can have negative impacts on the environment, including the disturbance of habitats, the release of harmful sediment, and the destruction of aquatic vegetation.<br\/>That's why we're excited to introduce an alternative and eco-friendly solution to dredging - Lakemats. Our innovative product is designed to be placed at the bottom of lakes, ponds, and other bodies of water to prevent the growth of unwanted aquatic vegetation while simultaneously protecting the environment.<br\/>Explore our website to learn more about the harmful effects of traditional dredging and how Lakemats can provide a sustainable solution for maintaining the health and beauty of our aquatic ecosystems.<\/p>",
             "text_style": "body"
+          }
+        },
+        "template--17548613452080__e07121ba-aecd-4c2a-918d-245b221e759f-16794923229432aedb-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
           }
         }
       },
       "block_order": [
-        "template--17548613452080__617825b6-fa94-45a4-a735-d76d9b3ca668-1675774452feb31f97-0",
-        "template--17548613452080__617825b6-fa94-45a4-a735-d76d9b3ca668-1675774452feb31f97-1"
+        "template--17548613452080__e07121ba-aecd-4c2a-918d-245b221e759f-16794923229432aedb-0",
+        "template--17548613452080__e07121ba-aecd-4c2a-918d-245b221e759f-16794923229432aedb-1",
+        "template--17548613452080__e07121ba-aecd-4c2a-918d-245b221e759f-16794923229432aedb-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/7.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -43,309 +50,39 @@
         "padding_bottom": 36
       }
     },
-    "a7b00610-5650-4969-b18a-31afcee1259c": {
-      "type": "video",
+    "b0b1a83c-1d8c-46e3-86f0-3e7d6326f84c": {
+      "type": "collage",
+      "blocks": {
+        "template--17548613452080__b0b1a83c-1d8c-46e3-86f0-3e7d6326f84c-1679488986994c3183-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_0112.jpg"
+          }
+        },
+        "template--17548613452080__b0b1a83c-1d8c-46e3-86f0-3e7d6326f84c-1679488986994c3183-1": {
+          "type": "product",
+          "settings": {
+            "product": "sandmat",
+            "second_image": false
+          }
+        },
+        "44b31341-6c43-4073-b260-4444d49265d6": {
+          "type": "image",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--17548613452080__b0b1a83c-1d8c-46e3-86f0-3e7d6326f84c-1679488986994c3183-0",
+        "template--17548613452080__b0b1a83c-1d8c-46e3-86f0-3e7d6326f84c-1679488986994c3183-1",
+        "44b31341-6c43-4073-b260-4444d49265d6"
+      ],
       "settings": {
-        "heading": "About company",
+        "heading": "Multimedia collage",
         "heading_size": "h1",
-        "cover_image": "shopify:\/\/shop_images\/Screenshot_2023-02-07_at_18.14.37.png",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=oRx8zSW-P8E",
-        "description": "",
-        "full_width": false,
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "dc044266-5a04-4093-897c-a24c08ff180c": {
-      "type": "video",
-      "settings": {
-        "heading": "What is a MuckMat®?",
-        "heading_size": "h1",
-        "cover_image": "shopify:\/\/shop_images\/Screenshot_2023-02-08_at_10.46.44.png",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=BuqRAVW55PI",
-        "description": "",
-        "full_width": false,
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "38d84956-ba3c-4084-97a7-dba04ac48a7c": {
-      "type": "video",
-      "settings": {
-        "heading": "What is a LakeMat®?",
-        "heading_size": "h1",
-        "cover_image": "shopify:\/\/shop_images\/Screenshot_2023-02-08_at_10.46.44.png",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=bahe926YDdU",
-        "description": "",
-        "full_width": false,
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "4fdef4d7-4237-400a-9461-147bf4a9f9f8": {
-      "type": "video",
-      "settings": {
-        "heading": "What is MuckMat® for?",
-        "heading_size": "h1",
-        "cover_image": "shopify:\/\/shop_images\/Screenshot_2023-02-08_at_10.46.44.png",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=HF6TBW6AtNI",
-        "description": "",
-        "full_width": false,
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "df800dc1-b6c1-4c88-81a0-996f468d97c6": {
-      "type": "video",
-      "settings": {
-        "heading": "How to assemble and install MuckMat®?",
-        "heading_size": "h1",
-        "cover_image": "shopify:\/\/shop_images\/Screenshot_2023-02-08_at_10.46.44.png",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=CZbOyv7qcJA",
-        "description": "",
-        "full_width": false,
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "c6b71149-a2f7-4c84-9d07-0e50f2c90ebe": {
-      "type": "video",
-      "settings": {
-        "heading": "How long does it take for delivery?",
-        "heading_size": "h1",
-        "cover_image": "shopify:\/\/shop_images\/Screenshot_2023-02-08_at_10.46.44.png",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=RJ_jTqu65g8",
-        "description": "",
-        "full_width": false,
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "d9d2aea7-94a4-4a42-9eea-c6f611155306": {
-      "type": "video",
-      "settings": {
-        "heading": "How Mats are friendly to the environment?",
-        "heading_size": "h1",
-        "cover_image": "shopify:\/\/shop_images\/Screenshot_2023-02-08_at_10.46.44.png",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=WiL_GIcQem8",
-        "description": "",
-        "full_width": false,
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "f7b31c5a-7a3a-46bf-8bba-d9301f42b9ca": {
-      "type": "video",
-      "settings": {
-        "heading": "What about the guarantee?",
-        "heading_size": "h1",
-        "cover_image": "shopify:\/\/shop_images\/Screenshot_2023-02-08_at_10.46.44.png",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=x35IQKD4t-g",
-        "description": "",
-        "full_width": false,
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "5df7fec4-3064-4746-a0ab-d3c0a4aebcd3": {
-      "type": "video",
-      "settings": {
-        "heading": "What holds down the Mats?",
-        "heading_size": "h1",
-        "cover_image": "shopify:\/\/shop_images\/Screenshot_2023-02-08_at_10.46.44.png",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=RGu4BiLI2tY",
-        "description": "",
-        "full_width": false,
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "3f2cb592-e82a-4544-aee8-65cea55b2c63": {
-      "type": "video",
-      "settings": {
-        "heading": "Can my Mat be left in all year?",
-        "heading_size": "h1",
-        "cover_image": "shopify:\/\/shop_images\/Screenshot_2023-02-08_at_10.46.44.png",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=PaYABkgmNww",
-        "description": "",
-        "full_width": false,
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "33484b28-4d2c-45a2-a68c-26beb873fe91": {
-      "type": "video",
-      "settings": {
-        "heading": "What is a difference between LakeMat® and MuckMat®?",
-        "heading_size": "h1",
-        "cover_image": "shopify:\/\/shop_images\/Screenshot_2023-02-08_at_10.46.44.png",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=2NMl9Cep4gY",
-        "description": "",
-        "full_width": false,
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "a52914c8-f964-47a0-866f-79f8fb53c1f9": {
-      "type": "video",
-      "settings": {
-        "heading": "Do our Mats eliminate lily pads?",
-        "heading_size": "h1",
-        "cover_image": "shopify:\/\/shop_images\/Screenshot_2023-02-08_at_10.46.44.png",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=no1Gu6y2NkY",
-        "description": "",
-        "full_width": false,
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "a4b15fe5-2122-458f-ba7d-806073c9f267": {
-      "type": "video",
-      "settings": {
-        "heading": "Can you feel the frame of our Mats?",
-        "heading_size": "h1",
-        "cover_image": "shopify:\/\/shop_images\/Screenshot_2023-02-08_at_10.46.44.png",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=ZFAC6D1dOxA",
-        "description": "",
-        "full_width": false,
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "407115f1-3c36-448d-ab8f-0e5241f0ef17": {
-      "type": "video",
-      "settings": {
-        "heading": "MuckMat vs Dredging?",
-        "heading_size": "h1",
-        "cover_image": "shopify:\/\/shop_images\/Screenshot_2023-02-08_at_10.46.44.png",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=0H8E06w2Rsw",
-        "description": "",
-        "full_width": false,
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "d9decc37-5988-475e-8bb1-a9d022faedc9": {
-      "type": "video",
-      "settings": {
-        "heading": "Is it difficult to install a Mat?",
-        "heading_size": "h1",
-        "cover_image": "shopify:\/\/shop_images\/Screenshot_2023-02-08_at_10.46.44.png",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=uS2ToSOrg-g",
-        "description": "",
-        "full_width": false,
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "dc2a93c3-19ba-484e-946b-e42715eb89d7": {
-      "type": "video",
-      "settings": {
-        "heading": "How heavy our Mats?",
-        "heading_size": "h1",
-        "cover_image": "shopify:\/\/shop_images\/Screenshot_2023-02-08_at_10.46.44.png",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=gjdtdre8GNk",
-        "description": "",
-        "full_width": false,
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "6b823769-c4e2-42f1-a985-4d30585a6edb": {
-      "type": "video",
-      "settings": {
-        "heading": "Mats VS Weed rake?",
-        "heading_size": "h1",
-        "cover_image": "shopify:\/\/shop_images\/Screenshot_2023-02-08_at_10.46.44.png",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=bxPM1W-NF9Q",
-        "description": "",
-        "full_width": false,
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "c0bb6c7f-2e6a-4024-a61d-55faf8077e68": {
-      "type": "video",
-      "settings": {
-        "heading": "Any discounts for ordering multiple Mats?",
-        "heading_size": "h1",
-        "cover_image": "shopify:\/\/shop_images\/Screenshot_2023-02-08_at_10.46.44.png",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=0e_HxJQGzYo",
-        "description": "",
-        "full_width": false,
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "a4c9f527-f3de-47db-a982-15a3993c46f3": {
-      "type": "video",
-      "settings": {
-        "heading": "Mats VS Herbicides?",
-        "heading_size": "h1",
-        "cover_image": "shopify:\/\/shop_images\/Screenshot_2023-02-08_at_10.46.44.png",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=nqEESYcbOr0",
-        "description": "",
-        "full_width": false,
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "8d036c59-2d48-43a8-b7d7-b160644f6c0d": {
-      "type": "video",
-      "settings": {
-        "heading": "How do I clean my Mat?",
-        "heading_size": "h1",
-        "cover_image": "shopify:\/\/shop_images\/Screenshot_2023-02-08_at_10.46.44.png",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=5iTJy3AcXVE",
-        "description": "",
-        "full_width": false,
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "1911e869-8b96-41be-9fce-bee09a0c1ae2": {
-      "type": "video",
-      "settings": {
-        "heading": "What comes in the MuckMat®?",
-        "heading_size": "h1",
-        "cover_image": "shopify:\/\/shop_images\/Screenshot_2023-02-08_at_10.46.44.png",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=qC-yszfGIYw",
-        "description": "",
-        "full_width": false,
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "6331578c-3442-4d1f-92bd-6cf7e0147ce9": {
-      "type": "video",
-      "settings": {
-        "heading": "What comes in the LakeMat®?",
-        "heading_size": "h1",
-        "cover_image": "shopify:\/\/shop_images\/Screenshot_2023-02-08_at_10.46.44.png",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=ypoBbdCoyZs",
-        "description": "",
-        "full_width": false,
+        "desktop_layout": "left",
+        "mobile_layout": "column",
+        "card_styles": "product-card-wrapper",
         "color_scheme": "background-1",
         "padding_top": 36,
         "padding_bottom": 36
@@ -354,28 +91,7 @@
   },
   "order": [
     "main",
-    "617825b6-fa94-45a4-a735-d76d9b3ca668",
-    "a7b00610-5650-4969-b18a-31afcee1259c",
-    "dc044266-5a04-4093-897c-a24c08ff180c",
-    "38d84956-ba3c-4084-97a7-dba04ac48a7c",
-    "4fdef4d7-4237-400a-9461-147bf4a9f9f8",
-    "df800dc1-b6c1-4c88-81a0-996f468d97c6",
-    "c6b71149-a2f7-4c84-9d07-0e50f2c90ebe",
-    "d9d2aea7-94a4-4a42-9eea-c6f611155306",
-    "f7b31c5a-7a3a-46bf-8bba-d9301f42b9ca",
-    "5df7fec4-3064-4746-a0ab-d3c0a4aebcd3",
-    "3f2cb592-e82a-4544-aee8-65cea55b2c63",
-    "33484b28-4d2c-45a2-a68c-26beb873fe91",
-    "a52914c8-f964-47a0-866f-79f8fb53c1f9",
-    "a4b15fe5-2122-458f-ba7d-806073c9f267",
-    "407115f1-3c36-448d-ab8f-0e5241f0ef17",
-    "d9decc37-5988-475e-8bb1-a9d022faedc9",
-    "dc2a93c3-19ba-484e-946b-e42715eb89d7",
-    "6b823769-c4e2-42f1-a985-4d30585a6edb",
-    "c0bb6c7f-2e6a-4024-a61d-55faf8077e68",
-    "a4c9f527-f3de-47db-a982-15a3993c46f3",
-    "8d036c59-2d48-43a8-b7d7-b160644f6c0d",
-    "1911e869-8b96-41be-9fce-bee09a0c1ae2",
-    "6331578c-3442-4d1f-92bd-6cf7e0147ce9"
+    "e07121ba-aecd-4c2a-918d-245b221e759f",
+    "b0b1a83c-1d8c-46e3-86f0-3e7d6326f84c"
   ]
 }
