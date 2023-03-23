@@ -7,22 +7,39 @@
         "padding_bottom": 0
       }
     },
-    "e07121ba-aecd-4c2a-918d-245b221e759f": {
+    "26ea2c2e-c27c-47de-9dcc-acf91da271d5": {
       "type": "image-with-text",
       "blocks": {
-        "template--17548613452080__e07121ba-aecd-4c2a-918d-245b221e759f-16794923229432aedb-1": {
+        "template--17548613452080__26ea2c2e-c27c-47de-9dcc-acf91da271d5-16795682756fc15d52-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "NO MACHINERY",
+            "heading_size": "h1"
+          }
+        },
+        "template--17548613452080__26ea2c2e-c27c-47de-9dcc-acf91da271d5-16795682756fc15d52-1": {
           "type": "text",
           "settings": {
-            "text": "<p>DREDGING<\/p><p>If you're here, you probably already know that dredging is a commonly used method for maintaining the depth of bodies of water, such as rivers and lakes. However, traditional dredging methods can have negative impacts on the environment, including the disturbance of habitats, the release of harmful sediment, and the destruction of aquatic vegetation.<\/p>",
-            "text_style": "body"
+            "text": "<h2>    Price difference:<\/h2>",
+            "text_style": "subtitle"
+          }
+        },
+        "d92404f7-07f1-4090-b0d5-46556e6f3219": {
+          "type": "caption",
+          "settings": {
+            "caption": "15.00$ vs 2000$",
+            "text_style": "subtitle",
+            "text_size": "large"
           }
         }
       },
       "block_order": [
-        "template--17548613452080__e07121ba-aecd-4c2a-918d-245b221e759f-16794923229432aedb-1"
+        "template--17548613452080__26ea2c2e-c27c-47de-9dcc-acf91da271d5-16795682756fc15d52-0",
+        "template--17548613452080__26ea2c2e-c27c-47de-9dcc-acf91da271d5-16795682756fc15d52-1",
+        "d92404f7-07f1-4090-b0d5-46556e6f3219"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/IMG_2687_front.webp",
+        "image": "shopify:\/\/shop_images\/Depositphotos_420244140_S.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -35,26 +52,96 @@
         "padding_bottom": 36
       }
     },
-    "22311b0c-fb88-4ee4-abf6-b8bae79b6d70": {
-      "type": "rich-text",
+    "335bad0d-cc91-4135-aafe-caca46f74930": {
+      "type": "video-with-text",
+      "settings": {
+        "color_scheme": "background-1",
+        "video_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0050\/2779\/0919\/files\/1_1_Cutting_fruit_H.mp4?v=1603372350",
+        "height": "adapt",
+        "layout": "image_first"
+      }
+    },
+    "f203d281-ab57-45bc-bf08-7bb4d561719d": {
+      "type": "collapsible-content",
       "blocks": {
-        "template--17548613452080__22311b0c-fb88-4ee4-abf6-b8bae79b6d70-1679492881367025ba-0": {
-          "type": "heading",
+        "template--17548613452080__f203d281-ab57-45bc-bf08-7bb4d561719d-16795686904ad4b960-0": {
+          "type": "collapsible_row",
           "settings": {
-            "heading": "<p>Ours Products<\/p>",
-            "heading_size": "h1"
+            "heading": "Clear the area where you want to create your beach of big rocks.",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
           }
         },
-        "template--17548613452080__22311b0c-fb88-4ee4-abf6-b8bae79b6d70-1679492881367025ba-1": {
-          "type": "text",
+        "template--17548613452080__f203d281-ab57-45bc-bf08-7bb4d561719d-16795686904ad4b960-1": {
+          "type": "collapsible_row",
           "settings": {
-            "text": "<p>That's why we're excited to introduce an alternative and eco-friendly solution to dredging - Ours Mats. Our innovative product is designed to be placed at the bottom of lakes, ponds, and other bodies of water to prevent the growth of unwanted aquatic vegetation while simultaneously protecting the environment.<br\/>Explore our website to learn more about the harmful effects of traditional dredging and how Muck Sandmats can provide a sustainable solution for maintaining the health and beauty of our aquatic ecosystems.<\/p>"
+            "heading": "Install MuckSandMat on shore.",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "template--17548613452080__f203d281-ab57-45bc-bf08-7bb4d561719d-16795686904ad4b960-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Assemble and install muck mat inside the lake for a mud- and weed-free base.",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "template--17548613452080__f203d281-ab57-45bc-bf08-7bb4d561719d-16795686904ad4b960-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Place sand covering the Mats.",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
           }
         }
       },
       "block_order": [
-        "template--17548613452080__22311b0c-fb88-4ee4-abf6-b8bae79b6d70-1679492881367025ba-0",
-        "template--17548613452080__22311b0c-fb88-4ee4-abf6-b8bae79b6d70-1679492881367025ba-1"
+        "template--17548613452080__f203d281-ab57-45bc-bf08-7bb4d561719d-16795686904ad4b960-0",
+        "template--17548613452080__f203d281-ab57-45bc-bf08-7bb4d561719d-16795686904ad4b960-1",
+        "template--17548613452080__f203d281-ab57-45bc-bf08-7bb4d561719d-16795686904ad4b960-2",
+        "template--17548613452080__f203d281-ab57-45bc-bf08-7bb4d561719d-16795686904ad4b960-3"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Easy to assemble!",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "43a967cb-fa7c-431e-a556-879c80be8fce": {
+      "type": "rich-text",
+      "blocks": {
+        "template--17548613452080__43a967cb-fa7c-431e-a556-879c80be8fce-1679492881367025ba-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Process<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--17548613452080__43a967cb-fa7c-431e-a556-879c80be8fce-1679492881367025ba-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store. Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store. Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--17548613452080__43a967cb-fa7c-431e-a556-879c80be8fce-1679492881367025ba-0",
+        "template--17548613452080__43a967cb-fa7c-431e-a556-879c80be8fce-1679492881367025ba-1"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -65,87 +152,168 @@
         "padding_bottom": 52
       }
     },
-    "62f1af83-9e92-4b5f-85c5-1360d5200a6d": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "The best options before dredging lakes",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "the-best-option-before-dredging-methods",
-        "products_to_show": 3,
-        "columns_desktop": 3,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "inverse",
-        "image_ratio": "adapt",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "b0b1a83c-1d8c-46e3-86f0-3e7d6326f84c": {
-      "type": "collage",
+    "df2cd8d6-1b73-473c-b64e-4e2f6417324c": {
+      "type": "image-with-text",
       "blocks": {
-        "template--17548613452080__b0b1a83c-1d8c-46e3-86f0-3e7d6326f84c-1679488986994c3183-0": {
-          "type": "image",
+        "template--17548613452080__df2cd8d6-1b73-473c-b64e-4e2f6417324c-16795682756fc15d52-0": {
+          "type": "heading",
           "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_0112.jpg"
+            "heading": "Clear the area where you want to create your beach of large rocks.",
+            "heading_size": "h2"
           }
         },
-        "template--17548613452080__b0b1a83c-1d8c-46e3-86f0-3e7d6326f84c-1679488986994c3183-1": {
-          "type": "product",
+        "template--17548613452080__df2cd8d6-1b73-473c-b64e-4e2f6417324c-16795682756fc15d52-1": {
+          "type": "text",
           "settings": {
-            "product": "sandmat",
-            "second_image": false
-          }
-        },
-        "44b31341-6c43-4073-b260-4444d49265d6": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_0118.jpg"
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
           }
         }
       },
       "block_order": [
-        "template--17548613452080__b0b1a83c-1d8c-46e3-86f0-3e7d6326f84c-1679488986994c3183-0",
-        "template--17548613452080__b0b1a83c-1d8c-46e3-86f0-3e7d6326f84c-1679488986994c3183-1",
-        "44b31341-6c43-4073-b260-4444d49265d6"
+        "template--17548613452080__df2cd8d6-1b73-473c-b64e-4e2f6417324c-16795682756fc15d52-0",
+        "template--17548613452080__df2cd8d6-1b73-473c-b64e-4e2f6417324c-16795682756fc15d52-1"
       ],
       "settings": {
-        "heading": "Take a look at how our products work!",
-        "heading_size": "h2",
-        "desktop_layout": "left",
-        "mobile_layout": "collage",
-        "card_styles": "product-card-wrapper",
-        "color_scheme": "background-2",
-        "padding_top": 32,
+        "image": "shopify:\/\/shop_images\/IMG_0111_1.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
         "padding_bottom": 36
       }
     },
-    "8f5d8b83-08f6-46b6-985b-b3be9b209a6f": {
-      "type": "dynamic-image-banner",
+    "403f49a8-9d4f-4deb-8535-09c7631e82c3": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--17548613452080__403f49a8-9d4f-4deb-8535-09c7631e82c3-16795682756fc15d52-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Install Muck SandMat on shore",
+            "heading_size": "h2"
+          }
+        },
+        "template--17548613452080__403f49a8-9d4f-4deb-8535-09c7631e82c3-16795682756fc15d52-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--17548613452080__403f49a8-9d4f-4deb-8535-09c7631e82c3-16795682756fc15d52-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17548613452080__403f49a8-9d4f-4deb-8535-09c7631e82c3-16795682756fc15d52-0",
+        "template--17548613452080__403f49a8-9d4f-4deb-8535-09c7631e82c3-16795682756fc15d52-1",
+        "template--17548613452080__403f49a8-9d4f-4deb-8535-09c7631e82c3-16795682756fc15d52-2"
+      ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Screenshot_2023-03-22_at_15.09.04.png",
-        "image_2": "shopify:\/\/shop_images\/Screenshot_2023-03-22_at_15.19.40.png",
-        "color_scheme": "background-1"
+        "image": "shopify:\/\/shop_images\/IMG_0112_1.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "3a65f78b-e835-4b52-8cac-8ec2c1ed63f4": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--17548613452080__3a65f78b-e835-4b52-8cac-8ec2c1ed63f4-16795682756fc15d52-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Assamble MuckMat and install it at the bottom of your lake",
+            "heading_size": "h2"
+          }
+        },
+        "template--17548613452080__3a65f78b-e835-4b52-8cac-8ec2c1ed63f4-16795682756fc15d52-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--17548613452080__3a65f78b-e835-4b52-8cac-8ec2c1ed63f4-16795682756fc15d52-0",
+        "template--17548613452080__3a65f78b-e835-4b52-8cac-8ec2c1ed63f4-16795682756fc15d52-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_0114.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "494f930c-b2e7-4c28-83c6-3f55901472a9": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--17548613452080__494f930c-b2e7-4c28-83c6-3f55901472a9-16795682756fc15d52-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Cover the Mats with sand",
+            "heading_size": "h1"
+          }
+        },
+        "template--17548613452080__494f930c-b2e7-4c28-83c6-3f55901472a9-16795682756fc15d52-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--17548613452080__494f930c-b2e7-4c28-83c6-3f55901472a9-16795682756fc15d52-0",
+        "template--17548613452080__494f930c-b2e7-4c28-83c6-3f55901472a9-16795682756fc15d52-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_0118_2f472b10-3b0f-480d-92ad-dceac993d1b9.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     }
   },
   "order": [
     "main",
-    "e07121ba-aecd-4c2a-918d-245b221e759f",
-    "22311b0c-fb88-4ee4-abf6-b8bae79b6d70",
-    "62f1af83-9e92-4b5f-85c5-1360d5200a6d",
-    "b0b1a83c-1d8c-46e3-86f0-3e7d6326f84c",
-    "8f5d8b83-08f6-46b6-985b-b3be9b209a6f"
+    "26ea2c2e-c27c-47de-9dcc-acf91da271d5",
+    "335bad0d-cc91-4135-aafe-caca46f74930",
+    "f203d281-ab57-45bc-bf08-7bb4d561719d",
+    "43a967cb-fa7c-431e-a556-879c80be8fce",
+    "df2cd8d6-1b73-473c-b64e-4e2f6417324c",
+    "403f49a8-9d4f-4deb-8535-09c7631e82c3",
+    "3a65f78b-e835-4b52-8cac-8ec2c1ed63f4",
+    "494f930c-b2e7-4c28-83c6-3f55901472a9"
   ]
 }
