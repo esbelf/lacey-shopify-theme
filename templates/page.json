@@ -131,17 +131,10 @@
             "heading": "<p>Process<\/p>",
             "heading_size": "h1"
           }
-        },
-        "template--17548613452080__43a967cb-fa7c-431e-a556-879c80be8fce-1679492881367025ba-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store. Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store. Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
-          }
         }
       },
       "block_order": [
-        "template--17548613452080__43a967cb-fa7c-431e-a556-879c80be8fce-1679492881367025ba-0",
-        "template--17548613452080__43a967cb-fa7c-431e-a556-879c80be8fce-1679492881367025ba-1"
+        "template--17548613452080__43a967cb-fa7c-431e-a556-879c80be8fce-1679492881367025ba-0"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -177,7 +170,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/IMG_0111_1.jpg",
         "height": "adapt",
-        "desktop_image_width": "medium",
+        "desktop_image_width": "small",
         "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
@@ -204,24 +197,16 @@
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "text_style": "body"
           }
-        },
-        "template--17548613452080__403f49a8-9d4f-4deb-8535-09c7631e82c3-16795682756fc15d52-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
-          }
         }
       },
       "block_order": [
         "template--17548613452080__403f49a8-9d4f-4deb-8535-09c7631e82c3-16795682756fc15d52-0",
-        "template--17548613452080__403f49a8-9d4f-4deb-8535-09c7631e82c3-16795682756fc15d52-1",
-        "template--17548613452080__403f49a8-9d4f-4deb-8535-09c7631e82c3-16795682756fc15d52-2"
+        "template--17548613452080__403f49a8-9d4f-4deb-8535-09c7631e82c3-16795682756fc15d52-1"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/IMG_0112_1.jpg",
         "height": "adapt",
-        "desktop_image_width": "medium",
+        "desktop_image_width": "small",
         "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
@@ -257,7 +242,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/IMG_0114.jpg",
         "height": "adapt",
-        "desktop_image_width": "medium",
+        "desktop_image_width": "small",
         "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
@@ -293,13 +278,40 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/IMG_0118_2f472b10-3b0f-480d-92ad-dceac993d1b9.jpg",
         "height": "adapt",
-        "desktop_image_width": "medium",
+        "desktop_image_width": "small",
         "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
         "color_scheme": "background-1",
         "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "b4f8c016-9881-48d6-879e-0c13ead6b3e6": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Featured collection",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "the-best-option-before-dredging-methods",
+        "products_to_show": 2,
+        "columns_desktop": 2,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -314,6 +326,7 @@
     "df2cd8d6-1b73-473c-b64e-4e2f6417324c",
     "403f49a8-9d4f-4deb-8535-09c7631e82c3",
     "3a65f78b-e835-4b52-8cac-8ec2c1ed63f4",
-    "494f930c-b2e7-4c28-83c6-3f55901472a9"
+    "494f930c-b2e7-4c28-83c6-3f55901472a9",
+    "b4f8c016-9881-48d6-879e-0c13ead6b3e6"
   ]
 }
