@@ -91,30 +91,34 @@
     {%- endif -%}
 
     <!-- GEO targetly script to switch .com to .eu in the european union -->
-    <script>
-      (function(g,e,o,t,a,r,ge,tl,y,s){
-      g.getElementsByTagName(o)[0].insertAdjacentHTML('afterbegin','<style id="georedirect1622899293615style">body{opacity:0.0 !important;}</style>');
-      s=function(){g.getElementById('georedirect1622899293615style').innerHTML='body{opacity:1.0 !important;}';};
-      t=g.getElementsByTagName(o)[0];y=g.createElement(e);y.async=true;
-      y.src='https://geotargetly-api-1.com/gr?id=-MbRKUoOrg9RdHp0qYkG&refurl='+g.referrer+'&winurl='+encodeURIComponent(window.location);
-      t.parentNode.insertBefore(y,t);y.onerror=function(){s()};
-      georedirect1622899293615loaded=function(redirect){var to=0;if(redirect){to=5000};
-      setTimeout(function(){s();},to)};
-      })(document,'script','head');
-    </script>
+<!--     {%- if request.host == 'goodbyetomuck.com' -%}
+      <script>
+        (function(g,e,o,t,a,r,ge,tl,y,s){
+        g.getElementsByTagName(o)[0].insertAdjacentHTML('afterbegin','<style id="georedirect1622899293615style">body{opacity:0.0 !important;}</style>');
+        s=function(){g.getElementById('georedirect1622899293615style').innerHTML='body{opacity:1.0 !important;}';};
+        t=g.getElementsByTagName(o)[0];y=g.createElement(e);y.async=true;
+        y.src='https://geotargetly-api-1.com/gr?id=-MbRKUoOrg9RdHp0qYkG&refurl='+g.referrer+'&winurl='+encodeURIComponent(window.location);
+        t.parentNode.insertBefore(y,t);y.onerror=function(){s()};
+        georedirect1622899293615loaded=function(redirect){var to=0;if(redirect){to=5000};
+        setTimeout(function(){s();},to)};
+        })(document,'script','head');
+      </script>
+    {%- endif -%} -->
 
     <!-- GEO targetly script to switch .eu to .com in North America -->
-    <script>
-      (function(g,e,o,t,a,r,ge,tl,y,s){
-      g.getElementsByTagName(o)[0].insertAdjacentHTML('afterbegin','<style id="georedirect1678932611183style">body{opacity:0.0 !important;}</style>');
-      s=function(){g.getElementById('georedirect1678932611183style').innerHTML='body{opacity:1.0 !important;}';};
-      t=g.getElementsByTagName(o)[0];y=g.createElement(e);y.async=true;
-      y.src='https://geotargetly-api-1.com/gr?id=-NQcAclZeyZgYN6XQb2V&refurl='+g.referrer+'&winurl='+encodeURIComponent(window.location);
-      t.parentNode.insertBefore(y,t);y.onerror=function(){s()};
-      georedirect1678932611183loaded=function(redirect){var to=0;if(redirect){to=5000};
-      setTimeout(function(){s();},to)};
-      })(document,'script','head');
-    </script>
+<!--     {%- if request.host == 'goodbyetomuck.eu' -%}
+      <script>
+        (function(g,e,o,t,a,r,ge,tl,y,s){
+        g.getElementsByTagName(o)[0].insertAdjacentHTML('afterbegin','<style id="georedirect1678932611183style">body{opacity:0.0 !important;}</style>');
+        s=function(){g.getElementById('georedirect1678932611183style').innerHTML='body{opacity:1.0 !important;}';};
+        t=g.getElementsByTagName(o)[0];y=g.createElement(e);y.async=true;
+        y.src='https://geotargetly-api-1.com/gr?id=-NQcAclZeyZgYN6XQb2V&refurl='+g.referrer+'&winurl='+encodeURIComponent(window.location);
+        t.parentNode.insertBefore(y,t);y.onerror=function(){s()};
+        georedirect1678932611183loaded=function(redirect){var to=0;if(redirect){to=5000};
+        setTimeout(function(){s();},to)};
+        })(document,'script','head');
+      </script>
+    {%- endif -%} -->
 
     <script src="{{ 'global.js' | asset_url }}" defer="defer"></script>
     {{ content_for_header }}
