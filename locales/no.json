@@ -128,7 +128,29 @@
         "governorate_placeholder": "Governorate",
         "emirate_label": "Emirat",
         "emirate_placeholder": "Emirat",
-        "state_and_territory_label": "Stat\/territorium"
+        "state_and_territory_label": "Stat\/territorium",
+        "state_and_territory_placeholder": "Stat\/territorium",
+        "phone_label": "Telefon",
+        "optional_phone_label": "Telefon valgfritt)",
+        "phone_placeholder": "Telefon",
+        "phone_tooltip": "I tilfelle vi trenger å kontakte deg om bestillingen din",
+        "zip_code_label": "post kode",
+        "zip_code_placeholder": "post kode",
+        "postal_code_label": "Postnummer",
+        "postal_code_placeholder": "Postnummer",
+        "postcode_label": "postnummer",
+        "postcode_placeholder": "postnummer",
+        "pincode_label": "PIN-kode",
+        "pincode_placeholder": "PIN-kode",
+        "civic_number_warning": "Legg til et husnummer hvis du har et"
+      },
+      "delivery_options": {
+        "free_total_label": "Gratis",
+        "ship": "Skip",
+        "shipping_address": "Sendingsadresse",
+        "pick_up": "Plukke opp",
+        "pick_up_locations": "Hentesteder",
+        "pick_up_in_one_hour": "Usually ready in 1 hour"
       }
     }
   }
