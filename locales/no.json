@@ -150,7 +150,31 @@
         "shipping_address": "Sendingsadresse",
         "pick_up": "Plukke opp",
         "pick_up_locations": "Hentesteder",
-        "pick_up_in_one_hour": "Usually ready in 1 hour"
+        "pick_up_in_one_hour": "Usually ready in 1 hour",
+        "pick_up_in_two_hours": "Vanligvis klar på 2 timer",
+        "pick_up_in_four_hours": "Vanligvis klar på 4 timer",
+        "pick_up_in_twenty_four_hours": "Vanligvis klar på 24 timer",
+        "pick_up_in_two_to_four_days": "Vanligvis klar på 2-4 dager",
+        "pick_up_in_five_or_more_days": "Vanligvis klar om 5+ dager",
+        "pick_up_in_zero_to_two_hours": "Klar for henting om 2 timer",
+        "pick_up_in_two_to_four_hours": "Klar for henting om 4 timer",
+        "pick_up_immediately": "Klar for henting nå",
+        "pick_up_next_day": "Klar for henting neste dag"
+      },
+      "customer_account": {
+        "not_user_label": "Ikke %{first_name}?",
+        "have_an_account_label": "Har du allerede en konto?",
+        "sign_in_link_label": "Logg Inn",
+        "sign_out_link_label": "Logg ut",
+        "save_my_information_label": "Lagre denne informasjonen til neste gang"
+      },
+      "stock": {
+        "page_title": "Inventarproblemer",
+        "title": "Utsolgt",
+        "items_unavailable_notice": "Noen varer er ikke lenger tilgjengelig. Handlekurven din har blitt oppdatert.",
+        "product_column_header": "Produkter",
+        "quantity_column_header": "Mengde",
+        "price_column_header": "Pris"
       }
     }
   }
