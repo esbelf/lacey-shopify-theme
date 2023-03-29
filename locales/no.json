@@ -418,7 +418,27 @@
         "card_pay_with": "Betale med:",
         "card_security_notice": "Alle transaksjoner er sikre og krypterte.",
         "card_security_vault_notice": "Vi trenger dine opplysninger for fremtidige betalinger. Alle transaksjoner er sikre og krypterte.",
-        "card_information_notice": "Alle transaksjoner er sikre og krypterte. Kredittkortinformasjon lagres aldri."
+        "card_information_notice": "Alle transaksjoner er sikre og krypterte. Kredittkortinformasjon lagres aldri.",
+        "name_on_card_label": "Navn på kort",
+        "name_on_card_placeholder": "Navn på kort",
+        "card_expired": "Utløpt",
+        "card_expiry_label": "Utløpsdato (MM \/ ÅÅ)",
+        "card_expiry_placeholder": "Utløpsdato (MM \/ ÅÅ)",
+        "credit_card_start_month": "Start måned",
+        "credit_card_start_year": "Startår",
+        "delete_customer_mandate_modal_title": "Vil du fjerne dette betalingskortet?",
+        "delete_customer_mandate_modal_body": "Hvis du fjerner dette kortet, må du legge det til på nytt før du bruker det til betalinger.",
+        "delete_customer_mandate_modal_confirm": "Fjern kortet",
+        "delete_customer_mandate_modal_cancel": "Avbryt",
+        "card_verification_value_label": "Sikkerhetskode",
+        "card_verification_value_placeholder": "Sikkerhetskode",
+        "card_verification_confirm": "For verifiseringsformål, vennligst skriv inn kortets sikkerhetskode.",
+        "card_expiry_date_explanation": "Kortets utløpsdato i format: måned, måned, år, år",
+        "card_expiration_month_label": "Utløpsmåned",
+        "card_expiration_year_label": "Utløpsår",
+        "card_verification_value_explanation": "3-digit security code usually found on the back of your card. American Express cards have a 4-digit code located on the front.",
+        "card_verification_value_explanation_amex": "4-sifret sikkerhetskode på forsiden av kortet ditt",
+        "card_verification_value_explanation_other": "3-sifret sikkerhetskode på baksiden av kortet ditt"
       }
     }
   }
