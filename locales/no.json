@@ -673,6 +673,36 @@
       "alternative_payment_method": {
         "button_html": "Kasse med: %{method}",
         "button_label": "Kasse med: %{method}"
+      },
+      "paypal": {
+        "button_html": "Kasse med %{logo}"
+      },
+      "apple_pay": {
+        "button_html": "Kjøp med %{logo}"
+      },
+      "post_purchase": {
+        "page_title": "Etter kjøp",
+        "title": "Etter kjøp",
+        "escape_confirmation": "Du har betalt for bestillingen din.",
+        "escape_action": "Se ordrebekreftelse ›",
+        "components": {
+          "close": "Lukk",
+          "expand": "Se mer",
+          "processing": "Behandling…",
+          "submit": "Submit"
+        }
+      },
+      "processing": {
+        "redirecting_page_title": "Omdirigerer …",
+        "redirecting_title": "Omdirigerer …",
+        "redirecting_notice": "Vent mens vi omdirigerer deg.",
+        "complete_your_purchase_title": "Fullfør kjøpet",
+        "continue_to_payment_gateway_notice": "Fortsett til betaling for å legge til betalingsinformasjonen din.",
+        "continue_to_payment_gateway_button_label": "Fortsett å betale",
+        "complete_your_purchase_title_error": "Korriger betalingsinformasjonen din",
+        "continue_to_payment_gateway_notice_error": "Betalingsinformasjonen din kunne ikke bekreftes.",
+        "continue_to_payment_gateway_button_label_error": "Oppdater betalingsinformasjon",
+        "page_title": "Behandler ordre"
       }
     }
   }
