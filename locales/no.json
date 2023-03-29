@@ -732,7 +732,27 @@
         "money_order_label": "Postanvisning"
       },
       "thank_you": {
-        "title": "Takk for kjøpet!"
+        "title": "Takk for kjøpet!",
+        "confirmation_email_sent_text": "En bekreftelses-e-post er sendt til %{email}",
+        "return_to_store_link_label": "Fortsette å handle",
+        "print_link_label": "Skriv ut kvittering",
+        "payment_information_title": "Betalingsinformasjon",
+        "shipping_information_title": "Fraktinformasjon",
+        "page_title": "Takk %{display_name}!",
+        "page_title_no_name": "Takk skal du ha!",
+        "cancelled_page_title": "Bestillingen kansellert",
+        "customer_information_title": "Kundeinformasjon",
+        "contact_information_title": "Kontaktinformasjon",
+        "billing_address_title": "Fakturaadresse",
+        "company_location_title": "plassering",
+        "shipping_address_title": "Sendingsadresse",
+        "shipping_address_map_title": "Google-kart som viser nøyaktig leveringsadresse: %{address}",
+        "payment_method_title": "Betalingsmetode",
+        "shipping_method_title": "Forsendelsesmetode",
+        "tracking_number": "Sporingsnummer:",
+        "company_tracking_number": "%{company} sporingsnummer:",
+        "estimated_arrival": "Estimert leveringsdato:",
+        "estimated_delivery": "Gjeldende leveringsestimat:"
       }
     }
   }
