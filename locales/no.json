@@ -204,7 +204,27 @@
         "order_name_label": "Bestill %{name}",
         "shopping_cart_label": "Handlevogn",
         "discount_title": "Rabatt",
-        "discount_label": "Rabattkode"
+        "discount_label": "Rabattkode",
+        "discount_placeholder": "Rabattkode",
+        "gift_card_title": "Gavekort",
+        "gift_card_label": "Gavekort",
+        "gift_card_placeholder": "Gavekort",
+        "gift_card_and_discount_title": "Gavekort eller rabattkode",
+        "gift_card_and_discount_label": "Gavekort eller rabattkode",
+        "gift_card_and_discount_placeholder": "Gavekort eller rabattkode",
+        "remove_gift_card_label": "Tydelig gavekort",
+        "remove_discount_label": "Fjern rabatt",
+        "free_shipping_discount_label": "Gratis frakt",
+        "applied_free_shipping_discount_label": "Anvendt",
+        "apply_discount_button_label": "Søke om",
+        "applied_discount_message": "%{amount} rabatt på total bestillingspris",
+        "discount_has_been_applied": "Rabatten er brukt",
+        "discount_has_been_removed": "Rabatten er fjernet",
+        "gift_card_has_been_applied": "Gavekortet er tatt i bruk",
+        "gift_card_has_been_removed": "Gavekortet er fjernet",
+        "gift_card_subscriptions_notice": "Gavekort gjelder kun for din første betaling",
+        "discount_already_applied": "Det er gitt en rabatt på denne bestillingen. Du kan ikke legge til en ny rabatt.",
+        "cart_does_not_meet_discount_requirements_notice": "%{CODE} rabattkode er ikke gyldig for varene i handlekurven din"
       }
     }
   }
