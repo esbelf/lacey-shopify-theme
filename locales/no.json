@@ -108,7 +108,27 @@
         "company_label": "Selskap",
         "optional_company_label": "Firma (valgfritt)",
         "address1_label": "Adresse",
-        "address2_label": "Leilighet, suite osv."
+        "address2_label": "Leilighet, suite osv.",
+        "optional_address2_label": "Leilighet, suite osv. (valgfritt)",
+        "city_label": "By",
+        "country_label": "Land\/region",
+        "country_code": "Lands-\/regionkode",
+        "province_label": "Provins",
+        "province_placeholder": "Provins",
+        "county_label": "fylke",
+        "county_placeholder": "fylke",
+        "state_label": "Stat",
+        "state_placeholder": "Stat",
+        "region_label": "Region",
+        "region_placeholder": "Region",
+        "region_none": "Ingen valgt",
+        "prefecture_label": "Prefektur",
+        "prefecture_placeholder": "Prefektur",
+        "governorate_label": "Governorate",
+        "governorate_placeholder": "Governorate",
+        "emirate_label": "Emirat",
+        "emirate_placeholder": "Emirat",
+        "state_and_territory_label": "Stat\/territorium"
       }
     }
   }
