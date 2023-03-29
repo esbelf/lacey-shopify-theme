@@ -332,7 +332,43 @@
         "estimated_time": "Anslått %{time}",
         "estimated_time_range": "Anslått %{min_time}–%{max_time}",
         "shipping_line_phone_label": "Mobilnummer (påkrevd)",
-        "shipping_line_phone": "Din kurer kan bruke dette nummeret til å kontakte deg."
+        "shipping_line_phone": "Din kurer kan bruke dette nummeret til å kontakte deg.",
+        "shipping_line_delivery_phone_label": "Mobiltelefonnummer",
+        "shipping_line_delivery_phone": "Du kan bli kontaktet med oppdateringer om leveringen din.",
+        "optional_shipping_line_delivery_instructions_label": "Leveringsinstruksjoner (valgfritt)",
+        "shipping_line_delivery_instructions": "Skriv inn nødvendig informasjon som dørkoder eller avleveringsinstruksjoner.",
+        "other_method": {
+          "zero": "Ingen andre metoder tilgjengelig",
+          "one": "%{count} annen metode tilgjengelig på",
+          "other": "%{count} andre metoder tilgjengelig fra kl"
+        },
+        "shipping_rate_discounted_amount": "Var: %{original_amount}. Nå: %{amount}",
+        "local_delivery": "Lokal levering",
+        "subscription_delivery_description": {
+          "prepaid_delivery_frequency": {
+            "one": "for %{count} levering",
+            "other": "for %{count} leveranser"
+          },
+          "subscription_delivery_frequency": {
+            "day": {
+              "one": "hver dag",
+              "other": "hver %{count} dag"
+            },
+            "week": {
+              "one": "hver uke",
+              "other": "hver %{count} uke"
+            },
+            "month": {
+              "one": "hver måned",
+              "other": "hver %{count} måned"
+            },
+            "year": {
+              "one": "hvert år",
+              "other": "hvert %{count} år"
+            }
+          },
+          "multiple_subscriptions_shipping_price_label": "%{shipping_price} per levering"
+        }
       }
     }
   }
