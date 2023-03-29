@@ -702,7 +702,37 @@
         "complete_your_purchase_title_error": "Korriger betalingsinformasjonen din",
         "continue_to_payment_gateway_notice_error": "Betalingsinformasjonen din kunne ikke bekreftes.",
         "continue_to_payment_gateway_button_label_error": "Oppdater betalingsinformasjon",
-        "page_title": "Behandler ordre"
+        "page_title": "Behandler ordre",
+        "title": "Behandler ordre",
+        "your_order_has_been_received_title": "takk for din bestilling",
+        "you_will_receive_confirmation": "Vi får mange bestillinger akkurat nå. Du bør snart motta bekreftelse på e-post eller tekstmelding. Gi oss beskjed hvis du ikke mottar den i løpet av den neste timen.",
+        "you_will_not_be_charged": "Du blir ikke belastet ennå",
+        "wait": {
+          "short": "Bestillingen din behandles.",
+          "medium": {
+            "one": "Bestillingen din behandles. Estimert ventetid er %{count} minutt.",
+            "other": "Bestillingen din behandles. Estimert ventetid er %{count} minutter."
+          },
+          "long": "Du vil motta en e-post så snart bestillingen din er behandlet. Det er for tiden et høyt ordrevolum.",
+          "no_auto_refresh_html": "Hvis du ikke blir omdirigert automatisk, %{link}.",
+          "refresh_this_page": "oppdater denne siden"
+        }
+      },
+      "failed_payment": {
+        "page_title": "Betalingen kunne ikke behandles",
+        "title": "Betalingen kunne ikke behandles",
+        "payment_not_processed_title": "Betalingen din kunne ikke behandles",
+        "payment_not_processed_text": "Du har ikke blitt belastet. Gå tilbake til handlekurven for å fullføre kjøpet.",
+        "return_to_cart_button_label": "Gå tilbake til handlekurven"
+      },
+      "payment_gateway": {
+        "credit_card_label": "Kredittkort",
+        "bank_deposit_label": "Bankinnskudd",
+        "cash_on_delivery_label": "Postoppkrav (COD)",
+        "money_order_label": "Postanvisning"
+      },
+      "thank_you": {
+        "title": "Takk for kjøpet!"
       }
     }
   }
