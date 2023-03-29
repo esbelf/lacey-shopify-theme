@@ -36,5 +36,32 @@
       "success": "Kommentaren din ble lagt ut! Takk skal du ha!",
       "success_moderated": "Kommentaren din ble lagt ut. Vi vil publisere den om en liten stund, ettersom bloggen vår er moderert."
     }
+  },
+  "shopify": {
+    "sentence": {
+      "two_words_connector": "og",
+      "last_word_connector": ", og"
+    },
+    "checkout": {
+      "general": {
+        "page_title": "Sjekk ut",
+        "error_page_title": "Error",
+        "skip_to_content": "Hopp til innholdet",
+        "breadcrumb": "Brødsmule",
+        "continue_button_label": "Fortsette",
+        "complete_purchase_button_label": "Fullfør bestilling",
+        "pay_now_button_label": "Betal nå",
+        "authenticate_purchase_button_label": "Autentiser betaling",
+        "edit_link_label": "Redigere",
+        "all_rights_reserved": "Alle rettigheter forbeholdt %{shop_name}",
+        "print_policies_link_label": "Skrive ut",
+        "cart": "Handlevogn",
+        "close_modal_label": "Lukk",
+        "close_notice_label": "Lukk",
+        "expand_notice_label": "View more",
+        "continue_to_shipping_method": "Fortsett til frakt",
+        "continue_to_payment_method": "Continue to payment"
+      }
+    }
   }
 }
