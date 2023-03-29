@@ -772,7 +772,27 @@
         "thank_you_confirmed_order_with_phone_pick_up": "Du vil motta en tekstmelding når bestillingen din er klar for henting.",
         "thank_you_confirmed_order_with_email_and_phone_pick_up": "Du vil motta en e-post når bestillingen din er klar for henting.",
         "thank_you_confirmed_order_with_missing": "Kontakt oss på e-post eller telefon for å motta en ordrebekreftelse.",
-        "thank_you_confirmed_order_with_draft": "Vi gir deg beskjed hvis vi trenger mer informasjon eller når bestillingen din er bekreftet."
+        "thank_you_confirmed_order_with_draft": "Vi gir deg beskjed hvis vi trenger mer informasjon eller når bestillingen din er bekreftet.",
+        "order_status_confirmed_order_with_email": "Du vil motta en e-post når bestillingen er klar.",
+        "order_status_confirmed_order_with_phone": "You may receive a text when your order is ready.",
+        "order_status_confirmed_order_with_email_and_phone": "Du vil motta en e-post når bestillingen er klar.",
+        "order_status_confirmed_order_with_email_payment": "Du foretok en betaling på bestillingen din %{date}.",
+        "order_status_confirmed_order_with_phone_payment": "Du foretok en betaling på bestillingen din %{date}.",
+        "order_status_confirmed_order_with_email_and_phone_payment": "Du foretok en betaling på bestillingen din %{date}.",
+        "order_status_confirmed_order_with_email_pick_up": "Du vil motta en e-post når bestillingen din er klar for henting.",
+        "order_status_confirmed_order_with_phone_pick_up": "Du vil motta en e-post når bestillingen din er klar for henting.",
+        "order_status_confirmed_order_with_email_and_phone_pick_up": "Du vil motta en e-post og tekstmelding når bestillingen er klar for henting.",
+        "order_status_confirmed_order_local": "Vi gjør bestillingen klar for levering.",
+        "order_status_updates_with_email": "Du får oppdateringer om frakt og levering på e-post.",
+        "order_status_updates_with_phone": "Du kan få oppdateringer om frakt og levering via tekstmelding.",
+        "order_status_updates_with_email_and_phone": "Du får oppdateringer om frakt og levering på e-post.",
+        "order_status_updates_with_missing": "Velg hvordan du vil få fraktoppdateringer.",
+        "order_status_confirmed_with_installments_payment_return": "Vennligst vend oppmerksomheten tilbake til salgsmedarbeideren.",
+        "order_status_confirmed_with_installments_payment_confirm": "Du vil snart motta en bekreftelses-e-post med bestillingsnummeret ditt og detaljer om avdragsplanen.",
+        "confirmed_title": "Din bestilling er bekreftet",
+        "confirmed_description": "Vi har godtatt bestillingen din, og vi gjør den klar. Kom tilbake til denne siden for oppdateringer om forsendelsesstatusen din.",
+        "ready_for_pickup_title": "Bestillingen din er klar for henting",
+        "ready_for_pickup_description": "Your order is ready for pickup. Please bring your order confirmation when you pick up your order."
       }
     }
   }
