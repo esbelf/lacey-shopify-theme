@@ -398,7 +398,27 @@
         "amazon_payments_label": "Amazon Pay",
         "amazon_payments_login_hint": "Du vil bli bedt om å logge på med Amazon.",
         "amazon_payments_logout": "Log out from Amazon Pay",
-        "amazon_payments_failed_mfa_challenge": "Den valgte betalingsmåten kunne ikke brukes. Velg en annen metode eller kontakt banken eller kortutstederen din."
+        "amazon_payments_failed_mfa_challenge": "Den valgte betalingsmåten kunne ikke brukes. Velg en annen metode eller kontakt banken eller kortutstederen din.",
+        "amazon_payments_abandoned_mfa_challenge": "Betalingen din kunne ikke fullføres. Prøv en annen betalingsmåte eller kontakt banken eller kortutstederen din.",
+        "amazon_payments_could_not_enqueue_authorize": "Det oppsto et problem under behandlingen av betalingen din. Prøv på nytt eller bruk en annen betalingsmetode.",
+        "title": "innbetaling",
+        "amount_left_to_pay_label": "Betalings forfall:",
+        "discount_button_action_label": "Bruk rabattkode",
+        "gift_card_code_label": "Gavekortkode",
+        "apply_gift_card_button_label": "Søke om",
+        "gift_card_balance_label": "Balansere:",
+        "supported_card_brands_more_label": "og mer…",
+        "detected_card_brand": "Oppdaget kortmerke: {brand}",
+        "credit_card_vaulting_sign_in_banner_title": "Lagre kredittkortet ditt",
+        "credit_card_vaulting_sign_in_banner_info": "Logg inn eller opprett en konto for å lagre kredittkortet ditt for fremtidige kjøp.",
+        "credit_card_vaulting_sign_in_banner_button_label": "Logg Inn",
+        "ftd_vault_credit_card_label": "Lagre dette kredittkortet på kontoen min for en raskere utsjekking",
+        "card_number_label": "Kortnummer",
+        "card_number_placeholder": "Kortnummer",
+        "card_pay_with": "Betale med:",
+        "card_security_notice": "Alle transaksjoner er sikre og krypterte.",
+        "card_security_vault_notice": "Vi trenger dine opplysninger for fremtidige betalinger. Alle transaksjoner er sikre og krypterte.",
+        "card_information_notice": "Alle transaksjoner er sikre og krypterte. Kredittkortinformasjon lagres aldri."
       }
     }
   }
