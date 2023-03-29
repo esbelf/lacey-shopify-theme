@@ -60,7 +60,9 @@
         "close_notice_label": "Lukk",
         "expand_notice_label": "View more",
         "continue_to_shipping_method": "Fortsett til frakt",
-        "continue_to_payment_method": "Continue to payment"
+        "continue_to_payment_method": "Continue to payment",
+        "continue_to_review": "Gjennomgå bestillingen",
+        "back_to_cart": "Gå tilbake til handlekurven"
       }
     }
   }
