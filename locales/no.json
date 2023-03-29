@@ -792,7 +792,27 @@
         "confirmed_title": "Din bestilling er bekreftet",
         "confirmed_description": "Vi har godtatt bestillingen din, og vi gjør den klar. Kom tilbake til denne siden for oppdateringer om forsendelsesstatusen din.",
         "ready_for_pickup_title": "Bestillingen din er klar for henting",
-        "ready_for_pickup_description": "Your order is ready for pickup. Please bring your order confirmation when you pick up your order."
+        "ready_for_pickup_description": "Your order is ready for pickup. Please bring your order confirmation when you pick up your order.",
+        "ready_for_delivery_title": "Bestillingen din er klar for levering.",
+        "ready_for_delivery_description": "Vi har forberedt bestillingen din.",
+        "order_updates_title": "Bestill oppdateringer",
+        "shop_phone_description": "Du vil motta en tekstmelding med en lenke til Shop-appen for å hjelpe deg med å spore bestillingen din.",
+        "order_updates_description_html": "Oppdateringer vil bli sendt til %{customer_contact}",
+        "order_updates_current_step_prefix": "Nåværende trinn:",
+        "order_updates_past_step_prefix": "Forrige trinn:",
+        "order_updates_upcoming_step_prefix": "Kommende trinn:",
+        "in_transit": "På vei",
+        "in_transit_title": "Bestillingen din er på vei",
+        "in_transit_description": "Du vil motta oppdateringer om fremdriften.",
+        "in_transit_description_days": "Du bør motta bestillingen i løpet av de neste %{number} dagene.",
+        "in_transit_description_today": "Du bør motta bestillingen din i dag.",
+        "in_transit_description_tomorrow": "Du bør motta bestillingen din neste dag.",
+        "no_tracking_number": "There is no tracking number for this order.",
+        "out_for_delivery": "Ute for levering",
+        "out_for_delivery_title": "Bestillingen din er ute for levering",
+        "out_for_delivery_description_html": "Bestillingen din er på vei og skal ankomme i dag. Hvis den ikke leveres i løpet av de neste 2 dagene, %{contact_us}.",
+        "out_for_delivery_local_title": "Bestillingen din er ute for levering",
+        "out_for_delivery_local_description_html": "Bestillingen din kommer snart."
       }
     }
   }
