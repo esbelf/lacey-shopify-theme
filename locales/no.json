@@ -287,7 +287,30 @@
           "paid_today": "Totalt betalt i dag",
           "due_on_fulfillment_title": "Betaling på %{amount_due} forfaller ved oppfyllelse",
           "due_on_receipt_title": "Betaling på %{amount_due} forfaller ved mottak"
-        }
+        },
+        "payment_terms_totals": {
+          "due_today": "Totalt forfall i dag",
+          "due_later": "Total forfall %{due_at}",
+          "due_on_fulfillment": "Total forfall ved oppfyllelse",
+          "due_on_receipt": "Totalt forfaller ved mottak",
+          "due_later_checkout_to_draft": "Totalt forfaller senere"
+        },
+        "maximum_discount_code_limit_reached": "Du har nådd maksimalt antall rabattkoder. Fjern en eksisterende kode for å bruke %{CODE}.",
+        "discount_code_application_failed": "%{CODE} fungerer ikke akkurat nå. Kontakt oss for hjelp."
+      },
+      "shipping": {
+        "title": "Shipping",
+        "shipping_method_title": "Forsendelsesmetode",
+        "shipping_method_one_time_purchase_group_title": "Forsendelsesmetode",
+        "shipping_method_subscription_group_title": "Abonnement",
+        "subscription_shipping": "Abonnementsfrakt",
+        "subscription_local_delivery": "Abonnementsfrakt",
+        "subscription_pickup": "Abonnementsfrakt",
+        "waiting_on_rate_notice": "Får tilgjengelige fraktpriser …",
+        "waiting_on_pickup_location_notice": "Får tilgjengelige hentesteder …",
+        "no_rates_for_cart_or_destination_notice": "Det er ingen tilgjengelige forsendelsesmetoder for handlekurven eller adressen din",
+        "no_pickup_location_notice": "Minst ett av produktene dine er ikke tilgjengelig for henting",
+        "no_rates_for_country_notice": "Fant ingen fraktpriser for denne adressen."
       }
     }
   }
