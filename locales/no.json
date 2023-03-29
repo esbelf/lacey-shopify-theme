@@ -85,8 +85,30 @@
         },
         "tooltip_accessibility_label": "Mer informasjon",
         "errors": {
-          "session_identifier_not_unique_error": "Noe gikk galt med bestillingen din. Prøv å sjekke ut igjen."
-        }
+          "session_identifier_not_unique_error": "Noe gikk galt med bestillingen din. Prøv å sjekke ut igjen.",
+          "line_item_limit_reached": "Maksimalt antall artikler er nådd."
+        },
+        "full_price": "Full pris:"
+      },
+      "contact": {
+        "title": "Informasjon",
+        "address_title": "Adresse",
+        "shipping_address_title": "Sendingsadresse",
+        "delivery_option_title": "Delivery method",
+        "contact_method_title": "Kontaktinformasjon",
+        "email_label": "E-post",
+        "email_placeholder": "E-post",
+        "email_or_phone_label": "E-post eller mobilnummer",
+        "email_or_phone_placeholder": "E-post eller mobilnummer",
+        "stored_addresses_label": "Lagrede adresser",
+        "new_address_label": "Bruk en ny adresse",
+        "first_name_label": "Fornavn",
+        "optional_first_name_label": "Fornavn (valgfritt)",
+        "last_name_label": "Etternavn",
+        "company_label": "Selskap",
+        "optional_company_label": "Firma (valgfritt)",
+        "address1_label": "Adresse",
+        "address2_label": "Leilighet, suite osv."
       }
     }
   }
