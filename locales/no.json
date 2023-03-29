@@ -458,7 +458,31 @@
         "different_billing_address_label": "Bruk en annen faktureringsadresse",
         "billing_address_associated_with_mandate": "Bruk adressen knyttet til betalingsmåten",
         "billing_address_associated_with_mandate_info": "Hvis du ønsker å endre faktureringsadressen din, vennligst fjern og skriv inn kredittkortopplysningene dine på nytt",
-        "free_order_notice_html": "Bestillingen din er gratis. Ingen betaling kreves."
+        "free_order_notice_html": "Bestillingen din er gratis. Ingen betaling kreves.",
+        "express_checkout_free_order": "Du vil ikke bli belastet for en gratis bestilling",
+        "order_covered_by_gift_cards_notice": {
+          "one": "Bestillingen din dekkes av gavekortet ditt.",
+          "other": "Bestillingen din dekkes av gavekortene dine."
+        },
+        "offsite_gateway_redirect_hint": "Etter å ha klikket på «%{button_label}», blir du omdirigert til %{gateway_label} for å fullføre kjøpet på en sikker måte.",
+        "offsite_gateway_redirect_hint_multi_currency_html": "%{gateway_label} totalt %{total_shop_price}",
+        "receiver_payment_experience_hint": "Etter at du har lagt inn bestillingen din, vil du motta betalingsinformasjon. Foreta betalingen på Multibanco eller online innen %{due_days} dager.",
+        "billing_address_title": "Fakturaadresse",
+        "billing_address_description": "Velg adressen som samsvarer med kortet eller betalingsmåten.",
+        "billing_address_description_no_shipping_address": "Skriv inn adressen som samsvarer med kortet eller betalingsmåten.",
+        "no_js_credit_card_fields_redirect_hint": "Du vil bli omdirigert for å legge til betalingsinformasjonen din.",
+        "card_fields_container_prefix": "Feltbeholder for:",
+        "card_fields_unavailable_html": {
+          "one": "Oppdater denne siden eller prøv igjen senere.",
+          "other": "Kreditt- og debetkortbetalinger er ikke tilgjengelig akkurat nå.<br data-mce-fragment=\"1\">Oppdater denne siden eller prøv en annen betalingsmetode."
+        },
+        "card_fields_processing_error": "Det oppsto et problem med å behandle betalingen. Prøv å oppdatere denne siden eller sjekk internettforbindelsen din.",
+        "technical_error": "Betalinger kan ikke behandles akkurat nå på grunn av et teknisk problem. Prøv igjen om noen minutter.",
+        "no_method_error": "Denne butikken kan ikke godta betalinger akkurat nå.",
+        "not_configured_error": "Denne butikken kan ikke godta betalinger akkurat nå.",
+        "missing_credit_card_error": "Skriv inn kortdetaljene dine for å fullføre betalingen",
+        "billing_address_not_supported_for_payment_method_error": "Denne betalingsmåten er ikke tilgjengelig for faktureringsadressen og valutaen din. Prøv en annen betalingsmåte.",
+        "generic_incorrect_card_info": "Betalingsopplysningene dine kunne ikke bekreftes. Sjekk kortdetaljene dine og prøv igjen."
       }
     }
   }
