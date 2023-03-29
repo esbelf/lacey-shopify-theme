@@ -482,7 +482,29 @@
         "not_configured_error": "Denne butikken kan ikke godta betalinger akkurat nå.",
         "missing_credit_card_error": "Skriv inn kortdetaljene dine for å fullføre betalingen",
         "billing_address_not_supported_for_payment_method_error": "Denne betalingsmåten er ikke tilgjengelig for faktureringsadressen og valutaen din. Prøv en annen betalingsmåte.",
-        "generic_incorrect_card_info": "Betalingsopplysningene dine kunne ikke bekreftes. Sjekk kortdetaljene dine og prøv igjen."
+        "generic_incorrect_card_info": "Betalingsopplysningene dine kunne ikke bekreftes. Sjekk kortdetaljene dine og prøv igjen.",
+        "sofort_label": "Sofort bankoverføring",
+        "paypal_label": "PayPal",
+        "paypal_modal": {
+          "order_contains_subscriptions": "Abonnement",
+          "order_contains_fixed_selling_plans": "Summen inkluderer kanskje ikke skatter, frakt, utsatte kostnader og enkelte rabatter. Fortsett å betale for beløpet som skal betales i dag."
+        },
+        "klarna_label": "Klarna",
+        "klarna_pay_later_label": "Betal senere med Klarna",
+        "klarna_pay_now_label": "Betal nå med Klarna",
+        "bancontact_label": "Bancontact",
+        "giropay_label": "Giropay",
+        "multibanco_label": "Multibanco",
+        "eps_label": "eps-Überweisung",
+        "klarna_slice_it_label": "Økonomi med Klarna",
+        "ideal_label": "iDEAL",
+        "bank_picker_label": "Bank",
+        "purchase_options_card_update_agreement_label_html": "Ved å oppdatere betalingsmåten din godkjenner du betalinger for ethvert gjentakende eller utsatt kjøp i henhold til denne butikkens kanselleringspolicy.",
+        "subscription_card_update_agreement_label": "Endring av betalingsmåte vil oppdatere abonnementet ditt og fremtidige gjentakende betalinger.",
+        "subscription_agreement_label": "I understand that I'm agreeing to a subscription. It will renew at the price and frequency listed until it ends or is %{cancelled}.",
+        "subscription_agreement_cancelled": "kansellert",
+        "subscription_agreement_label_html": "Jeg forstår at jeg godtar et abonnement. Den fornyes til prisen og frekvensen som er oppført til den avsluttes eller kanselleres.",
+        "purchase_options_agreement_label": "I understand that one or more items in my cart is a deferred or recurring purchase. By continuing, I agree to the %{cancellation_policy_label} and authorize you to charge my payment method at the prices, frequency and dates listed on this page until my order is fulfilled or I cancel, if permitted."
       }
     }
   }
