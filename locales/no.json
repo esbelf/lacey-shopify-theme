@@ -752,7 +752,27 @@
         "tracking_number": "Sporingsnummer:",
         "company_tracking_number": "%{company} sporingsnummer:",
         "estimated_arrival": "Estimert leveringsdato:",
-        "estimated_delivery": "Gjeldende leveringsestimat:"
+        "estimated_delivery": "Gjeldende leveringsestimat:",
+        "re-order": "Bestill de samme varene på nytt",
+        "confirmed": "Bekreftet",
+        "gift_card_confirmation_by_text": "Gavekort sendes på sms. Hvis du ikke har mottatt din, prøv å sende dem på nytt eller kontakt oss.",
+        "gift_card_confirmation_by_email": "Gavekort sendes på e-post. Hvis du ikke har mottatt din, prøv å sende dem på nytt eller kontakt oss.",
+        "gift_card_title": "Gavekort",
+        "resend_gift_cards": "Send gavekort på nytt",
+        "thank_you_title": "Din bestilling er bekreftet",
+        "thank_you_title_payment": "Betalingen din er bekreftet",
+        "thank_you_title_review": "Your order has been submitted for review",
+        "thank_you_confirmed_order_with_email": "Du vil snart motta en bekreftelses-e-post med bestillingsnummeret ditt.",
+        "thank_you_confirmed_order_with_phone": "Du kan motta en bekreftelsestekst med ordrenummeret ditt innen kort tid.",
+        "thank_you_confirmed_order_with_email_and_phone": "Du vil snart motta en bekreftelses-e-post med bestillingsnummeret ditt.",
+        "thank_you_confirmed_order_with_email_payment": "Du foretok en betaling på bestillingen din %{date}.",
+        "thank_you_confirmed_order_with_phone_payment": "Du foretok en betaling på bestillingen din %{date}.",
+        "thank_you_confirmed_order_with_email_and_phone_payment": "Du foretok en betaling på bestillingen din %{date}.",
+        "thank_you_confirmed_order_with_email_pick_up": "Du vil motta en e-post når bestillingen din er klar for henting.",
+        "thank_you_confirmed_order_with_phone_pick_up": "Du vil motta en tekstmelding når bestillingen din er klar for henting.",
+        "thank_you_confirmed_order_with_email_and_phone_pick_up": "Du vil motta en e-post når bestillingen din er klar for henting.",
+        "thank_you_confirmed_order_with_missing": "Kontakt oss på e-post eller telefon for å motta en ordrebekreftelse.",
+        "thank_you_confirmed_order_with_draft": "Vi gir deg beskjed hvis vi trenger mer informasjon eller når bestillingen din er bekreftet."
       }
     }
   }
