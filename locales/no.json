@@ -610,7 +610,11 @@
         "payment_gateway_incompatible_with_multi_currency": "For å fullføre denne kassen i din lokale valuta, må du betale med kredittkort.",
         "payment_gateway_unsupported_for_subscriptions": "Denne betalingsmåten er ikke tilgjengelig for abonnementsbestillinger.",
         "payment_gateway_unsupported_for_deferred_purchase_options": "Denne betalingsmåten er ikke tilgjengelig for utsatte kjøpsalternativer.",
-        "payment_gateway_unsupported_for_country": "Denne betalingsmåten er ikke tilgjengelig for fraktlandet ditt."
+        "payment_gateway_unsupported_for_country": "Denne betalingsmåten er ikke tilgjengelig for fraktlandet ditt.",
+        "purchase_options_agreement_blank": "For å fortsette med kjøpet må du godta de utsatte eller gjentakende kjøpsvilkårene.",
+        "physical_gift_card_invalid_quantity": "Fysiske gavekortordrelinjer må ha et antall som samsvarer med antall gavekortkoder.",
+        "physical_gift_card_duplicate_code": "Fysisk gavekortordrelinje inneholder duplikatkode.",
+        "physical_gift_card_invalid_code": "Den fysiske gavekortkoden er ugyldig."
       },
       "payment_summary": {
         "gift_card_current_balance_notice": "Gjeldende saldo %{amount}",
@@ -619,6 +623,24 @@
         "manual_payment_gateway_label": "Håndbok",
         "billing_address_title": "Billing address",
         "free_label": "Gratis"
+      },
+      "payment_errors": {
+        "generic_error": "Det oppsto et problem under behandlingen av betalingen din. Prøv på nytt eller bruk en annen betalingsmetode.",
+        "rejected_transaction": "Betalingen din ble avvist. Prøv på nytt eller bruk en annen betalingsmetode.",
+        "credit_card_processing": "Betalingen din kan ikke behandles av tekniske årsaker. Prøv igjen om noen minutter, eller bruk en annen betalingsmetode.",
+        "checkout_amount_changed": "Betalingen din kunne ikke behandles fordi beløpet som skal betales i kassen har endret seg. Vennligst sjekk bestillingen din og prøv igjen.",
+        "deferred_payment_not_allowed": "Utsatt betaling er ikke tillatt. Vennligst sjekk bestillingen din og prøv igjen.",
+        "deferred_payment_required": "Denne bestillingen krever utsatt betaling. Vennligst sjekk bestillingen din og prøv igjen.",
+        "deferred_amount_changed": "Betalingen din kunne ikke behandles fordi det utsatte betalingsbeløpet er endret. Vennligst sjekk bestillingen din og prøv igjen.",
+        "deferred_date_changed": "Betalingen din kunne ikke behandles fordi den utsatte betalingsdatoen er endret. Vennligst sjekk bestillingen din og prøv igjen.",
+        "order_total_changed": "Betalingen din kunne ikke behandles fordi totalen for ordren din er endret. Sjekk totalen for ordren og prøv igjen.",
+        "payment_processing": "Betalingen din kan ikke behandles av tekniske årsaker. Prøv på nytt eller bruk en annen betalingsmetode.",
+        "payment_processing_no_retry": "Betalingen din kan ikke behandles av tekniske årsaker. Prøv en annen betalingsmåte.",
+        "paypal_zero_amount": "Du kan ikke bruke PayPal for %{amount} bestillinger. Bekreft at bestillingen din er riktig og sjekk ut uten PayPal.",
+        "paypal_invalid_token": "PayPal var ikke tilgjengelig. Prøv på nytt eller bruk et annet betalingsalternativ.",
+        "pay_later_failed": "Det oppsto en feil under behandling av betalingen din med Pay senere. Velg en annen betalingsmåte og prøv på nytt.",
+        "three_d_secure_failed": "Betalingen din kunne ikke bekreftes. Prøv på nytt eller bruk en annen betalingsmetode.",
+        "three_d_secure_failed_duplicate": "Kredittkortets 3D Secure-autentisering mislyktes fordi en annen allerede er i gang."
       }
     }
   }
