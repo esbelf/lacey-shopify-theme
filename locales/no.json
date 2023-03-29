@@ -438,7 +438,27 @@
         "card_expiration_year_label": "Utløpsår",
         "card_verification_value_explanation": "3-digit security code usually found on the back of your card. American Express cards have a 4-digit code located on the front.",
         "card_verification_value_explanation_amex": "4-sifret sikkerhetskode på forsiden av kortet ditt",
-        "card_verification_value_explanation_other": "3-sifret sikkerhetskode på baksiden av kortet ditt"
+        "card_verification_value_explanation_other": "3-sifret sikkerhetskode på baksiden av kortet ditt",
+        "card_start_label": "Utstedelsesdato (MM \/ ÅÅ)",
+        "card_start_placeholder": "Utstedelsesdato (MM \/ ÅÅ)",
+        "card_issue_number_label": "Utstedelsesnummer",
+        "card_issue_number_placeholder": "Utstedelsesnummer",
+        "card_change_label": "Endring",
+        "card_update_label": "Oppdater kortet",
+        "ends_with_label": "slutter med %{last_digits}",
+        "masked_digits_label": "•••• %{siste sifre}",
+        "payment_method_saved": "Betalingsmåten er lagret",
+        "card_vaulted_company_location": "Kortet er lagret for denne plasseringen",
+        "expiry_long": "(Utløper %{month}\/%{år})",
+        "expiry_short": "(Utløp %{month}\/%{år})",
+        "saved_by_payment_method": "Lagret av %{payment_method}",
+        "pay_with_payment_method": "Betal med %{payment_method}",
+        "different_credit_card_label": "Bruk et annet kredittkort",
+        "same_billing_address_label": "samme som leveringsadressen",
+        "different_billing_address_label": "Bruk en annen faktureringsadresse",
+        "billing_address_associated_with_mandate": "Bruk adressen knyttet til betalingsmåten",
+        "billing_address_associated_with_mandate_info": "Hvis du ønsker å endre faktureringsadressen din, vennligst fjern og skriv inn kredittkortopplysningene dine på nytt",
+        "free_order_notice_html": "Bestillingen din er gratis. Ingen betaling kreves."
       }
     }
   }
