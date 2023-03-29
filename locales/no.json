@@ -310,7 +310,29 @@
         "waiting_on_pickup_location_notice": "Får tilgjengelige hentesteder …",
         "no_rates_for_cart_or_destination_notice": "Det er ingen tilgjengelige forsendelsesmetoder for handlekurven eller adressen din",
         "no_pickup_location_notice": "Minst ett av produktene dine er ikke tilgjengelig for henting",
-        "no_rates_for_country_notice": "Fant ingen fraktpriser for denne adressen."
+        "no_rates_for_country_notice": "Fant ingen fraktpriser for denne adressen.",
+        "no_rates_contact_notice": "Kontakt oss for mer informasjon",
+        "free_rate_label": "Gratis",
+        "cheapest_rate_label": "Billigst",
+        "please_enter_your_shipping_information_notice": "Vennligst skriv inn fraktinformasjonen din.",
+        "estimated_delivery_date": {
+          "one": "%{count} virkedag",
+          "other": "%{count} virkedager"
+        },
+        "estimated_delivery_date_range": "%{minimum} til %{maximum} virkedager",
+        "delivery_date_range": "%{min_time}–%{max_time}",
+        "estimated_delivery_time": "Beregnet leveringstid}",
+        "estimated_delivery_time_range": "Beregnet levering %{min_time}–%{max_time}",
+        "delivery_today": "Levering samme dag %{time}",
+        "delivery_tomorrow": "Levering neste dag %{time}",
+        "two_day_delivery": "2-dagers levering %{time}",
+        "delivery": "Leveringstid}",
+        "arrives_time": "Ankommer %{time}",
+        "arrives_time_range": "Ankommer %{min_time}–%{max_time}",
+        "estimated_time": "Anslått %{time}",
+        "estimated_time_range": "Anslått %{min_time}–%{max_time}",
+        "shipping_line_phone_label": "Mobilnummer (påkrevd)",
+        "shipping_line_phone": "Din kurer kan bruke dette nummeret til å kontakte deg."
       }
     }
   }
