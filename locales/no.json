@@ -535,6 +535,28 @@
             "find_nearest_atm": "Finn nærmeste minibank"
           }
         }
+      },
+      "field_errors": {
+        "address_last_name_contains_html_tags": "Etternavn kan ikke inneholde HTML-koder.",
+        "address_last_name_contains_url": "Etternavn kan ikke inneholde en URL",
+        "address_address1_blank": "Skriv inn en adresse",
+        "address_address1_too_long": "Skriv inn en adresse",
+        "address_address1_contains_emojis": "Adresse1 kan ikke inneholde emojier",
+        "address_address1_contains_html_tags": "Adresse1 kan ikke inneholde HTML-koder.",
+        "address_address2_blank": "Gå inn i en leilighet, suite osv.",
+        "address_address2_too_long": "Den andre adresselinjen er for lang (maksimalt er 255 tegn)",
+        "address_address2_contains_emojis": "Adresse2 kan ikke inneholde emojier",
+        "address_address2_contains_html_tags": "Adresse2 kan ikke inneholde HTML-koder.",
+        "address_city_blank": "Skriv inn en by",
+        "address_city_too_long": "Byen er for lang (maksimum er 255 tegn)",
+        "address_city_contains_emojis": "By kan ikke inneholde emojier",
+        "address_city_contains_html_tags": "By kan ikke inneholde HTML-koder.",
+        "address_country_blank": "Velg et land\/region",
+        "address_country_not_supported": "Vi sender ikke til dette landet eller området. Skriv inn en ny leveringsadresse og prøv på nytt.",
+        "address_province_blank": "Velg en stat\/provins",
+        "address_company_blank": "Skriv inn et firmanavn",
+        "address_company_too_long": "Firmanavnet er for langt (maksimalt er 255 tegn)",
+        "address_company_contains_emojis": "Selskapet kan ikke inneholde emojier"
       }
     }
   }
