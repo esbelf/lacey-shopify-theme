@@ -504,7 +504,37 @@
         "subscription_agreement_label": "I understand that I'm agreeing to a subscription. It will renew at the price and frequency listed until it ends or is %{cancelled}.",
         "subscription_agreement_cancelled": "kansellert",
         "subscription_agreement_label_html": "Jeg forstår at jeg godtar et abonnement. Den fornyes til prisen og frekvensen som er oppført til den avsluttes eller kanselleres.",
-        "purchase_options_agreement_label": "I understand that one or more items in my cart is a deferred or recurring purchase. By continuing, I agree to the %{cancellation_policy_label} and authorize you to charge my payment method at the prices, frequency and dates listed on this page until my order is fulfilled or I cancel, if permitted."
+        "purchase_options_agreement_label": "I understand that one or more items in my cart is a deferred or recurring purchase. By continuing, I agree to the %{cancellation_policy_label} and authorize you to charge my payment method at the prices, frequency and dates listed on this page until my order is fulfilled or I cancel, if permitted.",
+        "purchase_options_agreement_label_html": "Jeg forstår at en eller flere varer i handlekurven min er et utsatt eller tilbakevendende kjøp. Ved å fortsette godtar jeg kanselleringsreglene og gir deg fullmakt til å belaste betalingsmåten min til prisene, frekvensen og datoene som er oppført på denne siden inntil bestillingen min er oppfylt eller jeg kansellerer, hvis tillatt.",
+        "change_currency_section_description": "Velg et valutaalternativ",
+        "no_real_orders_dev_store": "Denne butikken kan ikke akseptere ekte bestillinger eller ekte betalinger.",
+        "waiting_on_payment_methods": "Får tilgjengelige betalingsmåter...",
+        "apple_pay_payment_error": "Får tilgjengelige betalingsmåter ... Betalingen din kunne ikke fullføres. Prøv på nytt eller bruk en annen betalingsmetode.",
+        "taxes_not_included": "Skatter ikke inkludert",
+        "no_taxes_banner_content": "Avgifter belastes ikke for denne bestillingen. Når du har samlet inn betalingen, kan det ikke lenger legges til skatter.",
+        "paypal": {
+          "connect": "Klikk for å koble til PayPal-kontoen din"
+        },
+        "apple": {
+          "connect": "Klikk for å koble til Apple Pay-kontoen din",
+          "not_available": "Apple Pay er ikke tilgjengelig i denne nettleseren. For å koble til Apple Pay-kontoen din må du bruke Safari på en Apple-enhet."
+        },
+        "google": {
+          "connect": "Klikk for å koble til Google Pay-kontoen din",
+          "error_authorizing": "Feil ved autorisering av betaling"
+        },
+        "account_connected": "Konto tilkoblet.",
+        "mor_disclaimer_html": "<meta charset=\"utf-8\">Ved å klikke nedenfor og fullføre bestillingen, godtar du å kjøpe varen(e) fra Global-e som registrert forhandler for denne transaksjonen, på Global-e sine vilkår og betingelser og personvernregler. Global-e er en internasjonal tjenesteleverandør til %{shop_name}<br>",
+        "pending_payment": {
+          "due_notice": "Betalingen din på %{amount_due} forfaller %{due_date}.",
+          "multibanco": {
+            "instruction_html": "Foreta betalingen din på Multibanco eller online ved å bruke detaljene nedenfor. For spørsmål eller for å oppdatere betalingsdetaljer, %{contact_us}.",
+            "entity": "Entitet",
+            "reference": "Reference",
+            "amount": "Beløp",
+            "find_nearest_atm": "Finn nærmeste minibank"
+          }
+        }
       }
     }
   }
