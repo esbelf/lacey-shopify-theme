@@ -640,7 +640,39 @@
         "paypal_invalid_token": "PayPal var ikke tilgjengelig. Prøv på nytt eller bruk et annet betalingsalternativ.",
         "pay_later_failed": "Det oppsto en feil under behandling av betalingen din med Pay senere. Velg en annen betalingsmåte og prøv på nytt.",
         "three_d_secure_failed": "Betalingen din kunne ikke bekreftes. Prøv på nytt eller bruk en annen betalingsmetode.",
-        "three_d_secure_failed_duplicate": "Kredittkortets 3D Secure-autentisering mislyktes fordi en annen allerede er i gang."
+        "three_d_secure_failed_duplicate": "Kredittkortets 3D Secure-autentisering mislyktes fordi en annen allerede er i gang.",
+        "three_d_secure_throttled": "For mange forsøk; vennligst vent før du prøver igjen",
+        "subscription_agreement_blank": "For å kjøpe et abonnement må betalingsopplysningene dine lagres. For å fortsette må du bekrefte at du godtar eller fjerne abonnementsartikler fra bestillingen din.",
+        "insufficient_funds": "Betalingen din ble avvist på grunn av utilstrekkelige midler. Prøv på nytt eller bruk en annen betalingsmetode.",
+        "multiple_deferred_payment_not_allowed": "Kun én utsatt betaling er tillatt per forespørsel. Sjekk forespørselen din og prøv igjen.",
+        "fraud_payment_errors": {
+          "transaction_declined": "Denne overføringen har blitt avslått",
+          "address_mismatch": "Gateadresse og postnummer samsvarer ikke.",
+          "cannot_process": "Denne transaksjonen kan ikke behandles.",
+          "no_match": "Ingen treff",
+          "card_declined": "Kortet ditt ble avvist"
+        }
+      },
+      "shipping_errors": {
+        "shipping_method": "Handlekurven din er oppdatert og den forrige fraktprisen er ikke gyldig. Velg en ny pris.",
+        "shipping_method_not_available": "Your cart has been updated and the items you added can’t be shipped to your address. Remove the items to complete your order.",
+        "shipping_method_not_available_generic": {
+          "one": "Denne bestillingen kan ikke sendes til adressen du oppga. Se gjennom adressen din for å sikre at alle feltene er angitt riktig, og prøv igjen",
+          "other": "Noen varer i handlekurven din kan ikke sendes til adressen du oppga. Se gjennom adressen din for å sikre at alle feltene er angitt riktig, og prøv igjen."
+        },
+        "shipping_method_not_available_updated": {
+          "one": "Varen du la til, sendes ikke til stedet ditt. Fjern den for å sjekke ut, eller kontakt butikken.",
+          "other": "En eller flere varer du har lagt til, sendes ikke til stedet ditt. Fjern dem for å sjekke ut, eller kontakt butikken."
+        },
+        "payment_method_not_supported": "Du kan ikke bruke denne betalingsmåten for %{country}. Bruk en annen betalingsmåte for å sende til dette landet."
+      },
+      "alternative_payment_method_banner": {
+        "express_checkout": "hurtigutsjekking",
+        "or": "ELLER"
+      },
+      "alternative_payment_method": {
+        "button_html": "Kasse med: %{method}",
+        "button_label": "Kasse med: %{method}"
       }
     }
   }
