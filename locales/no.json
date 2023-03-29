@@ -534,7 +534,8 @@
             "amount": "Beløp",
             "find_nearest_atm": "Finn nærmeste minibank"
           }
-        }
+        },
+        "update_payment_method": "Oppdater betalingsmåten"
       },
       "field_errors": {
         "address_last_name_contains_html_tags": "Etternavn kan ikke inneholde HTML-koder.",
@@ -556,7 +557,28 @@
         "address_province_blank": "Velg en stat\/provins",
         "address_company_blank": "Skriv inn et firmanavn",
         "address_company_too_long": "Firmanavnet er for langt (maksimalt er 255 tegn)",
-        "address_company_contains_emojis": "Selskapet kan ikke inneholde emojier"
+        "address_company_contains_emojis": "Selskapet kan ikke inneholde emojier",
+        "handle_phone_invalid": "Enter a valid phone number",
+        "handle_email_invalid": "Skriv inn en gyldig e-post",
+        "email_invalid": "Skriv inn en gyldig e-post",
+        "email_or_phone_blank": "Skriv inn en e-post eller mobilnummer",
+        "email_or_phone_invalid": "Skriv inn en gyldig e-post eller et mobiltelefonnummer",
+        "address_first_name_blank": "Skriv inn et fornavn",
+        "address_first_name_too_long": "Fornavnet er for langt (maksimalt 255 tegn)",
+        "address_first_name_contains_emojis": "First name cannot contain emojis",
+        "address_first_name_contains_html_tags": "Fornavn kan ikke inneholde HTML-koder.",
+        "address_first_name_contains_url": "Fornavn kan ikke inneholde en URL",
+        "address_last_name_blank": "Skriv inn et etternavn",
+        "address_last_name_too_long": "Etternavnet er for langt (maksimalt er 255 tegn)",
+        "address_last_name_contains_emojis": "Etternavn kan ikke inneholde emojier"
+      },
+      "payment_summary": {
+        "gift_card_current_balance_notice": "Gjeldende saldo %{amount}",
+        "credit_card_expires_on_notice": "Utløper %{month}\/%{year}",
+        "express_payment_gateway_label": "Uttrykke",
+        "manual_payment_gateway_label": "Håndbok",
+        "billing_address_title": "Billing address",
+        "free_label": "Gratis"
       }
     }
   }
