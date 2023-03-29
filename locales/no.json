@@ -263,7 +263,31 @@
         "expand_order_summary": "Vis ordresammendrag",
         "collapse_order_summary": "Skjul ordresammendrag",
         "original_price": "Original pris",
-        "sale_price": "Salgs pris"
+        "sale_price": "Salgs pris",
+        "total_updated_label": "Oppdatert totalpris:",
+        "order_total_updated_label": "Oppdatert totalt",
+        "total_already_paid_label": "Allerede betalt",
+        "unit_price": {
+          "accessible_separator": "per",
+          "content_html": "%{price}%{accessible_separator}%{per_unit}"
+        },
+        "gift_card_ending": "Gavekort som slutter med %{last characters}",
+        "estimated_tax_label": "Estimated tax",
+        "multiple_shipping_lines_label": "Frakt totalt",
+        "recurring_subtotal_label": "Gjentakende delsum",
+        "recurring_total_label": "Gjentakende totalt",
+        "recurring_total_tooltip": "Inkluderer ikke frakt, avgifter, avgifter eller eventuelle rabatter.",
+        "confirmation_number_label": "Bekreftelse #%{confirmation_number}",
+        "higher_value_discount_applied": "%{CODE} kunne ikke brukes med dine eksisterende rabatter. Du har allerede en bedre kombinasjon.",
+        "percent_off_shipping": "%{percent}% rabatt på frakt",
+        "amount_off_shipping": "%{amount} off shipping",
+        "deferred_payment_info": {
+          "title": "Betaling på %{amount_due} forfaller %{due_at}",
+          "description_html": "For spørsmål om bestillingen din, %{contact_us}.",
+          "paid_today": "Totalt betalt i dag",
+          "due_on_fulfillment_title": "Betaling på %{amount_due} forfaller ved oppfyllelse",
+          "due_on_receipt_title": "Betaling på %{amount_due} forfaller ved mottak"
+        }
       }
     }
   }
