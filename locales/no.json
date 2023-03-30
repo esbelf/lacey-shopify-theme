@@ -855,8 +855,34 @@
         "unfulfilled_items_title": "Forbereder for frakt",
         "unfulfilled_items_description": "Vi forbereder for tiden disse varene for frakt.",
         "marker": {
-          "current": "Gjeldende forsendelsessted"
-        }
+          "current": "Gjeldende forsendelsessted",
+          "shipping": "Sendingsadresse"
+        },
+        "pick_up_in_store_marker": {
+          "current": "Gjeldende forsendelsessted",
+          "shipping": "Hentested"
+        },
+        "fulfillment": {
+          "fulfilled_table_title": "Varer i denne forsendelsen",
+          "unfulfilled_table_title": "Items preparing for shipping",
+          "product_image_label": "Product image",
+          "description_label": "Beskrivelse",
+          "quantity_label": "Mengde"
+        },
+        "opt_in_message_html": "Informasjonen din ble lagret med %{shopify_pay}",
+        "order_updates_description_missing": "You are not receiving shipping updates.",
+        "order_updates_subscribe_to_email_notifications": "Få fraktoppdateringer på e-post",
+        "order_updates_subscribe_to_email_or_phone_notifications": "Få fraktoppdateringer på e-post eller tekstmelding",
+        "order_updates_subscribe_to_phone_notifications": "Få fraktoppdateringer via tekstmelding",
+        "order_updates_submit_subscription": "Sende inn",
+        "optimus_button_label": "Kjøp med Optimus: Sporpakke",
+        "track_shipment": "Spor forsendelse",
+        "shopify_pay": {
+          "order_completed_html": "Bestilling fullført med %{shopify_pay}",
+          "learn_more_label": "Finn ut mer om Shop Pay"
+        },
+        "other_options": "Andre muligheter",
+        "delivery_information_label": "Leveringsinformasjon:"
       }
     }
   }
