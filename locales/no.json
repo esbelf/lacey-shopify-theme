@@ -1588,5 +1588,20 @@
         "share_on_pinterest": "Fest på Pinterest"
       }
     }
+  },
+  "gift_cards": {
+    "issued": {
+      "title": "Her er gavekortet på {{ value }} til {{ shop }}!",
+      "subtext": "Gavekortet ditt",
+      "gift_card_code": "Gavekortkode",
+      "shop_link": "Fortsette å handle",
+      "remaining_html": "Gjenværende balanse }}",
+      "add_to_apple_wallet": "Legg til Apple Wallet",
+      "qr_image_alt": "QR-kode – skann for å løse inn gavekort",
+      "copy_code": "Kopier koden",
+      "expired": "Utløpt",
+      "copy_code_success": "Koden ble kopiert",
+      "print_gift_card": "Skrive ut"
+    }
   }
 }
