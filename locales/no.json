@@ -1242,7 +1242,31 @@
           "pending": "Avventer",
           "failure": "Feil",
           "error": "Feil"
-        }
+        },
+        "cancel_reason": {
+          "declined": "Betaling avvist",
+          "inventory": "Items unavailable",
+          "fraud": "Uredelig ordre",
+          "customer": "Kunden endret\/kansellerte ordre",
+          "other": "Annen"
+        },
+        "cash_on_delivery": "Postoppkrav (COD)"
+      },
+      "cart": {
+        "only_n_items_available": "Du kan bare legge til %{count} %{name} i handlekurven.",
+        "too_many_items_in_cart": "Du kan ikke legge til flere %{name} i handlekurven.",
+        "less_than_minimum": "Denne varen har et minimum på %{min}.",
+        "more_than_maximum": "Denne varen har maksimalt %{max}.",
+        "not_respect_step": "Du kan bare legge til dette elementet i multipler av %{step}.",
+        "all_items_in_cart": "Alle %{count} %{name} er i handlekurven din.",
+        "empty_update": "kan ikke oppdatere tom handlekurv",
+        "missing_parameters": "ingen gyldig id eller linjeparameter",
+        "generic_error": "Handlevognfeil",
+        "product_not_available": "Produktet er ikke tilgjengelig",
+        "too_many_line_items_error": "Handlekurven din kan ikke inneholde mer enn %{max} varer.",
+        "link_expired": "Linken er utløpt",
+        "link_no_longer_exists": "Linken eksisterer ikke lenger.",
+        "stock_problems_html": "En eller flere varer er ikke lenger tilgjengelig. Vi har levert en oppdatert handlekurv."
       }
     }
   }
