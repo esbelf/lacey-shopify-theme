@@ -1410,7 +1410,9 @@
       "last_name": "Etternavn",
       "email": "E-post",
       "password": "Passord",
-      "submit": "Skape"
+      "submit": "Skape",
+      "title": "Opprett konto",
+      "first_name": "Fornavn"
     },
     "reset_password": {
       "title": "Tilbakestill kontopassordet",
@@ -1418,6 +1420,30 @@
       "password": "Passord",
       "password_confirm": "Bekreft passord",
       "submit": "tilbakestille passord"
+    },
+    "order": {
+      "fulfilled_at_html": "Oppfylt {{ dato }}",
+      "track_shipment": "Spor forsendelse",
+      "tracking_url": "Sporingslenke",
+      "tracking_company": "Sporingslenke",
+      "tracking_number": "Tracking number",
+      "subtotal": "Delsum",
+      "total_duties": "Duties"
+    },
+    "orders": {
+      "title": "Ordrehistorikk",
+      "order_number": "Order",
+      "order_number_link": "Ordrehistorikk",
+      "date": "Ordrehistorikk",
+      "payment_status": "Betalingsstatus",
+      "fulfillment_status": "Oppfyllelsesstatus",
+      "total": "Total",
+      "none": "Du har ikke lagt inn noen bestillinger ennå."
+    },
+    "recover_password": {
+      "title": "Tilbakestill passordet ditt",
+      "subtext": "Vi sender deg en e-post for å tilbakestille passordet ditt",
+      "success": "Vi har sendt deg en e-post med en lenke for å oppdatere passordet ditt."
     }
   }
 }
