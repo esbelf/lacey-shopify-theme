@@ -832,7 +832,31 @@
         "contact_us_html": "Trenger hjelp? %{kontakt oss}",
         "updated_time": "Oppdatert for %{time_ago} siden",
         "failure": "Ikke levert",
-        "failed_title": "Bestillingen din kunne ikke leveres"
+        "failed_title": "Bestillingen din kunne ikke leveres",
+        "failed_contact_merchant": "Kontakt %{company} for å avtale levering.",
+        "failed_contact_merchant_no_company": "Kontakt oss for å avtale levering.",
+        "non_shippable_title": "Bestillingen din er fullført",
+        "let_us_know": "Gi oss beskjed",
+        "login_title": "Logg inn for å se alle ordredetaljer",
+        "login_description": "Du finner ordrenummeret ditt i kvitteringen du mottok på e-post.",
+        "login_description_phone": "Du finner ordrenummeret ditt i kvitteringen du mottok på tekstmelding.",
+        "login_not_customer_html": "Ikke %{name}? Du kan %{link}",
+        "login_reorder_link_text": {
+          "one": "kjøp dette produktet også",
+          "other": "kjøp disse produktene også"
+        },
+        "customer_information_hidden_fields_message": "Logg inn for å se all kundeinformasjon.",
+        "cancelled_title": "Bestillingen din er kansellert",
+        "cancelled_description": "Bestillingen din ble kansellert %{date}. Kontakt oss hvis du har spørsmål.",
+        "order_number_label": "Ordrenummer",
+        "customer_validation_error": "Skriv inn en gyldig e-post eller ordrenummer.",
+        "customer_validation_error_phone": "Skriv inn en gyldig e-post eller ordrenummer.",
+        "login": "Logg Inn",
+        "unfulfilled_items_title": "Forbereder for frakt",
+        "unfulfilled_items_description": "Vi forbereder for tiden disse varene for frakt.",
+        "marker": {
+          "current": "Gjeldende forsendelsessted"
+        }
       }
     }
   }
