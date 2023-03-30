@@ -1664,6 +1664,25 @@
       "sold_out": "Utsolgt",
       "unavailable": "Utilgjengelig",
       "vendor": "Leverandør"
+    },
+    "facets": {
+      "filter_selected_accessibility": "{{ type }} ({{ count }} filtre er valgt)",
+      "show_more": "Vis mer",
+      "show_less": "Vis mindre",
+      "max_price": "Den høyeste prisen er {{ price }}",
+      "product_count": {
+        "one": "{{ product_count }} of {{ count }} product",
+        "other": "{{ product_count }} av {{ count }} produkter"
+      },
+      "product_count_simple": {
+        "one": "{{ count }} produkt",
+        "other": "{{ count }} produkter"
+      },
+      "reset": "Nullstille",
+      "sort_button": "Sortere",
+      "sort_by_label": "Sorter etter:",
+      "to": "Til",
+      "clear_filter": "Fjern filteret"
     }
   }
 }
