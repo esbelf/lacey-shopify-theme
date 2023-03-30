@@ -1609,5 +1609,10 @@
     "language_label": "Språk",
     "update_language": "Oppdater språk",
     "update_country": "Oppdater land\/region"
+  },
+  "newsletter": {
+    "label": "E-post",
+    "success": "Takk for at du abonnerer",
+    "button_label": "Abonnere"
   }
 }
