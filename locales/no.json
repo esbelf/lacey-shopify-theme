@@ -1428,7 +1428,23 @@
       "tracking_company": "Sporingslenke",
       "tracking_number": "Tracking number",
       "subtotal": "Delsum",
-      "total_duties": "Duties"
+      "total_duties": "Duties",
+      "title": "Bestill {{ navn }}",
+      "date_html": "Plassert {{ date }}",
+      "cancelled_html": "Bestillingen kansellert {{ date }}",
+      "cancelled_reason": "Årsak: {{ grunn }}",
+      "billing_address": "fakturaadresse",
+      "payment_status": "Betalingsstatus",
+      "shipping_address": "Sendingsadresse",
+      "fulfillment_status": "Oppfyllelsesstatus",
+      "discount": "Rabatt",
+      "shipping": "Shipping",
+      "tax": "Avgift",
+      "product": "Produkt",
+      "sku": "SKU",
+      "price": "Pris",
+      "quantity": "Mengde",
+      "total": "Total"
     },
     "orders": {
       "title": "Ordrehistorikk",
@@ -1491,7 +1507,11 @@
       "email": "E-post",
       "forgot_password": "Glemt passordet?",
       "guest_continue": "Fortsette",
-      "guest_title": "Fortsett som gjest"
+      "guest_title": "Fortsett som gjest",
+      "password": "Passord",
+      "title": "Logg Inn",
+      "sign_in": "Logg inn",
+      "submit": "Sende inn"
     }
   }
 }
