@@ -1614,5 +1614,30 @@
     "label": "E-post",
     "success": "Takk for at du abonnerer",
     "button_label": "Abonnere"
+  },
+  "products": {
+    "product": {
+      "add_to_cart": "Legg i handlekurv",
+      "choose_options": "Velg alternativer",
+      "choose_product_options": "Velg alternativer for {{ product_name }}",
+      "description": "Beskrivelse",
+      "inventory_in_stock": "På lager",
+      "inventory_in_stock_show_count": "{{ mengde }} på lager",
+      "inventory_low_stock": "Lite lager",
+      "inventory_low_stock_show_count": "Lite lager: {{ mengde }} igjen",
+      "inventory_out_of_stock": "Utsolgt",
+      "inventory_out_of_stock_continue_selling": "På lager",
+      "on_sale": "Salg",
+      "product_variants": "Product variants",
+      "media": {
+        "gallery_viewer": "Gallerivisning",
+        "load_image": "Last inn bildet {{ indeks }} i gallerivisning",
+        "load_model": "Load 3D Model {{ index }} in gallery view",
+        "load_video": "Spill av video {{ indeks }} i gallerivisning",
+        "image_available": "Bilde {{ indeks }} er nå tilgjengelig i gallerivisning",
+        "open_media": "Åpne media {{ indeks }} i modal",
+        "play_model": "Spill 3D Viewer"
+      }
+    }
   }
 }
