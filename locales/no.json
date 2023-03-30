@@ -1296,7 +1296,34 @@
       },
       "unsubscribed": {
         "confirmation": "Du har meldt deg av e-postlisten vår.",
-        "disclaimer": "Du vil ikke motta flere markedsføringsoppdateringer fra oss. Du kan abonnere på nytt når som helst."
+        "disclaimer": "Du vil ikke motta flere markedsføringsoppdateringer fra oss. Du kan abonnere på nytt når som helst.",
+        "preview": "Du forhåndsviser hva kundene vil se når de avslutter abonnementet."
+      },
+      "open_tracking": {
+        "opt_in": {
+          "opted_in_html": "Du har valgt å åpne e-postsporing.",
+          "visibility": "Åpningspriser for e-post vil bli rapportert anonymt. Vi vil bare se om du har åpnet en e-post som en del av en samlet åpningshastighet for e-post.",
+          "opt_out_html": "Du kan velge bort e-postsporing hvis du ikke ønsker å dele denne informasjonen.",
+          "preview_bar": "Du forhåndsviser hva kunder vil se når de velger å åpne e-postsporing."
+        },
+        "opt_out": {
+          "opted_out_html": "Du har valgt bort sporing av åpen e-post.",
+          "opt_in_html": "Velg åpen sporing via e-post.",
+          "preview_bar": "Du forhåndsviser hva kunder vil se når de velger bort sporing av åpen e-post."
+        },
+        "no_longer_track": {
+          "status_html": "Vi sporer ikke lenger e-poståpninger.",
+          "privacy_policy": "Etter at denne e-posten ble sendt, oppdaterte vi personvernreglene våre, og vi sporer ikke lenger åpninger."
+        },
+        "track": {
+          "status_html": "E-post åpen sporing rapporteres.",
+          "visibility": "Sporing av åpne e-poster rapporteres. Vi vil bare se om du har åpnet e-posten, som en del av den totale åpningsraten for e-post."
+        },
+        "updated_policy": {
+          "status_html": "E-post åpen sporing rapporteres.",
+          "visibility": "Vi har oppdatert retningslinjene våre, og nå åpnes sporingse-poster. Åpningspriser for e-post vil bli rapportert anonymt. Vi vil bare se om du har åpnet en e-post som en del av den totale åpningsraten for e-post.",
+          "opt_out_html": "Hvis du ikke ønsker å dele denne informasjonen, kan du melde deg av."
+        }
       }
     },
     "page_titles": {
@@ -1358,6 +1385,16 @@
       },
       "tags": {
         "label": "Flere filtre"
+      },
+      "availability": {
+        "label": "Tilgjengelighet",
+        "value": {
+          "in_stock": "På lager",
+          "out_of_stock": "Utsolgt"
+        }
+      },
+      "vendor": {
+        "label": "Merke"
       }
     },
     "search": {
