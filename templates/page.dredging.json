@@ -54,6 +54,24 @@
     },
     "335bad0d-cc91-4135-aafe-caca46f74930": {
       "type": "video-with-text",
+      "blocks": {
+        "6e735422-35af-4114-9fff-cd94d6ce3685": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text"
+          }
+        },
+        "5abdbc6d-0bb3-4238-bc60-392bb5ee4380": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "6e735422-35af-4114-9fff-cd94d6ce3685",
+        "5abdbc6d-0bb3-4238-bc60-392bb5ee4380"
+      ],
       "settings": {
         "color_scheme": "background-1",
         "video_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0050\/2779\/0919\/files\/1_1_Cutting_fruit_H.mp4?v=1603372350",
