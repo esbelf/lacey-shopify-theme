@@ -946,8 +946,38 @@
           "shipping_method_title": "Metode",
           "payment_method_title": "innbetaling",
           "change_link_label": "Endring",
-          "change_contact_method_link_label": "Endre kontaktinformasjon"
+          "change_contact_method_link_label": "Endre kontaktinformasjon",
+          "change_billing_address_link_label": "Endre faktureringsadresse",
+          "change_shipping_address_link_label": "Endre leveringsadresse",
+          "change_shipping_method_link_label": "Endre fraktmetode",
+          "change_payment_method_link_label": "Endre betalingsmåte",
+          "pick_up_in_store_shipping_method_html": "Hent i butikk · %{location_name}"
         }
+      },
+      "marketing": {
+        "accept_marketing_checkbox_label": "Send meg en e-post med nyheter og tilbud",
+        "post_accept_marketing_checkbox_label": "Du abonnerer på å motta nyheter og tilbud på e-post",
+        "pending_accept_marketing_checkbox_label": "Sjekk e-posten din for å bekrefte abonnementet på nyheter og tilbud",
+        "accept_sms_checkbox_label": "Send meg en melding med nyheter og tilbud",
+        "sms": {
+          "disclaimer": {
+            "privacy_policy": "Personvernerklæring",
+            "terms_of_service": "Terms of Service",
+            "description_html": "Ved å registrere deg via tekst, godtar du å motta tilbakevendende automatiserte markedsføringsmeldinger, inkludert handlekurvpåminnelser, på telefonnummeret som er oppgitt. Samtykke er ikke en betingelse for kjøp. Svar STOP for å avslutte abonnementet. Svar HJELP for hjelp. Meldingsfrekvensen varierer. Meldings- og datatakster kan gjelde. Se %{privacy_policy_link} og %{terms_of_service_link}.",
+            "description_transactional_html": "Du kan motta tekstmeldinger relatert til ordrebekreftelse og fraktoppdateringer. Svar STOP for å avslutte abonnementet. Svar HJELP for hjelp. Meldingsfrekvensen varierer. Meldings- og datatakster kan gjelde. Se våre %{privacy_policy_modal_link} og %{terms_of_service_modal_link}."
+          }
+        },
+        "unsubscribe": {
+          "title": "Du har avsluttet abonnementet",
+          "description": "Du vil ikke motta flere handlekurvpåminnelser fra oss."
+        }
+      },
+      "shop_policies": {
+        "refund_policy": "Angrerett",
+        "privacy_policy": "Personvernerklæring",
+        "terms_of_service": "Vilkår for bruk",
+        "legal_notice": "Juridisk varsel",
+        "shipping_policy": "Fraktpolicy"
       }
     }
   }
