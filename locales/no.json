@@ -977,7 +977,35 @@
         "privacy_policy": "Personvernerklæring",
         "terms_of_service": "Vilkår for bruk",
         "legal_notice": "Juridisk varsel",
-        "shipping_policy": "Fraktpolicy"
+        "shipping_policy": "Fraktpolicy",
+        "terms_of_sale": "Salgsbetingelser",
+        "subscription_policy": "Avbestillingsregler for kjøpsalternativer",
+        "purchase_options_policy": "Retningslinjer for kjøpsalternativer",
+        "contact_information": "Kontaktinformasjon"
+      },
+      "mor_policies": {
+        "terms_and_conditions": "Forhandlerens vilkår og betingelser",
+        "privacy_policy": "Personvernerklæring for selgere"
+      },
+      "remember_me": {
+        "shopify_pay_label": "Shop Pay",
+        "save": "Lagre",
+        "title": "Husk meg",
+        "label": "Lagre informasjonen min for en raskere utsjekking",
+        "description_html": "Neste gang du sjekker ut her eller i andre butikker drevet av Shopify, vil du motta en kode på tekstmelding for å trygt kjøpe med Shop Pay.",
+        "mobile_phone_icon_alt": "Mobiltelefon",
+        "mobile_phone_number": "Mobiltelefonnummer",
+        "terms_and_privacy_html": "Ved å fortsette godtar du Shop Pays %{privacy_href} og %{terms_href}.",
+        "external_acessibility_label": "(åpner et nytt vindu)",
+        "privacy_policy": "Personvernerklæring",
+        "terms_of_service": "Vilkår for bruk",
+        "errors": {
+          "optin": "Shop Pay er ikke tilgjengelig"
+        },
+        "installments": {
+          "paid_in_installments": "Delbetales med Shop Pay.",
+          "view_schedule": "Se tidsplan"
+        }
       }
     }
   }
