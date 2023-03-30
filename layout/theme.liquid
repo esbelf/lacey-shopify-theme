@@ -38,7 +38,7 @@
     ></script>
 
     <!-- GEO targetly script to switch .com to .eu in the european union -->
-    {%- if request.host == 'goodbyetomuck.com' -%}
+    {%- if request.host contains 'goodbyetomuck.com' -%}
       <script>
         (function(g,e,o,t,a,r,ge,tl,y,s){
         g.getElementsByTagName(o)[0].insertAdjacentHTML('afterbegin','<style id="georedirect1622899293615style">body{opacity:0.0 !important;}</style>');
@@ -53,8 +53,13 @@
     {%- endif -%}
 
     <!-- GEO targetly script to switch .eu to .com in North America -->
-    {%- if request.host == 'goodbyetomuck.eu' -%}
+    {%- if request.host contains 'goodbyetomuck.eu' -%}
+      <!-- EU to NORWAY -->
+      <!-- EU to POLAND -->
+      <!-- EU to FINLAND -->
+      <!-- EU to DENMARK -->
       <!-- EU to SWEDISH -->
+      <!-- EU to United states and canada -->
       <script>
         (function(g,e,o,t,a,r,ge,tl,y,s){
         g.getElementsByTagName(o)[0].insertAdjacentHTML('afterbegin','<style id="georedirect1679603284319style">body{opacity:0.0 !important;}</style>');
@@ -63,18 +68,6 @@
         y.src='https://geotargetly-api-1.com/gr?id=-NRF92YDx2QyJ9RV12vO&refurl='+g.referrer+'&winurl='+encodeURIComponent(window.location);
         t.parentNode.insertBefore(y,t);y.onerror=function(){s()};
         georedirect1679603284319loaded=function(redirect){var to=0;if(redirect){to=5000};
-        setTimeout(function(){s();},to)};
-        })(document,'script','head');
-      </script>
-      <!-- EU to .com -->
-      <script>
-        (function(g,e,o,t,a,r,ge,tl,y,s){
-        g.getElementsByTagName(o)[0].insertAdjacentHTML('afterbegin','<style id="georedirect1678932611183style">body{opacity:0.0 !important;}</style>');
-        s=function(){g.getElementById('georedirect1678932611183style').innerHTML='body{opacity:1.0 !important;}';};
-        t=g.getElementsByTagName(o)[0];y=g.createElement(e);y.async=true;
-        y.src='https://geotargetly-api-1.com/gr?id=-NQcAclZeyZgYN6XQb2V&refurl='+g.referrer+'&winurl='+encodeURIComponent(window.location);
-        t.parentNode.insertBefore(y,t);y.onerror=function(){s()};
-        georedirect1678932611183loaded=function(redirect){var to=0;if(redirect){to=5000};
         setTimeout(function(){s();},to)};
         })(document,'script','head');
       </script>
@@ -101,29 +94,20 @@
     <!-- End Meta Pixel Code -->
 
     <!-- Facebook site verification -->
-    {%- if request.host == 'goodbyetomuck.eu' -%}
+    {%- if request.host contains 'goodbyetomuck.com' -%}
+      <meta
+        name="facebook-domain-verification"
+        content="f8gfu0bsi8529uixjyvj2fohwk382a"
+      />
+    {%- else -%}
       <meta
         name="facebook-domain-verification"
         content="mlsy9hr1i15a1vqvqss3xrs158gngc"
       />
-    {%- else -%}
-        <meta
-          name="facebook-domain-verification"
-          content="f8gfu0bsi8529uixjyvj2fohwk382a"
-        />
     {%- endif -%}
 
     <!-- Google tag (gtag.js) -->
-    {%- if request.host == 'goodbyetomuck.eu' -%}
-      <script async src="https://www.googletagmanager.com/gtag/js?id=G-7WLXB0ZZKY"></script>
-      <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-
-        gtag('config', 'G-7WLXB0ZZKY');
-      </script>
-    {%- else -%}
+    {%- if request.host contains 'goodbyetomuck.com' -%}
       <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZRWSKVN5E7"></script>
       <script>
         window.dataLayer = window.dataLayer || [];
@@ -132,7 +116,37 @@
 
         gtag('config', 'G-ZRWSKVN5E7');
       </script>
+    {%- else -%}
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-7WLXB0ZZKY"></script>
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-7WLXB0ZZKY');
+      </script>
     {%- endif -%}
+
+    {%- if request.host contains 'goodbyetomuck.com' -%}
+       <!-- Google Tag Manager USA -->
+      <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+      'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+      })(window,document,'script','dataLayer','GTM-N6WT2P7');</script>
+      <!-- End Google Tag Manager -->
+    {%- else -%}
+      <!-- Google Tag Manager EU -->
+      <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-T39RPW2');
+      </script>
+      <!-- End Google Tag Manager -->
+    {%- endif -%}
+
+
 
     <script src="{{ 'global.js' | asset_url }}" defer="defer"></script>
     {{ content_for_header }}
@@ -343,6 +357,18 @@
   </head>
 
   <body class="gradient">
+    {%- if request.host contains 'goodbyetomuck.com' -%}
+      <!-- Google Tag Manager (noscript) -->
+      <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N6WT2P7"
+      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+      <!-- End Google Tag Manager (noscript) -->
+    {%- else -%}
+      <!-- Google Tag Manager (noscript) -->
+      <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T39RPW2"
+      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+      <!-- End Google Tag Manager (noscript) -->
+    {%- end -%}
+
     <a class="skip-to-content-link button visually-hidden" href="#MainContent">
       {{ "accessibility.skip_to_text" | t }}
     </a>
