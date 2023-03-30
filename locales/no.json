@@ -1404,5 +1404,20 @@
         "price_descending": "Pris, høy til lav"
       }
     }
+  },
+  "customer": {
+    "register": {
+      "last_name": "Etternavn",
+      "email": "E-post",
+      "password": "Passord",
+      "submit": "Skape"
+    },
+    "reset_password": {
+      "title": "Tilbakestill kontopassordet",
+      "subtext": "Skriv inn et nytt passord",
+      "password": "Passord",
+      "password_confirm": "Bekreft passord",
+      "submit": "tilbakestille passord"
+    }
   }
 }
