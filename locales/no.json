@@ -1603,5 +1603,11 @@
       "copy_code_success": "Koden ble kopiert",
       "print_gift_card": "Skrive ut"
     }
+  },
+  "localization": {
+    "country_label": "Land\/region",
+    "language_label": "Språk",
+    "update_language": "Oppdater språk",
+    "update_country": "Oppdater land\/region"
   }
 }
