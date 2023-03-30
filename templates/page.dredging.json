@@ -1,0 +1,332 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "26ea2c2e-c27c-47de-9dcc-acf91da271d5": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--17548613452080__26ea2c2e-c27c-47de-9dcc-acf91da271d5-16795682756fc15d52-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "NO MACHINERY",
+            "heading_size": "h1"
+          }
+        },
+        "template--17548613452080__26ea2c2e-c27c-47de-9dcc-acf91da271d5-16795682756fc15d52-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>    Price difference:<\/h2>",
+            "text_style": "subtitle"
+          }
+        },
+        "d92404f7-07f1-4090-b0d5-46556e6f3219": {
+          "type": "caption",
+          "settings": {
+            "caption": "15.00$ vs 2000$",
+            "text_style": "subtitle",
+            "text_size": "large"
+          }
+        }
+      },
+      "block_order": [
+        "template--17548613452080__26ea2c2e-c27c-47de-9dcc-acf91da271d5-16795682756fc15d52-0",
+        "template--17548613452080__26ea2c2e-c27c-47de-9dcc-acf91da271d5-16795682756fc15d52-1",
+        "d92404f7-07f1-4090-b0d5-46556e6f3219"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Depositphotos_420244140_S.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "335bad0d-cc91-4135-aafe-caca46f74930": {
+      "type": "video-with-text",
+      "settings": {
+        "color_scheme": "background-1",
+        "video_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0050\/2779\/0919\/files\/1_1_Cutting_fruit_H.mp4?v=1603372350",
+        "height": "adapt",
+        "layout": "image_first"
+      }
+    },
+    "f203d281-ab57-45bc-bf08-7bb4d561719d": {
+      "type": "collapsible-content",
+      "blocks": {
+        "template--17548613452080__f203d281-ab57-45bc-bf08-7bb4d561719d-16795686904ad4b960-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Clear the area where you want to create your beach of big rocks.",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "template--17548613452080__f203d281-ab57-45bc-bf08-7bb4d561719d-16795686904ad4b960-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Install MuckSandMat on shore.",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "template--17548613452080__f203d281-ab57-45bc-bf08-7bb4d561719d-16795686904ad4b960-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Assemble and install muck mat inside the lake for a mud- and weed-free base.",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "template--17548613452080__f203d281-ab57-45bc-bf08-7bb4d561719d-16795686904ad4b960-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Place sand covering the Mats.",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17548613452080__f203d281-ab57-45bc-bf08-7bb4d561719d-16795686904ad4b960-0",
+        "template--17548613452080__f203d281-ab57-45bc-bf08-7bb4d561719d-16795686904ad4b960-1",
+        "template--17548613452080__f203d281-ab57-45bc-bf08-7bb4d561719d-16795686904ad4b960-2",
+        "template--17548613452080__f203d281-ab57-45bc-bf08-7bb4d561719d-16795686904ad4b960-3"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Easy to assemble!",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "43a967cb-fa7c-431e-a556-879c80be8fce": {
+      "type": "rich-text",
+      "blocks": {
+        "template--17548613452080__43a967cb-fa7c-431e-a556-879c80be8fce-1679492881367025ba-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Process<\/p>",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "template--17548613452080__43a967cb-fa7c-431e-a556-879c80be8fce-1679492881367025ba-0"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "df2cd8d6-1b73-473c-b64e-4e2f6417324c": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--17548613452080__df2cd8d6-1b73-473c-b64e-4e2f6417324c-16795682756fc15d52-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Clear the area where you want to create your beach of large rocks.",
+            "heading_size": "h2"
+          }
+        },
+        "template--17548613452080__df2cd8d6-1b73-473c-b64e-4e2f6417324c-16795682756fc15d52-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>This first step involves removing any debris, plants, or other obstacles from the area where you want to create your beach. This is important to ensure that the area is flat and clear, and that there are no sharp objects that could damage the mats or cause injury to people walking on the beach. It may involve using tools such as rakes, shovels, or a backhoe to clear the area.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--17548613452080__df2cd8d6-1b73-473c-b64e-4e2f6417324c-16795682756fc15d52-0",
+        "template--17548613452080__df2cd8d6-1b73-473c-b64e-4e2f6417324c-16795682756fc15d52-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_0111_1.jpg",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "403f49a8-9d4f-4deb-8535-09c7631e82c3": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--17548613452080__403f49a8-9d4f-4deb-8535-09c7631e82c3-16795682756fc15d52-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Install Muck SandMat on shore",
+            "heading_size": "h2"
+          }
+        },
+        "template--17548613452080__403f49a8-9d4f-4deb-8535-09c7631e82c3-16795682756fc15d52-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The second step is to install MuckSandMat on the shore, which is a type of geotextile fabric that is designed to stabilize soil and prevent erosion. This matting is typically made of woven or non-woven synthetic materials, and is placed directly on top of the soil. It helps to create a stable base for the sand to be placed on, and helps to prevent the sand from washing away or sinking into the soil.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--17548613452080__403f49a8-9d4f-4deb-8535-09c7631e82c3-16795682756fc15d52-0",
+        "template--17548613452080__403f49a8-9d4f-4deb-8535-09c7631e82c3-16795682756fc15d52-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_0112_1.jpg",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "3a65f78b-e835-4b52-8cac-8ec2c1ed63f4": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--17548613452080__3a65f78b-e835-4b52-8cac-8ec2c1ed63f4-16795682756fc15d52-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Assamble MuckMat and install it at the bottom of your lake",
+            "heading_size": "h2"
+          }
+        },
+        "template--17548613452080__3a65f78b-e835-4b52-8cac-8ec2c1ed63f4-16795682756fc15d52-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Assemble and install muck mat inside the lake for a mud- and weed-free base:<br\/>The third step involves assembling and installing a muck mat inside the lake. A muck mat is similar to the MuckSandMat used on the shore, but it is specifically designed to be used in aquatic environments. It is typically made of a heavier-duty material, and is designed to be weighted down with sandbags or other weights to prevent it from floating away. The muck mat helps to create a stable, mud- and weed-free base for the sand to be placed on, and also helps to prevent the sand from sinking into the lakebed.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--17548613452080__3a65f78b-e835-4b52-8cac-8ec2c1ed63f4-16795682756fc15d52-0",
+        "template--17548613452080__3a65f78b-e835-4b52-8cac-8ec2c1ed63f4-16795682756fc15d52-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_0114.jpg",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "494f930c-b2e7-4c28-83c6-3f55901472a9": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--17548613452080__494f930c-b2e7-4c28-83c6-3f55901472a9-16795682756fc15d52-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Cover the Mats with sand",
+            "heading_size": "h1"
+          }
+        },
+        "template--17548613452080__494f930c-b2e7-4c28-83c6-3f55901472a9-16795682756fc15d52-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The final step in creating a beach of big rocks is to place sand over the mats. The sand serves as a protective layer for the mats, helping to keep them in place and prevent them from shifting or moving around. Additionally, the sand provides a comfortable surface for beachgoers to walk on and helps to create a more natural look and feel for the beach.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--17548613452080__494f930c-b2e7-4c28-83c6-3f55901472a9-16795682756fc15d52-0",
+        "template--17548613452080__494f930c-b2e7-4c28-83c6-3f55901472a9-16795682756fc15d52-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_0118_2f472b10-3b0f-480d-92ad-dceac993d1b9.jpg",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "b4f8c016-9881-48d6-879e-0c13ead6b3e6": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Featured collection",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "the-best-option-before-dredging-methods",
+        "products_to_show": 2,
+        "columns_desktop": 2,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "26ea2c2e-c27c-47de-9dcc-acf91da271d5",
+    "335bad0d-cc91-4135-aafe-caca46f74930",
+    "f203d281-ab57-45bc-bf08-7bb4d561719d",
+    "43a967cb-fa7c-431e-a556-879c80be8fce",
+    "df2cd8d6-1b73-473c-b64e-4e2f6417324c",
+    "403f49a8-9d4f-4deb-8535-09c7631e82c3",
+    "3a65f78b-e835-4b52-8cac-8ec2c1ed63f4",
+    "494f930c-b2e7-4c28-83c6-3f55901472a9",
+    "b4f8c016-9881-48d6-879e-0c13ead6b3e6"
+  ]
+}
