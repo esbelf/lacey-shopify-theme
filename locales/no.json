@@ -1469,7 +1469,29 @@
       "last_name": "Etternavn",
       "company": "Selskap",
       "address1": "Adresse 1",
-      "address2": "adresse 2"
+      "address2": "adresse 2",
+      "city": "By",
+      "country": "Land\/region",
+      "province": "Provins",
+      "zip": "Postnummer",
+      "phone": "Telefon",
+      "set_default": "Angi som standardadresse",
+      "add": "Legg til adresse",
+      "update": "Oppdater adressen",
+      "cancel": "Avbryt",
+      "edit": "Redigere",
+      "delete": "Slett",
+      "delete_confirm": "Er du sikker på at du vil slette denne adressen?"
+    },
+    "log_in": "Logg Inn",
+    "log_out": "Logg ut",
+    "login_page": {
+      "cancel": "Avbryt",
+      "create_account": "Opprett konto",
+      "email": "E-post",
+      "forgot_password": "Glemt passordet?",
+      "guest_continue": "Fortsette",
+      "guest_title": "Fortsett som gjest"
     }
   }
 }
