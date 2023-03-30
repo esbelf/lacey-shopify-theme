@@ -1302,7 +1302,21 @@
     "page_titles": {
       "not_found": "404 ikke funnet",
       "challenge": "Utfordring",
-      "checkpoint": "Kontrollpunkt"
+      "checkpoint": "Kontrollpunkt",
+      "blog_or_article_with_error": "Feil – %{title}",
+      "products": "Produkter",
+      "shopping_cart": "din handlevogn",
+      "account": "Regnskap",
+      "create_account": "Opprett konto",
+      "reset_account": "Tilbakestill konto",
+      "addresses": "Adresser",
+      "order": "Bestill %{name}",
+      "search": "Søk",
+      "search_results": {
+        "one": "Søk: %{count} resultat funnet for \"%{terms}\"",
+        "other": "Søk: %{count} resultater funnet for \"%{terms}\""
+      },
+      "collections": "Samlinger"
     },
     "cart": {
       "discounts_with_count": "%{count} rabatter er brukt"
@@ -1329,6 +1343,28 @@
         "two_to_four_hours": "Vanligvis klar på 4 timer",
         "immediately": "Klar for henting nå",
         "next_day": "Klar for henting neste dag"
+      }
+    },
+    "filters": {
+      "price": {
+        "label": "Pris"
+      },
+      "product_type": {
+        "label": "Produkttype"
+      },
+      "boolean": {
+        "true_label": "Ja",
+        "false_label": "Nei"
+      },
+      "tags": {
+        "label": "Flere filtre"
+      }
+    },
+    "search": {
+      "sorting": {
+        "relevance": "Relevans",
+        "price_ascending": "Pris, lav til høy",
+        "price_descending": "Pris, høy til lav"
       }
     }
   }
