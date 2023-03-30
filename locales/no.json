@@ -1169,7 +1169,27 @@
       "discount_limit_reached": "Denne rabatten har nådd sin bruksgrense",
       "discount_not_found": "Kan ikke finne en gyldig rabatt som samsvarer med koden som er oppgitt",
       "customer_already_used_once_per_customer_discount_notice": "This discount has reached its usage limit",
-      "gift_card_already_applied": "Koden er allerede brukt på kassen din"
+      "gift_card_already_applied": "Koden er allerede brukt på kassen din",
+      "gift_card_code_invalid": "Koden er ugyldig",
+      "gift_card_currency_mismatch": "Gavekortet ditt er i %{gift_card_currency}. Kontakt oss for å få den utstedt på nytt i %{checkout_currency}.",
+      "gift_card_depleted": "Det er ingen midler igjen på dette gavekortet",
+      "gift_card_disabled": "Gift card is disabled",
+      "gift_card_expired": "Gift card is disabled",
+      "invalid": "er ugyldig",
+      "bad_domain": "inneholder et ugyldig domenenavn",
+      "taken": "har allerede blitt tatt",
+      "contains_html_tags": "kan ikke inneholde HTML-koder",
+      "too_short": "er for kort (minimum er %{count} tegn)",
+      "too_long": "er for lang (maksimum er %{count} tegn)",
+      "password_mismatch": "må samsvare med det angitte passordet",
+      "contains_spaces": "starter eller slutter med mellomrom.",
+      "email_domain_invalid": "leverandøren støttes ikke",
+      "invalid_for_country": "er ikke gyldig for %{country}",
+      "invalid_for_country_and_province": "er ikke gyldig for %{province} og %{country}",
+      "invalid_province_in_country": "er ikke en gyldig provins i %{country}",
+      "invalid_state_in_country": "is not a valid state in %{country}",
+      "invalid_region_in_country": "er ikke en gyldig region i %{country}",
+      "less_than_or_equal_to": "må være mindre enn eller lik %{count}"
     }
   }
 }
