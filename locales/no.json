@@ -1006,6 +1006,37 @@
           "paid_in_installments": "Delbetales med Shop Pay.",
           "view_schedule": "Se tidsplan"
         }
+      },
+      "order_payment_collection": {
+        "custom_line_item_description": "Beløp å betale for ordre %{order_name}",
+        "changes_summary": {
+          "added": {
+            "one": "La til",
+            "other": "%{count} lagt til"
+          },
+          "removed": "Fjernet",
+          "subtracted": "%{count} fjernet"
+        },
+        "additional_payment_requested": "Betaling på %{total_outstanding} er nødvendig",
+        "checkout_review_and_pay": "Bestillingen din %{order_name} ble oppdatert. Se gjennom disse endringene, og betal deretter for å bekrefte bestillingen din.",
+        "order_updated_on": "Bestillingen din ble oppdatert %{last_edited_at}.",
+        "order_review_and_pay": "Bestillingen din ble oppdatert. Se gjennom og betal for å bekrefte bestillingen din.",
+        "pay_now": "Pay now"
+      },
+      "change_currency": {
+        "currency_button_label": "%{currency} (%{currency_symbol})",
+        "credit_card_will_be_charged_html": "Kredittkortet ditt vil bli belastet %{amount}",
+        "payment_total_label": "Betaling totalt",
+        "conversion_rate": "1 %{from_currency_code} = %{rate} %{to_currency_code}",
+        "change_currency_link": "Change to %{currency_name}",
+        "card_provider_fx_charges_warning": "Your card provider may charge fees on %{currency_code} transactions.",
+        "currency_not_supported_by_shop": "Valutaen du valgte er ikke lenger tilgjengelig. Alle priser er nå i %{currency_code}."
+      },
+      "change_country": {
+        "cart_updated_based_on_country": "Handlekurven din har blitt oppdatert basert på fraktlandet ditt."
+      },
+      "change_cart_localization": {
+        "verify_shipping_address": "Landet\/regionen din er oppdatert. Skriv inn leveringsadressen din for å fortsette utsjekkingen."
       }
     }
   }
