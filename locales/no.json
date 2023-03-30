@@ -917,9 +917,36 @@
             "in_transit": {
               "guaranteed_on_time": "Levering garantert innen %{date} med",
               "on_time": "Levering innen %{date} med",
-              "guaranteed_delayed": "Forsendelsen din kom ikke som forventet innen %{date}. Når den kommer kan du sende inn et krav med"
+              "guaranteed_delayed": "Forsendelsen din kom ikke som forventet innen %{date}. Når den kommer kan du sende inn et krav med",
+              "delayed": "Forsendelsen din som forventes innen %{date} er forsinket."
+            },
+            "out_for_delivery": {
+              "guaranteed_on_time": "Levering garantert innen %{date} med",
+              "on_time": "Levering innen %{date} med",
+              "guaranteed_delayed": "Forsendelsen din kom ikke som forventet innen %{date}. Når den kommer kan du sende inn et krav med",
+              "delayed": "Forsendelsen din som forventes innen %{date} er forsinket."
+            },
+            "delivered": {
+              "guaranteed_on_time": "Levert til rett tid med",
+              "on_time": "Delivered by %{date} with",
+              "guaranteed_delayed": "Forsendelsen din ble levert etter %{date}. Du kan sende inn krav om forsinket levering med",
+              "delayed": "Levert %{date}, opprinnelig forventet innen %{original_delivery_date}"
             }
           }
+        }
+      },
+      "review": {
+        "title": "Anmeldelse",
+        "review_title": "Gjennomgå bestillingen",
+        "checkout_as_guest": "Sjekk ut som gjest",
+        "blocks": {
+          "contact_method_title": "Kontakt",
+          "billing_address_title": "Fakturering",
+          "shipping_address_title": "Send til",
+          "shipping_method_title": "Metode",
+          "payment_method_title": "innbetaling",
+          "change_link_label": "Endring",
+          "change_contact_method_link_label": "Endre kontaktinformasjon"
         }
       }
     }
