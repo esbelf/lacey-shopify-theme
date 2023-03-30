@@ -882,7 +882,45 @@
           "learn_more_label": "Finn ut mer om Shop Pay"
         },
         "other_options": "Andre muligheter",
-        "delivery_information_label": "Leveringsinformasjon:"
+        "delivery_information_label": "Leveringsinformasjon:",
+        "gift_card_sent_confirmation": "Gavekort sendt",
+        "qr_code": {
+          "send_link_to_phone": "Eller send en lenke til telefonen din",
+          "title": "Spor på telefonen",
+          "subtitle": "Skann koden med telefonens kamera for å spore med Shop."
+        },
+        "shop_qr_with_sms_upsell": {
+          "qr_code": {
+            "title": "Skann med telefonen",
+            "description": "Shop vil sende deg leveringsoppdateringer i sanntid når bestillingen din er sendt."
+          },
+          "sms": {
+            "title": "Eller send en lenke til telefonen din"
+          }
+        },
+        "view_business_customer_account": "Se konto",
+        "breadcrumbs_submitted": "Sendt inn",
+        "breadcrumbs_in_review": "I anmeldelse",
+        "breadcrumbs_confirmed": "Bekreftet",
+        "missing_shipping_address_banner": {
+          "title": "Bestillingen har ingen leveringsadresse",
+          "text_html": "%{contact_us} for å legge til adressen din"
+        },
+        "first_payment_complete": "Første betaling fullført",
+        "in_store_purchase": "Kjøp i butikk",
+        "branded_promise": {
+          "shop_promise": {
+            "confirmed": {
+              "guaranteed_on_time": "Levering garantert innen %{date} med",
+              "on_time": "Levering innen %{date} med"
+            },
+            "in_transit": {
+              "guaranteed_on_time": "Levering garantert innen %{date} med",
+              "on_time": "Levering innen %{date} med",
+              "guaranteed_delayed": "Forsendelsen din kom ikke som forventet innen %{date}. Når den kommer kan du sende inn et krav med"
+            }
+          }
+        }
       }
     }
   }
