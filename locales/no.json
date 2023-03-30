@@ -812,7 +812,27 @@
         "out_for_delivery_title": "Bestillingen din er ute for levering",
         "out_for_delivery_description_html": "Bestillingen din er på vei og skal ankomme i dag. Hvis den ikke leveres i løpet av de neste 2 dagene, %{contact_us}.",
         "out_for_delivery_local_title": "Bestillingen din er ute for levering",
-        "out_for_delivery_local_description_html": "Bestillingen din kommer snart."
+        "out_for_delivery_local_description_html": "Bestillingen din kommer snart.",
+        "attempted_delivery": "Forsøkt levering",
+        "attempted_delivery_title": "Det ble gjort et forsøk på å levere bestillingen din",
+        "attempted_delivery_description_html": "Det ble gjort et forsøk på å levere bestillingen din, men det var mislykket. %{contact_us} for å arrangere et nytt leveringsforsøk.",
+        "attempted_delivery_local_title": "Mistet levering",
+        "attempted_delivery_local_description_html": "Vi kunne ikke levere bestillingen din. For å planlegge en ny levering, %{contact_us}.",
+        "delivered": "Levert",
+        "delivered_title": "Bestillingen din er levert",
+        "delivered_description_html": "Bestillingen din er levert til adressen du oppga. Hvis du ikke har mottatt den, eller hvis du har andre problemer, %{contact_us}.",
+        "delivered_local_title": "Bestillingen din er levert",
+        "delivered_local_description_html": "Har du ikke mottatt bestillingen din? %{let_us_know}.",
+        "payment_method_draft_order": "Forfaller etter at bestillingen er gjennomgått",
+        "choose_payment_method_later": "Velg betalingsmåte senere",
+        "picked_up_title": "Bestillingen din er hentet",
+        "picked_up_description_html": "Your order was picked up at %{location_name} on %{date}.",
+        "contact_us": "Kontakt oss",
+        "contact_us_lowercase": "Kontakt oss",
+        "contact_us_html": "Trenger hjelp? %{kontakt oss}",
+        "updated_time": "Oppdatert for %{time_ago} siden",
+        "failure": "Ikke levert",
+        "failed_title": "Bestillingen din kunne ikke leveres"
       }
     }
   }
