@@ -1298,6 +1298,38 @@
         "confirmation": "Du har meldt deg av e-postlisten vår.",
         "disclaimer": "Du vil ikke motta flere markedsføringsoppdateringer fra oss. Du kan abonnere på nytt når som helst."
       }
+    },
+    "page_titles": {
+      "not_found": "404 ikke funnet",
+      "challenge": "Utfordring",
+      "checkpoint": "Kontrollpunkt"
+    },
+    "cart": {
+      "discounts_with_count": "%{count} rabatter er brukt"
+    },
+    "challenge": {
+      "message": "For å fortsette, gi oss beskjed om at du ikke er en robot.",
+      "error": "Svaret ditt var ikke riktig, prøv igjen.",
+      "submit_button_text": "Sende inn"
+    },
+    "checkpoint": {
+      "message": "Løs Captcha for å fortsette",
+      "error": "Captcha-validering mislyktes",
+      "submit_button_text": "Sende inn"
+    },
+    "store_availability": {
+      "pick_up_time": {
+        "one_hour": "Vanligvis klar på 1 time",
+        "two_hours": "Vanligvis klar på 2 timer",
+        "four_hours": "Vanligvis klar på 4 timer",
+        "twenty_four_hours": "Vanligvis klar på 24 timer",
+        "two_to_four_days": "Vanligvis klar på 2-4 dager",
+        "five_or_more_days": "Vanligvis klar om 5+ dager",
+        "zero_to_two_hours": "Vanligvis klar på 2 timer",
+        "two_to_four_hours": "Vanligvis klar på 4 timer",
+        "immediately": "Klar for henting nå",
+        "next_day": "Klar for henting neste dag"
+      }
     }
   }
 }
