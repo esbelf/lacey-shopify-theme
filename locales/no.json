@@ -1214,7 +1214,35 @@
         "error_updating": "Feil under oppdatering av adresse",
         "created": "Vellykket opprettet adresse",
         "error_creating": "Feil ved opprettelse av adresse.",
-        "deleted": "Adressen er slettet"
+        "deleted": "Adressen er slettet",
+        "error_deleting": "Feil ved sletting av adresse."
+      },
+      "order": {
+        "not_available": "Denne bestillingen er ikke tilgjengelig",
+        "financial_status": {
+          "authorized": "Autorisert",
+          "pending": "Avventer",
+          "paid": "Betalt",
+          "unpaid": "Unpaid",
+          "voided": "Ugyldig",
+          "partially_paid": "Partially paid",
+          "partially_refunded": "Delvis refundert",
+          "refunded": "Refundert",
+          "expired": "Utløpt"
+        },
+        "fulfillment_status": {
+          "fulfilled": "Fulfilled",
+          "complete": "Fullstendig",
+          "partial": "Delvis",
+          "unfulfilled": "Uoppfylt",
+          "restocked": "Påfylles"
+        },
+        "transaction_status": {
+          "success": "Suksess",
+          "pending": "Avventer",
+          "failure": "Feil",
+          "error": "Feil"
+        }
       }
     }
   }
