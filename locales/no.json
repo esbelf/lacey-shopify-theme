@@ -1189,7 +1189,33 @@
       "invalid_province_in_country": "er ikke en gyldig provins i %{country}",
       "invalid_state_in_country": "is not a valid state in %{country}",
       "invalid_region_in_country": "er ikke en gyldig region i %{country}",
-      "less_than_or_equal_to": "må være mindre enn eller lik %{count}"
+      "less_than_or_equal_to": "må være mindre enn eller lik %{count}",
+      "not_supported": "er ikke støttet",
+      "full_name_required": "Skriv inn fornavn og etternavn",
+      "invalid_for_card_type": "er ikke gyldig",
+      "invalid_type": "sorry, we do not accept cards of this type",
+      "invalid_format": "format is not valid",
+      "expired": "har utgått",
+      "invalid_start_date_or_issue_number_for_debit": "en gyldig startdato eller utstedelsesnummer kreves",
+      "invalid_expiry_year": "er ikke et gyldig utløpsår",
+      "reset_password_html": "Denne e-postadressen er allerede knyttet til en konto. Hvis denne kontoen er din, kan du tilbakestille passordet ditt",
+      "verify_email": "Vi har sendt en e-post til %{customer_email}, vennligst klikk på koblingen for å bekrefte e-postadressen din.",
+      "product_not_available": "produktet er ikke publisert for denne kunden."
+    },
+    "notices": {
+      "customer": {
+        "password_reset_error": "Feil ved tilbakestilling av passord",
+        "no_account_found": "Fant ingen konto med den e-posten.",
+        "invalid_credentials": "Feil email eller passord.",
+        "denylisted_reset_password": "Kontoen din fikk ikke tilgang fordi det gjeldende passordet ikke er sikkert. Du vil motta en e-post for å oppdatere passordet ditt."
+      },
+      "address": {
+        "updated": "Adressen er oppdatert.",
+        "error_updating": "Feil under oppdatering av adresse",
+        "created": "Vellykket opprettet adresse",
+        "error_creating": "Feil ved opprettelse av adresse.",
+        "deleted": "Adressen er slettet"
+      }
     }
   }
 }
