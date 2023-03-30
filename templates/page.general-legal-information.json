@@ -7,53 +7,9 @@
         "padding_bottom": 0
       }
     },
-    "26ea2c2e-c27c-47de-9dcc-acf91da271d5": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--17548613452080__26ea2c2e-c27c-47de-9dcc-acf91da271d5-16795682756fc15d52-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "NO MACHINERY",
-            "heading_size": "h1"
-          }
-        },
-        "template--17548613452080__26ea2c2e-c27c-47de-9dcc-acf91da271d5-16795682756fc15d52-1": {
-          "type": "text",
-          "settings": {
-            "text": "<h2>    Price difference:<\/h2>",
-            "text_style": "subtitle"
-          }
-        },
-        "d92404f7-07f1-4090-b0d5-46556e6f3219": {
-          "type": "caption",
-          "settings": {
-            "caption": "15.00$ vs 2000$",
-            "text_style": "subtitle",
-            "text_size": "large"
-          }
-        }
-      },
-      "block_order": [
-        "template--17548613452080__26ea2c2e-c27c-47de-9dcc-acf91da271d5-16795682756fc15d52-0",
-        "template--17548613452080__26ea2c2e-c27c-47de-9dcc-acf91da271d5-16795682756fc15d52-1",
-        "d92404f7-07f1-4090-b0d5-46556e6f3219"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Depositphotos_420244140_S.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "335bad0d-cc91-4135-aafe-caca46f74930": {
       "type": "video-with-text",
+      "disabled": true,
       "settings": {
         "color_scheme": "background-1",
         "video_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0050\/2779\/0919\/files\/1_1_Cutting_fruit_H.mp4?v=1603372350",
@@ -63,6 +19,7 @@
     },
     "f203d281-ab57-45bc-bf08-7bb4d561719d": {
       "type": "collapsible-content",
+      "disabled": true,
       "blocks": {
         "template--17548613452080__f203d281-ab57-45bc-bf08-7bb4d561719d-16795686904ad4b960-0": {
           "type": "collapsible_row",
@@ -124,6 +81,7 @@
     },
     "43a967cb-fa7c-431e-a556-879c80be8fce": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "template--17548613452080__43a967cb-fa7c-431e-a556-879c80be8fce-1679492881367025ba-0": {
           "type": "heading",
@@ -147,6 +105,7 @@
     },
     "df2cd8d6-1b73-473c-b64e-4e2f6417324c": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "template--17548613452080__df2cd8d6-1b73-473c-b64e-4e2f6417324c-16795682756fc15d52-0": {
           "type": "heading",
@@ -319,7 +278,6 @@
   },
   "order": [
     "main",
-    "26ea2c2e-c27c-47de-9dcc-acf91da271d5",
     "335bad0d-cc91-4135-aafe-caca46f74930",
     "f203d281-ab57-45bc-bf08-7bb4d561719d",
     "43a967cb-fa7c-431e-a556-879c80be8fce",
