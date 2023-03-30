@@ -1037,6 +1037,44 @@
       },
       "change_cart_localization": {
         "verify_shipping_address": "Landet\/regionen din er oppdatert. Skriv inn leveringsadressen din for å fortsette utsjekkingen."
+      },
+      "tips": {
+        "title": "Legg til tips",
+        "description": "Show your support for the team at %{shop_name}",
+        "presets_description": "Velg en tipsprosent",
+        "custom_label": "Egendefinert tips",
+        "add_tip": "Legg til tips",
+        "update_tip": "Oppdateringstips",
+        "message": "Takk, vi setter pris på det",
+        "preset_label": "%{tip_percent}%",
+        "no_tip_label": "Ingen"
+      },
+      "open_graph_meta_tag": {
+        "title_with_products": {
+          "zero": "Kjøp %{product_name}",
+          "one": "Kjøp %{product_name} og %{count} annen vare",
+          "other": "Kjøp %{product_name} og %{count} annen vare"
+        }
+      },
+      "subscriptions": {
+        "recurring_total_intervals": {
+          "day": {
+            "one": "dag",
+            "other": "%{count} dager"
+          },
+          "week": {
+            "one": "week",
+            "other": "%{count} uker"
+          },
+          "month": {
+            "one": "måned",
+            "other": "måneder"
+          },
+          "year": {
+            "one": "år",
+            "other": "%{count} år"
+          }
+        }
       }
     }
   }
