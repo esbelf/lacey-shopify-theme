@@ -1074,8 +1074,50 @@
             "one": "år",
             "other": "%{count} år"
           }
+        },
+        "recurring_totals": "%{total_price} hver %{interval}",
+        "recurring_totals_with_initial_order_shipping_discount": "Første betaling %{total_price_with_discount}, deretter %{recurring_total}",
+        "recurring_totals_with_policies": {
+          "first_cycles": {
+            "one": "Første betaling %{total_price}",
+            "other": "Første %{count} betalinger %{total_price} hver"
+          },
+          "following_cycles": ", deretter %{total_price} hver %{intervall}"
+        },
+        "recurring_totals_with_initial_order_shipping_discount_with_policies": {
+          "first_cycles": {
+            "one": ", deretter %{count} betaling til %{total_price}",
+            "other": ", deretter %{count} betalinger til %{total_price} hver"
+          }
+        }
+      },
+      "customer_payment_methods": {
+        "page_title": "Betalingsmetoder",
+        "title": "Betalingsmetoder",
+        "update_card_button_label": "Oppdater kortet",
+        "delete_customer_mandate": {
+          "generic_error": "Det oppsto et problem under behandlingen av forespørselen din.",
+          "success_message": "Betalingsmåten din er slettet"
+        }
+      },
+      "throttle": {
+        "line_to_check_out": "You’re in line to check out",
+        "cart_summary_heading": "Handlevognen din",
+        "merchandise": {
+          "sold_out": "Utsolgt"
+        },
+        "inventory": {
+          "partial_inventory_banner": "En del av handlekurven din er utsolgt og vil ikke være tilgjengelig for kjøp i kassen."
         }
       }
+    },
+    "pagination": {
+      "previous": "Tidligere",
+      "next": "Neste"
+    },
+    "links": {
+      "powered_by_shopify": "Drevet av Shopify",
+      "learn_more": "Lære mer"
     }
   }
 }
