@@ -1118,6 +1118,32 @@
     "links": {
       "powered_by_shopify": "Drevet av Shopify",
       "learn_more": "Lære mer"
+    },
+    "feed": {
+      "more": "Mer"
+    },
+    "attributes": {
+      "email": "e-post",
+      "password": "passord",
+      "password_confirmation": "Passordbekreftelsen",
+      "first_name": "fornavn",
+      "last_name": "etternavn",
+      "body": "kropp",
+      "signature": "Adresse"
+    },
+    "addresses": {
+      "zip_code": "ZIP code",
+      "postal_code": "Postnummer",
+      "postcode": "postnummer",
+      "pincode": "Pinkode",
+      "region": "Region",
+      "prefecture": "Prefektur",
+      "province": "Provins",
+      "state": "Stat",
+      "state_and_territory": "Stat\/territorium",
+      "county": "fylke",
+      "emirate": "Emirat",
+      "governorate": "Governorate"
     }
   }
 }
