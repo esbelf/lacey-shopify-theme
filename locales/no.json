@@ -1513,5 +1513,33 @@
       "sign_in": "Logg inn",
       "submit": "Sende inn"
     }
+  },
+  "customer_accounts": {
+    "enable_javascript": "For å se kontoen din, aktiver JavaScript i nettleserinnstillingene eller logg på med en annen nettleser.",
+    "navigation_and_structure": {
+      "account_menu": {
+        "hide_accessibility_label": "Skjul konto-menyen",
+        "label": "Regnskap",
+        "show_accessibility_label": "Vis kontomenyen"
+      },
+      "action_menu_accessibility_label": "Flere handlinger",
+      "close_menu_accessibility_label": "Lukk hovednavigasjonen",
+      "contact_email_subject": "Kontakt fra nettbutikken {{shopName}}",
+      "contact_link": "Kontakt oss",
+      "delete_confirmation": {
+        "cancel": "Avbryt",
+        "delete": "Slett"
+      },
+      "dismiss_toast": "Avskjedige",
+      "document_title": "Avvis {{sectionName}} - {{shopName}} - Konto",
+      "generic_accessibility_label": "{{label}}: {{value}}",
+      "go_to_store_link": "Gå til butikken",
+      "loading_message": "Laster",
+      "log_out_link": "Logg ut",
+      "logout_overlay_label": "Logger deg ut...",
+      "nav_label_accessibility_label": "Hovednavigasjon",
+      "navigation_accessibility_message": "Du navigerte til {{sectionName}}",
+      "open_menu_accessibility_label": "Åpne hovednavigasjonen"
+    }
   }
 }
