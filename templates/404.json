@@ -1,10 +1,90 @@
 {
   "sections": {
+    "53857ff2-8e7e-40e2-b143-9a5e3ed197b3": {
+      "type": "rich-text",
+      "blocks": {
+        "template--17548614205744__53857ff2-8e7e-40e2-b143-9a5e3ed197b3-1680519892107ee306-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h1>100% Guaranteed and 5 Year Warranty<\/h1>",
+            "heading_size": "h1"
+          }
+        },
+        "template--17548614205744__53857ff2-8e7e-40e2-b143-9a5e3ed197b3-1680519892107ee306-1": {
+          "type": "text",
+          "settings": {
+            "text": "<ul><li>100% Satisfaction Guarantee <\/li><li>5 Year Warranty<\/li><li>Easy assembly and installation<\/li><\/ul>"
+          }
+        }
+      },
+      "block_order": [
+        "template--17548614205744__53857ff2-8e7e-40e2-b143-9a5e3ed197b3-1680519892107ee306-0",
+        "template--17548614205744__53857ff2-8e7e-40e2-b143-9a5e3ed197b3-1680519892107ee306-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "main": {
-      "type": "main-404"
+      "type": "main-404",
+      "disabled": true,
+      "custom_css": [
+
+      ],
+      "settings": {
+      }
+    },
+    "285382ca-6565-4864-bad1-13b758ade0f2": {
+      "type": "rich-text",
+      "blocks": {
+        "template--17548614205744__285382ca-6565-4864-bad1-13b758ade0f2-1680519892107ee306-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Our Products<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--17548614205744__285382ca-6565-4864-bad1-13b758ade0f2-1680519892107ee306-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our Mats are a proven, simple way to control aquatic weeds and plants.<br\/><br\/>Safe and chemical-free, at Goodbye To Muck and Weeds, we provide products that allow you to keep the waters around your property clean without threatening the environment, the lake or, most importantly, your family.<br\/><br\/>Proven to work and simple to maintain, we’re so confident in its effectiveness that we guarantee that you will get the results that you desire. <\/p>"
+          }
+        },
+        "template--17548614205744__285382ca-6565-4864-bad1-13b758ade0f2-1680519892107ee306-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "All Products",
+            "button_link": "shopify:\/\/collections\/all",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--17548614205744__285382ca-6565-4864-bad1-13b758ade0f2-1680519892107ee306-0",
+        "template--17548614205744__285382ca-6565-4864-bad1-13b758ade0f2-1680519892107ee306-1",
+        "template--17548614205744__285382ca-6565-4864-bad1-13b758ade0f2-1680519892107ee306-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
-    "main"
+    "53857ff2-8e7e-40e2-b143-9a5e3ed197b3",
+    "main",
+    "285382ca-6565-4864-bad1-13b758ade0f2"
   ]
 }
