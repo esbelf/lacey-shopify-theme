@@ -6,9 +6,71 @@
         "padding_top": 0,
         "padding_bottom": 0
       }
+    },
+    "428e290a-e00b-4d29-ba0c-0631fc96538d": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18488941740360__428e290a-e00b-4d29-ba0c-0631fc96538d-168051956728e1b0f2-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>100% Guaranteed and 5 Year Warranty<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--18488941740360__428e290a-e00b-4d29-ba0c-0631fc96538d-168051956728e1b0f2-1": {
+          "type": "text",
+          "settings": {
+            "text": "<ul><li>100% Satisfaction Guarantee <\/li><li>5 Year Warranty<\/li><li>Easy assembly and installation<\/li><\/ul>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18488941740360__428e290a-e00b-4d29-ba0c-0631fc96538d-168051956728e1b0f2-0",
+        "template--18488941740360__428e290a-e00b-4d29-ba0c-0631fc96538d-168051956728e1b0f2-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "51235650-afe3-49db-8cd9-8707ec1b9cce": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18488941740360__51235650-afe3-49db-8cd9-8707ec1b9cce-168051956728e1b0f2-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Our Products<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--18488941740360__51235650-afe3-49db-8cd9-8707ec1b9cce-168051956728e1b0f2-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our Mats are a proven, simple way to control aquatic weeds and plants.<br\/><br\/>Safe and chemical-free, at Goodbye To Muck and Weeds, we provide products that allow you to keep the waters around your property clean without threatening the environment, the lake or, most importantly, your family.<br\/><br\/>Proven to work and simple to maintain, we’re so confident in its effectiveness that we guarantee that you will get the results that you desire. <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18488941740360__51235650-afe3-49db-8cd9-8707ec1b9cce-168051956728e1b0f2-0",
+        "template--18488941740360__51235650-afe3-49db-8cd9-8707ec1b9cce-168051956728e1b0f2-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "428e290a-e00b-4d29-ba0c-0631fc96538d",
+    "51235650-afe3-49db-8cd9-8707ec1b9cce"
   ]
 }
