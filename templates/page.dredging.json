@@ -2,13 +2,50 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "padding_top": 0,
         "padding_bottom": 0
       }
     },
+    "8080c461-c2f6-4bf2-ab09-0287e9b83af7": {
+      "type": "image-banner",
+      "blocks": {
+        "template--18488891933000__8080c461-c2f6-4bf2-ab09-0287e9b83af7-168061212446140504-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Thinking invest in dredging sludge muck?",
+            "heading_size": "h1"
+          }
+        },
+        "template--18488891933000__8080c461-c2f6-4bf2-ab09-0287e9b83af7-168061212446140504-1": {
+          "type": "text",
+          "settings": {
+            "text": "Check this page to know why you shouldn't and what is the best option to invest on!",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--18488891933000__8080c461-c2f6-4bf2-ab09-0287e9b83af7-168061212446140504-0",
+        "template--18488891933000__8080c461-c2f6-4bf2-ab09-0287e9b83af7-168061212446140504-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Depositphotos_583605100_S.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "inverse",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "26ea2c2e-c27c-47de-9dcc-acf91da271d5": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "template--17548613452080__26ea2c2e-c27c-47de-9dcc-acf91da271d5-16795682756fc15d52-0": {
           "type": "heading",
@@ -74,7 +111,7 @@
       ],
       "settings": {
         "color_scheme": "background-2",
-        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/a101282e870e4b9b861b2404f3bb0794.mov",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/3df585d8d975445cb109580dc176d592.mp4",
         "height": "large",
         "layout": "image_first"
       }
@@ -333,18 +370,11 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "c263e6b4-4034-49aa-b825-237758da6edb": {
-      "type": "dynamic-image-banner",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Depositphotos_583605100_S_8ca876ad-6dc6-4afc-bd2b-8aaac552ecbd.jpg",
-        "image_2": "shopify:\/\/shop_images\/how-muckmat-works-2-min.jpg",
-        "color_scheme": "accent-1"
-      }
     }
   },
   "order": [
     "main",
+    "8080c461-c2f6-4bf2-ab09-0287e9b83af7",
     "26ea2c2e-c27c-47de-9dcc-acf91da271d5",
     "335bad0d-cc91-4135-aafe-caca46f74930",
     "f203d281-ab57-45bc-bf08-7bb4d561719d",
@@ -353,7 +383,6 @@
     "403f49a8-9d4f-4deb-8535-09c7631e82c3",
     "3a65f78b-e835-4b52-8cac-8ec2c1ed63f4",
     "494f930c-b2e7-4c28-83c6-3f55901472a9",
-    "b4f8c016-9881-48d6-879e-0c13ead6b3e6",
-    "c263e6b4-4034-49aa-b825-237758da6edb"
+    "b4f8c016-9881-48d6-879e-0c13ead6b3e6"
   ]
 }
