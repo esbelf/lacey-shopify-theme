@@ -7,6 +7,59 @@
         "padding_bottom": 0
       }
     },
+    "1a52eaa5-6e94-40d5-a7f4-ad07472c8b3e": {
+      "type": "slideshow",
+      "blocks": {
+        "template--17548613452080__1a52eaa5-6e94-40d5-a7f4-ad07472c8b3e-16806176438442cb89-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_2023-04-04_at_16.47.22.png",
+            "heading": "Our Mats creates a solid surface for the legs of the boat lift to rest on and provides a firm base for roll-in and standard docks.",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "BUY NOW",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "template--17548613452080__1a52eaa5-6e94-40d5-a7f4-ad07472c8b3e-16806176438442cb89-1": {
+          "type": "slide",
+          "settings": {
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--17548613452080__1a52eaa5-6e94-40d5-a7f4-ad07472c8b3e-16806176438442cb89-0",
+        "template--17548613452080__1a52eaa5-6e94-40d5-a7f4-ad07472c8b3e-16806176438442cb89-1"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
     "17153d45-94cd-4b24-b65c-39481c5011e8": {
       "type": "image-with-text",
       "blocks": {
@@ -51,130 +104,6 @@
         "padding_bottom": 36
       }
     },
-    "7e474238-cb59-4bff-8ede-e660de274c58": {
-      "type": "multicolumn",
-      "blocks": {
-        "template--17548613452080__7e474238-cb59-4bff-8ede-e660de274c58-16806164218430a986-0": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Artboard_BASE.png",
-            "title": "Column",
-            "text": "<p>Gas and Water Permeable<br\/>Chemical Free Ecofriendly Material ‹<br\/>Prevents Weed Growth<br\/>Creates Firm Lake Bottom<br\/>Stabliize up 1 meter of Muck<\/p><p>Control Lake Weeds<br\/>Control Lily Pads y<br\/>Recycable Material<br\/>Supports Docks<br\/>Supports Boatlifts<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--17548613452080__7e474238-cb59-4bff-8ede-e660de274c58-16806164218430a986-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/DockMat_BASE.png",
-            "title": "Column",
-            "text": "<p>Gas and Water Permeable V<br\/>Chemical Free Ecofriendly Material<br\/>Creates a wonderful swimming area<br\/>Creates Sandy Lake Bottom<br\/>Creates Firm Lake Bottom<br\/>Stabliize up 1 meter of Muck<\/p><p>Control Lake Weeds<br\/>Control Lily Pads<br\/>Prevents Weed Growth<br\/>Supports Docks<br\/>Supports Boatlifts<br\/>Recycable Material<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--17548613452080__7e474238-cb59-4bff-8ede-e660de274c58-16806164218430a986-0",
-        "template--17548613452080__7e474238-cb59-4bff-8ede-e660de274c58-16806164218430a986-1"
-      ],
-      "settings": {
-        "title": "Multicolumn",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 2,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "Button label",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "227ebd38-0e9b-4e29-891a-3c713f55b885": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Featured collection",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "boat-dock",
-        "products_to_show": 2,
-        "columns_desktop": 2,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "background-1",
-        "image_ratio": "adapt",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "1a52eaa5-6e94-40d5-a7f4-ad07472c8b3e": {
-      "type": "slideshow",
-      "blocks": {
-        "template--17548613452080__1a52eaa5-6e94-40d5-a7f4-ad07472c8b3e-16806176438442cb89-0": {
-          "type": "slide",
-          "settings": {
-            "heading": "",
-            "heading_size": "h1",
-            "subheading": "Tell your brand's story through images",
-            "button_label": "Button label",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": true,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "template--17548613452080__1a52eaa5-6e94-40d5-a7f4-ad07472c8b3e-16806176438442cb89-1": {
-          "type": "slide",
-          "settings": {
-            "heading": "Image slide",
-            "heading_size": "h1",
-            "subheading": "Tell your brand's story through images",
-            "button_label": "Button label",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": true,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
-            "text_alignment_mobile": "center"
-          }
-        }
-      },
-      "block_order": [
-        "template--17548613452080__1a52eaa5-6e94-40d5-a7f4-ad07472c8b3e-16806176438442cb89-0",
-        "template--17548613452080__1a52eaa5-6e94-40d5-a7f4-ad07472c8b3e-16806176438442cb89-1"
-      ],
-      "settings": {
-        "layout": "full_bleed",
-        "slide_height": "medium",
-        "slider_visual": "counter",
-        "auto_rotate": false,
-        "change_slides_speed": 5,
-        "show_text_below": true,
-        "accessibility_info": "Slideshow about our brand"
-      }
-    },
     "26171756-0842-4f6c-99bf-d88c3dc352e8": {
       "type": "collage",
       "blocks": {
@@ -217,10 +146,8 @@
   },
   "order": [
     "main",
-    "17153d45-94cd-4b24-b65c-39481c5011e8",
-    "7e474238-cb59-4bff-8ede-e660de274c58",
-    "227ebd38-0e9b-4e29-891a-3c713f55b885",
     "1a52eaa5-6e94-40d5-a7f4-ad07472c8b3e",
+    "17153d45-94cd-4b24-b65c-39481c5011e8",
     "26171756-0842-4f6c-99bf-d88c3dc352e8"
   ]
 }
