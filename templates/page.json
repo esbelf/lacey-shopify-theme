@@ -13,14 +13,14 @@
         "template--17548613452080__17153d45-94cd-4b24-b65c-39481c5011e8-16806163317d6bd13f-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
-            "heading_size": "h1"
+            "heading": "The BoatLift Mat is a large mat designed to stabilize lifts on top of soft and mucky lake bottoms.",
+            "heading_size": "h2"
           }
         },
         "template--17548613452080__17153d45-94cd-4b24-b65c-39481c5011e8-16806163317d6bd13f-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<h2>A solid foundation for your boat lift and a solid choice for dealing with lake muck.<\/h2>",
             "text_style": "body"
           }
         },
@@ -129,7 +129,7 @@
         "template--17548613452080__1a52eaa5-6e94-40d5-a7f4-ad07472c8b3e-16806176438442cb89-0": {
           "type": "slide",
           "settings": {
-            "heading": "Image slide",
+            "heading": "",
             "heading_size": "h1",
             "subheading": "Tell your brand's story through images",
             "button_label": "Button label",
