@@ -104,7 +104,7 @@
         "6e735422-35af-4114-9fff-cd94d6ce3685": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text"
+            "heading": "Easy to assemble!"
           }
         },
         "5abdbc6d-0bb3-4238-bc60-392bb5ee4380": {
@@ -127,6 +127,7 @@
     },
     "f203d281-ab57-45bc-bf08-7bb4d561719d": {
       "type": "collapsible-content",
+      "disabled": true,
       "blocks": {
         "template--17548613452080__f203d281-ab57-45bc-bf08-7bb4d561719d-16795686904ad4b960-0": {
           "type": "collapsible_row",
@@ -192,8 +193,8 @@
         "template--17548613452080__43a967cb-fa7c-431e-a556-879c80be8fce-1679492881367025ba-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Process<\/p>",
-            "heading_size": "h1"
+            "heading": "<h1><strong>PROCESS<\/strong><\/h1>",
+            "heading_size": "hxl"
           }
         }
       },
