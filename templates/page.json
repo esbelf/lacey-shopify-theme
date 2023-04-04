@@ -133,7 +133,7 @@
         "template--17548613452080__17153d45-94cd-4b24-b65c-39481c5011e8-16806163317d6bd13f-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/DSCN1668_2.png",
+        "image": "shopify:\/\/shop_images\/a-man-pushing-a-small-boat-across-shallow-waters.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -184,6 +184,50 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "c85930e3-2db8-4608-828e-bba22db82369": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--17548613452080__c85930e3-2db8-4608-828e-bba22db82369-16806163317d6bd13f-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Leave it & Forget it",
+            "heading_size": "h2"
+          }
+        },
+        "template--17548613452080__c85930e3-2db8-4608-828e-bba22db82369-16806163317d6bd13f-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Leave it in the lake, ice can’t hurt it. The DockMat® will be ready for you the next summer when you are ready to install your dock again.<\/p><p>Our DockMats prevent your dock from sinking into the muck. Place the DockMat on the mucky lake bottom and then place your dock.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--17548613452080__c85930e3-2db8-4608-828e-bba22db82369-16806163317d6bd13f-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17548613452080__c85930e3-2db8-4608-828e-bba22db82369-16806163317d6bd13f-0",
+        "template--17548613452080__c85930e3-2db8-4608-828e-bba22db82369-16806163317d6bd13f-1",
+        "template--17548613452080__c85930e3-2db8-4608-828e-bba22db82369-16806163317d6bd13f-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/feet-on-dock-above-lily-pads.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -191,6 +235,7 @@
     "1a52eaa5-6e94-40d5-a7f4-ad07472c8b3e",
     "d3f7dcb5-559a-4798-9277-33d0bc2a05fd",
     "17153d45-94cd-4b24-b65c-39481c5011e8",
-    "26171756-0842-4f6c-99bf-d88c3dc352e8"
+    "26171756-0842-4f6c-99bf-d88c3dc352e8",
+    "c85930e3-2db8-4608-828e-bba22db82369"
   ]
 }
