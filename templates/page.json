@@ -60,6 +60,48 @@
         "accessibility_info": "Slideshow about our brand"
       }
     },
+    "d3f7dcb5-559a-4798-9277-33d0bc2a05fd": {
+      "type": "rich-text",
+      "blocks": {
+        "template--17548613452080__d3f7dcb5-559a-4798-9277-33d0bc2a05fd-1680619897b2bd8d8e-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>If you are looking for firm solution to stabilize your dock\/boat lift from the mud base you are in the right page!<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--17548613452080__d3f7dcb5-559a-4798-9277-33d0bc2a05fd-1680619897b2bd8d8e-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our products are best dealing with mud and weed areas of your lake. Installing ours Mats you won't have to carry about reed weeds or soft areas in your lake no more!<\/p>"
+          }
+        },
+        "template--17548613452080__d3f7dcb5-559a-4798-9277-33d0bc2a05fd-1680619897b2bd8d8e-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--17548613452080__d3f7dcb5-559a-4798-9277-33d0bc2a05fd-1680619897b2bd8d8e-0",
+        "template--17548613452080__d3f7dcb5-559a-4798-9277-33d0bc2a05fd-1680619897b2bd8d8e-1",
+        "template--17548613452080__d3f7dcb5-559a-4798-9277-33d0bc2a05fd-1680619897b2bd8d8e-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "inverse",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "17153d45-94cd-4b24-b65c-39481c5011e8": {
       "type": "image-with-text",
       "blocks": {
@@ -93,7 +135,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/DSCN1668_2.png",
         "height": "adapt",
-        "desktop_image_width": "large",
+        "desktop_image_width": "medium",
         "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
@@ -147,6 +189,7 @@
   "order": [
     "main",
     "1a52eaa5-6e94-40d5-a7f4-ad07472c8b3e",
+    "d3f7dcb5-559a-4798-9277-33d0bc2a05fd",
     "17153d45-94cd-4b24-b65c-39481c5011e8",
     "26171756-0842-4f6c-99bf-d88c3dc352e8"
   ]
