@@ -7,33 +7,6 @@
         "padding_bottom": 0
       }
     },
-    "227ebd38-0e9b-4e29-891a-3c713f55b885": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Featured collection",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "boat-dock",
-        "products_to_show": 2,
-        "columns_desktop": 2,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "background-1",
-        "image_ratio": "adapt",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "17153d45-94cd-4b24-b65c-39481c5011e8": {
       "type": "image-with-text",
       "blocks": {
@@ -122,12 +95,132 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "227ebd38-0e9b-4e29-891a-3c713f55b885": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Featured collection",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "boat-dock",
+        "products_to_show": 2,
+        "columns_desktop": 2,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1a52eaa5-6e94-40d5-a7f4-ad07472c8b3e": {
+      "type": "slideshow",
+      "blocks": {
+        "template--17548613452080__1a52eaa5-6e94-40d5-a7f4-ad07472c8b3e-16806176438442cb89-0": {
+          "type": "slide",
+          "settings": {
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "template--17548613452080__1a52eaa5-6e94-40d5-a7f4-ad07472c8b3e-16806176438442cb89-1": {
+          "type": "slide",
+          "settings": {
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--17548613452080__1a52eaa5-6e94-40d5-a7f4-ad07472c8b3e-16806176438442cb89-0",
+        "template--17548613452080__1a52eaa5-6e94-40d5-a7f4-ad07472c8b3e-16806176438442cb89-1"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "26171756-0842-4f6c-99bf-d88c3dc352e8": {
+      "type": "collage",
+      "blocks": {
+        "template--17548613452080__26171756-0842-4f6c-99bf-d88c3dc352e8-16806176041f9060e5-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_20210505_163311_119.jpg"
+          }
+        },
+        "template--17548613452080__26171756-0842-4f6c-99bf-d88c3dc352e8-16806176041f9060e5-1": {
+          "type": "product",
+          "settings": {
+            "product": "dockmat",
+            "second_image": false
+          }
+        },
+        "template--17548613452080__26171756-0842-4f6c-99bf-d88c3dc352e8-16806176041f9060e5-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "boat-dock"
+          }
+        }
+      },
+      "block_order": [
+        "template--17548613452080__26171756-0842-4f6c-99bf-d88c3dc352e8-16806176041f9060e5-0",
+        "template--17548613452080__26171756-0842-4f6c-99bf-d88c3dc352e8-16806176041f9060e5-1",
+        "template--17548613452080__26171756-0842-4f6c-99bf-d88c3dc352e8-16806176041f9060e5-2"
+      ],
+      "settings": {
+        "heading": "Multimedia collage",
+        "heading_size": "h2",
+        "desktop_layout": "right",
+        "mobile_layout": "collage",
+        "card_styles": "none",
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "main",
-    "227ebd38-0e9b-4e29-891a-3c713f55b885",
     "17153d45-94cd-4b24-b65c-39481c5011e8",
-    "7e474238-cb59-4bff-8ede-e660de274c58"
+    "7e474238-cb59-4bff-8ede-e660de274c58",
+    "227ebd38-0e9b-4e29-891a-3c713f55b885",
+    "1a52eaa5-6e94-40d5-a7f4-ad07472c8b3e",
+    "26171756-0842-4f6c-99bf-d88c3dc352e8"
   ]
 }
