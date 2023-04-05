@@ -222,8 +222,8 @@
         "type": "shopify:\/\/apps\/g-translate\/blocks\/flags\/408a74ac-f92d-43cf-a1b1-a044341e66bd",
         "disabled": false,
         "settings": {
-          "horizontal_position": "right",
-          "vertical_position": "top",
+          "horizontal_position": "left",
+          "vertical_position": "bottom",
           "native_language_names": true,
           "flag_size": "32",
           "flag_style": "2d",
