@@ -42,6 +42,13 @@
             "show_dynamic_checkout": false
           }
         },
+        "aba89d4d-7b8e-47b6-865d-7173d382c8cc": {
+          "type": "text",
+          "settings": {
+            "text": "Pay with Klarna, Paypal, Mastercard, Visa and most other payment methods",
+            "text_style": "body"
+          }
+        },
         "bc70dea8-9827-4a4b-b199-379fb4cbdb30": {
           "type": "trustpilot",
           "settings": {
@@ -82,6 +89,7 @@
         "quantity_selector",
         "price",
         "buy_buttons",
+        "aba89d4d-7b8e-47b6-865d-7173d382c8cc",
         "bc70dea8-9827-4a4b-b199-379fb4cbdb30",
         "collapsible-row-0",
         "collapsible-row-1",
