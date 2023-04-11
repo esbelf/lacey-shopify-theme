@@ -104,14 +104,21 @@
 
     <!-- Google tag (gtag.js) -->
     {%- if request.host contains 'goodbyetomuck.eu' -%}
-      <script async src="https://www.googletagmanager.com/gtag/js?id=G-7WLXB0ZZKY"></script>
+      <!-- Google Tag Manager -->
+      <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+      'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+      })(window,document,'script','dataLayer','GTM-T39RPW2');</script>
+      <!-- End Google Tag Manager -->
+      <!-- <script async src="https://www.googletagmanager.com/gtag/js?id=G-7WLXB0ZZKY"></script>
       <script>
         window.dataLayer = window.dataLayer || [];
         function gtag(){dataLayer.push(arguments);}
         gtag('js', new Date());
 
         gtag('config', 'G-7WLXB0ZZKY');
-      </script>
+      </script> -->
     {%- end -%}
     {%- if request.host contains 'goodbyetomuck.com' -%}
       <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZRWSKVN5E7"></script>
@@ -333,6 +340,11 @@
   {% comment %}ly_dir_styles_begin{% endcomment %}{%- assign language_code = '_' | append: request.locale.iso_code -%}{%- if '_ar_ha_he_fa_ks_ku_ps_ur_yi' contains language_code -%}{{- 'ly-rtl.css' | asset_url | stylesheet_tag -}}{%- endif -%}{% comment %}ly_dir_styles_end{% endcomment %}</head>
 
   <body class="gradient">
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T39RPW2"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
     <a class="skip-to-content-link button visually-hidden" href="#MainContent">
       {{ "accessibility.skip_to_text" | t }}
     </a>
