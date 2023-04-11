@@ -48,6 +48,22 @@
             {% if product.selected_or_first_available_variant.available == false %}
               disabled
             {% endif %}
+            onclick="dataLayer.push({ 'ecommerce': null });
+                      dataLayer.push({
+                        'event': 'add_to_cart',
+                        'ecommerce': {
+                          'currency': '{{ shop.currency }}',
+                          'value': '{{ product.price | times: 0.01 }}',
+                          'items': [{
+                            'item_id': '{{ product.id }}',
+                            'item_name': '{{ product_title | remove: "'" | remove: '"' }}',
+                            'item_brand': '{{ product.vendor | remove: "'" | remove: '"' }}',
+                            'item_category': '{{ product.collections[0].title | remove: "'" | remove: '"' }}',
+                            'item_variant': '{{ product.collections[0].title | remove: "'" | remove: '"' }}',
+                            'price': '{{ product.price | times: 0.01 }}'
+                          }]
+                      });
+                    "
           >
             <span>
               {%- if product.selected_or_first_available_variant.available -%}
