@@ -161,7 +161,9 @@
       "inventory_low_stock_show_count": "Varasto vähissä: {{ quantity }} jäljellä",
       "inventory_out_of_stock": "Loppunut varastosta",
       "sku": "SKU-koodi",
-      "inventory_out_of_stock_continue_selling": "Varastossa"
+      "inventory_out_of_stock_continue_selling": "Varastossa",
+      "shipping_in_eu": "Ilmainen toimitus EU:n sisällä",
+      "shipping_in_usa": "Ilmainen toimitus Yhdysvaltojen sisällä"
     },
     "modal": {
       "label": "Mediagalleria"
@@ -412,7 +414,7 @@
       "price": "Hinta",
       "quantity": "Määrä",
       "total": "Yhteensä",
-      "fulfilled_at_html": "Jaeltu {{ date }}",
+      "fulfilled_at_html": "Toteutunut {{ date }}",
       "track_shipment": "Seuraa lähetystä",
       "tracking_url": "Seurantalinkki",
       "tracking_company": "Kuljetuspalvelu",
