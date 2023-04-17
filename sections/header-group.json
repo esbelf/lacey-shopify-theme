@@ -14,10 +14,21 @@
             "color_scheme": "accent-1",
             "link": ""
           }
+        },
+        "8f3eba53-6355-4231-b784-82105a324c92": {
+          "type": "announcement",
+          "settings": {
+            "text-eu": "Seaweed and Lake weed Control - Safe, Green and Guaranteed!",
+            "text-com": "Seaweed and Lake weed Control - Safe, Green and Guaranteed!",
+            "text_alignment": "center",
+            "color_scheme": "background-2",
+            "link": ""
+          }
         }
       },
       "block_order": [
-        "announcement-bar-0"
+        "announcement-bar-0",
+        "8f3eba53-6355-4231-b784-82105a324c92"
       ],
       "settings": {
       }
