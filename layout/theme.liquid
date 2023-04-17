@@ -40,7 +40,7 @@
     ></script>
 
     <!-- GEO targetly script to switch .com to .eu in the european union -->
-    {%- if request.host == 'goodbyetomuck.com' -%}
+    {%- if request.host contains 'goodbyetomuck.com' -%}
       <script>
         (function(g,e,o,t,a,r,ge,tl,y,s){
         g.getElementsByTagName(o)[0].insertAdjacentHTML('afterbegin','<style id="georedirect1622899293615style">body{opacity:0.0 !important;}</style>');
@@ -55,7 +55,7 @@
     {%- endif -%}
 
     <!-- GEO targetly script to switch .eu to .com in North America -->
-    {%- if request.host == 'goodbyetomuck.eu' -%}
+    {%- if request.host contains 'goodbyetomuck.eu' -%}
       <!-- EU to countries in EU or to US -->
       <script>
         (function(g,e,o,t,a,r,ge,tl,y,s){
@@ -91,7 +91,7 @@
     <!-- End Meta Pixel Code -->
 
     <!-- Facebook site verification -->
-    {%- if request.host == 'goodbyetomuck.eu' -%}
+    {%- if request.host contains 'goodbyetomuck.eu' -%}
       <meta
         name="facebook-domain-verification"
         content="mlsy9hr1i15a1vqvqss3xrs158gngc"
@@ -104,7 +104,7 @@
     {%- endif -%}
 
     <!-- Google tag (gtag.js) -->
-    {%- if request.host == 'goodbyetomuck.eu' -%}
+    {%- if request.host contains 'goodbyetomuck.eu' -%}
       <script async src="https://www.googletagmanager.com/gtag/js?id=G-7WLXB0ZZKY"></script>
       <script>
         window.dataLayer = window.dataLayer || [];
