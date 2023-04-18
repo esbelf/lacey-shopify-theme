@@ -1,11 +1,39 @@
 {
   "sections": {
-    "99a97d6e-10fe-47f2-9edf-883a4a87e116": {
-      "type": "dynamic-image-banner",
+    "701933e4-db6d-476f-86a0-bcb37a6a13c2": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--17548616237360__701933e4-db6d-476f-86a0-bcb37a6a13c2-16818162656263d096-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Get Rid Seaweed - Guaranteed",
+            "heading_size": "h1"
+          }
+        },
+        "template--17548616237360__701933e4-db6d-476f-86a0-bcb37a6a13c2-16818162656263d096-1": {
+          "type": "text",
+          "settings": {
+            "text": "<ul><li><h3>- Benthic barrier Mats for pond, lake and seaweed control<\/h3><\/li><li><h3>- 100% Green and Effective<\/h3><\/li><li><h3>- The sustainable solution to weed control<\/h3><\/li><li><h3>- Free shipping and returns<\/h3><\/li><\/ul>",
+            "text_style": "subtitle"
+          }
+        }
+      },
+      "block_order": [
+        "template--17548616237360__701933e4-db6d-476f-86a0-bcb37a6a13c2-16818162656263d096-0",
+        "template--17548616237360__701933e4-db6d-476f-86a0-bcb37a6a13c2-16818162656263d096-1"
+      ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/sand_main_home.png",
-        "image_2": "shopify:\/\/shop_images\/sand_main_home_mobile.png",
-        "color_scheme": "background-1"
+        "image": "shopify:\/\/shop_images\/2BeforeAfter12.jpg",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "image_banner": {
@@ -14,7 +42,6 @@
       "blocks": {
         "heading": {
           "type": "heading",
-          "disabled": true,
           "settings": {
             "heading": "Image banner",
             "heading_size": "h0"
@@ -22,7 +49,6 @@
         },
         "text": {
           "type": "text",
-          "disabled": true,
           "settings": {
             "text": "Give customers details about the banner image(s) or content on the template.",
             "text_style": "body"
@@ -30,7 +56,6 @@
         },
         "button": {
           "type": "buttons",
-          "disabled": true,
           "settings": {
             "button_label_1": "Shop all",
             "button_link_1": "shopify:\/\/collections\/all",
@@ -47,9 +72,9 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/sand_main_home.png",
+        "image": "shopify:\/\/shop_images\/2BeforeAfter12.jpg",
         "image_overlay_opacity": 0,
-        "image_height": "large",
+        "image_height": "adapt",
         "desktop_content_position": "bottom-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
@@ -57,6 +82,14 @@
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
         "show_text_below": false
+      }
+    },
+    "99a97d6e-10fe-47f2-9edf-883a4a87e116": {
+      "type": "dynamic-image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/sand_main_home.png",
+        "image_2": "shopify:\/\/shop_images\/sand_main_home_mobile.png",
+        "color_scheme": "background-1"
       }
     },
     "934d7a8d-7619-458e-b8ee-9ce685ce058d": {
@@ -179,8 +212,9 @@
     }
   },
   "order": [
-    "99a97d6e-10fe-47f2-9edf-883a4a87e116",
+    "701933e4-db6d-476f-86a0-bcb37a6a13c2",
     "image_banner",
+    "99a97d6e-10fe-47f2-9edf-883a4a87e116",
     "934d7a8d-7619-458e-b8ee-9ce685ce058d",
     "multicolumn",
     "featured_collection"
