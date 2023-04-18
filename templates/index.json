@@ -44,6 +44,33 @@
         "padding_bottom": 16
       }
     },
+    "featured_collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Eliminate lake weeds, Stabilize muddy & mucky bottoms, Create a beach",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "top-sellers",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 28,
+        "padding_bottom": 36
+      }
+    },
     "image_banner": {
       "type": "image-banner",
       "disabled": true,
@@ -190,41 +217,14 @@
         "padding_top": 20,
         "padding_bottom": 20
       }
-    },
-    "featured_collection": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Eliminate lake weeds, Stabilize muddy & mucky bottoms, Create a beach",
-        "heading_size": "h2",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "top-sellers",
-        "products_to_show": 4,
-        "columns_desktop": 4,
-        "full_width": false,
-        "show_view_all": false,
-        "view_all_style": "solid",
-        "enable_desktop_slider": true,
-        "color_scheme": "background-1",
-        "image_ratio": "adapt",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 28,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
     "701933e4-db6d-476f-86a0-bcb37a6a13c2",
+    "featured_collection",
     "image_banner",
     "99a97d6e-10fe-47f2-9edf-883a4a87e116",
     "934d7a8d-7619-458e-b8ee-9ce685ce058d",
-    "multicolumn",
-    "featured_collection"
+    "multicolumn"
   ]
 }
