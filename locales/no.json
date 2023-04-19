@@ -1684,5 +1684,78 @@
       "to": "Til",
       "clear_filter": "Fjern filteret"
     }
+  },
+  "sections": {
+    "header": {
+      "announcement": "Kunngjøring",
+      "menu": "Menu",
+      "cart_count": {
+        "one": "{{ count }} punkt",
+        "other": "{{ count }} gjenstander"
+      }
+    },
+    "cart": {
+      "title": "Handlekurven din",
+      "caption": "Handlevogn varer",
+      "remove_title": "Fjerne {{ title }}",
+      "subtotal": "Subtotal",
+      "new_subtotal": "Ny delsum",
+      "note": "Bestill spesialinstruksjoner",
+      "checkout": "Sjekk ut",
+      "empty": "Vognen din er tom",
+      "cart_error": "Det oppsto en feil under oppdatering av handlekurven. Vær så snill, prøv på nytt.",
+      "cart_quantity_error_html": "Du kan bare legge til {{ quantity }}  av denne varen til handlekurven din.",
+      "taxes_and_shipping_policy_at_checkout_html": "Avgifter og <a href=\"{{ link }}&quot;>frakt<\/a> beregnes i kassen",
+      "taxes_included_but_shipping_at_checkout": "Inkludert moms og frakt beregnes i kassen",
+      "taxes_included_and_shipping_policy_html": "Avgift inkludert. <a href=\"{{ link }}&quot;>Frakt<\/a> beregnes i kassen.",
+      "taxes_and_shipping_at_checkout": "Avgifter og frakt beregnes i kassen",
+      "headings": {
+        "product": "Produkt",
+        "price": "Pris",
+        "total": "Total",
+        "quantity": "Quantity",
+        "image": "Produktbilde"
+      },
+      "update": "Oppdater",
+      "login": {
+        "title": "Har en konto?",
+        "paragraph_html": "<a href=\"{{ link }}&quot; class=&quot;link underlined-link&quot;>Logg på<\/a> for å sjekke ut raskere."
+      }
+    },
+    "footer": {
+      "payment": "Betalingsmetoder"
+    },
+    "featured_blog": {
+      "view_all": "Se alt",
+      "onboarding_title": "Blogg innlegg",
+      "onboarding_content": "Gi kundene dine et sammendrag av blogginnlegget ditt"
+    },
+    "featured_collection": {
+      "view_all": "Se alt",
+      "view_all_label": "Se alle produktene i {{ collection_name }}  samling"
+    },
+    "collection_list": {
+      "view_all": "Se alt"
+    },
+    "collection_template": {
+      "empty": "Ingen produkter funnet",
+      "title": "Samling",
+      "use_fewer_filters_html": "Bruk færre filtre eller <a class=\"{{ class }}&quot; href=&quot;{{ link }} &quot;>fjern alle<\/a>"
+    },
+    "video": {
+      "load_video": "Last inn video: {{ description }}"
+    },
+    "slideshow": {
+      "load_slide": "Last inn lysbilde",
+      "previous_slideshow": "Forrige lysbilde",
+      "next_slideshow": "Neste lysbilde",
+      "pause_slideshow": "Sett lysbildefremvisningen på pause",
+      "play_slideshow": "Spill lysbildefremvisning",
+      "carousel": "Karusell",
+      "slide": "Lysbilde"
+    },
+    "page": {
+      "title": "Side tittel"
+    }
   }
 }
