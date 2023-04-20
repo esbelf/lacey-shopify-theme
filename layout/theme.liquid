@@ -40,6 +40,37 @@
     ></script> -->
 
 
+    <!-- GEO targetly script to switch .com to .eu in the european union -->
+    {%- if request.host contains 'goodbyetomuck.com' -%}
+      <script>
+        (function(g,e,o,t,a,r,ge,tl,y,s){
+        g.getElementsByTagName(o)[0].insertAdjacentHTML('afterbegin','<style id="georedirect1622899293615style">body{opacity:0.0 !important;}</style>');
+        s=function(){g.getElementById('georedirect1622899293615style').innerHTML='body{opacity:1.0 !important;}';};
+        t=g.getElementsByTagName(o)[0];y=g.createElement(e);y.async=true;
+        y.src='https://geotargetly-api-1.com/gr?id=-MbRKUoOrg9RdHp0qYkG&refurl='+g.referrer+'&winurl='+encodeURIComponent(window.location);
+        t.parentNode.insertBefore(y,t);y.onerror=function(){s()};
+        georedirect1622899293615loaded=function(redirect){var to=0;if(redirect){to=5000};
+        setTimeout(function(){s();},to)};
+        })(document,'script','head');
+      </script>
+    {%- endif -%}
+
+    <!-- GEO targetly script to switch .eu to .com in North America -->
+    {%- if request.host contains 'goodbyetomuck.eu' -%}
+      <!-- EU to countries in EU or to US -->
+      <script>
+        (function(g,e,o,t,a,r,ge,tl,y,s){
+        g.getElementsByTagName(o)[0].insertAdjacentHTML('afterbegin','<style id="georedirect1679603284319style">body{opacity:0.0 !important;}</style>');
+        s=function(){g.getElementById('georedirect1679603284319style').innerHTML='body{opacity:1.0 !important;}';};
+        t=g.getElementsByTagName(o)[0];y=g.createElement(e);y.async=true;
+        y.src='https://geotargetly-api-1.com/gr?id=-NRF92YDx2QyJ9RV12vO&refurl='+g.referrer+'&winurl='+encodeURIComponent(window.location);
+        t.parentNode.insertBefore(y,t);y.onerror=function(){s()};
+        georedirect1679603284319loaded=function(redirect){var to=0;if(redirect){to=5000};
+        setTimeout(function(){s();},to)};
+        })(document,'script','head');
+      </script>
+    {%- endif -%}
+
 
 
 <!--     <noscript><img height="1" width="1" style="display:none"
@@ -348,7 +379,7 @@
 <!-- **BEGIN** Hextom QAB Integration // Main Include - DO NOT MODIFY -->
     {% render 'hextom_qab_main', product: product, customer: customer %}
     <!-- **END** Hextom QAB Integration // Main Include - DO NOT MODIFY -->
-{% include "scm-currency-switcher" %}
+<!-- langify-v2-scripts-begin -->{% comment %}ly_liquid_scripts_begin{% endcomment %}{% endcapture %}{% render 'ly-liquid-scripts' content: ly_liquid_content %}{% comment %}ly_liquid_scripts_end{% endcomment %}{% comment %}ly_core_scripts_begin{% endcomment %}{% render 'ly-core-scripts' %}{% comment %}ly_core_scripts_end{% endcomment %}{% comment %}ly_switcher_factory_begin{% endcomment %}{% render 'ly-switcher-factory' %}{% comment %}ly_switcher_factory_end{% endcomment %}<!-- langify-v2-scripts-end -->{% include "scm-currency-switcher" %}
 {% include "scm-currency" %}
-<!-- langify-v2-scripts-begin -->{% comment %}ly_liquid_scripts_begin{% endcomment %}{% endcapture %}{% render 'ly-liquid-scripts' content: ly_liquid_content %}{% comment %}ly_liquid_scripts_end{% endcomment %}{% comment %}ly_core_scripts_begin{% endcomment %}{% render 'ly-core-scripts' %}{% comment %}ly_core_scripts_end{% endcomment %}{% comment %}ly_switcher_factory_begin{% endcomment %}{% render 'ly-switcher-factory' %}{% comment %}ly_switcher_factory_end{% endcomment %}<!-- langify-v2-scripts-end --></body>
+</body>
 </html>
