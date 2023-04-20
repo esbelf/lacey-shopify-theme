@@ -40,7 +40,7 @@
     ></script> -->
 
     <!-- GEO targetly script to switch .com to .eu in the european union -->
-    {%- if request.host contains 'goodbyetomuck.com' -%}
+<!--     {%- if request.host contains 'goodbyetomuck.com' -%}
       <script>
         (function(g,e,o,t,a,r,ge,tl,y,s){
         g.getElementsByTagName(o)[0].insertAdjacentHTML('afterbegin','<style id="georedirect1622899293615style">body{opacity:0.0 !important;}</style>');
@@ -52,10 +52,10 @@
         setTimeout(function(){s();},to)};
         })(document,'script','head');
       </script>
-    {%- endif -%}
+    {%- endif -%} -->
 
     <!-- GEO targetly script to switch .eu to .com in North America -->
-    {%- if request.host contains 'goodbyetomuck.eu' -%}
+
       <!-- EU to countries in EU or to US -->
       <script>
         (function(g,e,o,t,a,r,ge,tl,y,s){
@@ -68,7 +68,7 @@
         setTimeout(function(){s();},to)};
         })(document,'script','head');
       </script>
-    {%- endif -%}
+
 
 
     <!-- Meta Pixel Code -->
