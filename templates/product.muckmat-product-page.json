@@ -361,6 +361,13 @@
         "padding_bottom": 16
       }
     },
+    "c90d97f7-f0ef-40f0-a414-c7188392c582": {
+      "type": "dynamic-image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/table_1.png",
+        "color_scheme": "background-1"
+      }
+    },
     "2a975f59-16a0-430b-8a7e-48ea9a39f9f9": {
       "type": "rich-text",
       "blocks": {
@@ -468,6 +475,7 @@
     "f4fc12ca-5435-40d4-be35-18e2a4068d14",
     "9c0b7a61-dd59-42f8-b006-36d23adf0005",
     "multicolumn",
+    "c90d97f7-f0ef-40f0-a414-c7188392c582",
     "2a975f59-16a0-430b-8a7e-48ea9a39f9f9",
     "172f7eec-48a3-44fe-9d41-001b216326d3",
     "7f2d188d-6a63-4811-9f09-a4665395fef2",
