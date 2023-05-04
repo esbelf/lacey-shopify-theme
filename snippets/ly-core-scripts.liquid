@@ -1,4 +1,4 @@
-{%- comment -%}Version 4.0.9{%- endcomment -%}
+{%- comment -%}Version 4.1.0{%- endcomment -%}
 {%- comment -%}
   !!! IMPORTANT !!!
   This file has been automatically created by Langify.
@@ -901,13 +901,14 @@
       var root = this;
       var links = document.getElementsByClassName('ly-languages-switcher-link');
       for(var l = 0; l < links.length; l++) {
+        
         links[l].addEventListener('click', function(event) {
           event.preventDefault();
-          if(LyHelper.isDomainFeatureEnabled() && this.getAttribute('href') !== '#') {
+          if(LyHelper.isDomainFeatureEnabled() && this.getAttribute('href') !== '#' && !this.getAttribute('data-country-code')) {
           	var domain = this.getAttribute('href');
           }
           LyHelper.setCookie('ly-lang-selected', this.getAttribute('data-language-code'), 365);
-          LyHelper.localizationRedirect('language_code', this.getAttribute('data-language-code'), null, null, domain);
+          LyHelper.localizationRedirect('language_code', this.getAttribute('data-language-code'), root._dataAttrToAdditionalFields(this), null, domain);
         });
       }
 
@@ -916,11 +917,11 @@
       for(var i = 0; i < nativeLangifySelects.length; i++) {
         nativeLangifySelects[i].onchange = function() {
           event.preventDefault();
-          if(LyHelper.isDomainFeatureEnabled() && this[this.selectedIndex].getAttribute('data-domain') !== '#') {
+          if(LyHelper.isDomainFeatureEnabled() && this[this.selectedIndex].getAttribute('data-domain') !== '#' && this[this.selectedIndex].getAttribute('data-country-code')) {
             var domain = this[this.selectedIndex].getAttribute('data-domain');
           }
           LyHelper.setCookie('ly-lang-selected', this[this.selectedIndex].getAttribute('data-language-code'), 365);
-          LyHelper.localizationRedirect('language_code', this[this.selectedIndex].getAttribute('data-language-code'), null, null, domain);
+          LyHelper.localizationRedirect('language_code', this[this.selectedIndex].getAttribute('data-language-code'), root._dataAttrToAdditionalFields(this), null, domain);
         };
       }
     }
@@ -969,6 +970,7 @@
           if(target) targets.push(target);
           for(var c = 0; c < targets.length; c++) {
             var clone = this.switcherElements[i].cloneNode(true);
+            this.switcherElements[i].remove();
             targets[c].innerHTML = clone.outerHTML;
           }
           this.switcherElements[i].classList.add('ly-hide');
@@ -1020,6 +1022,23 @@
         }
       }
       return countryCode;
+    }
+
+    _dataAttrToAdditionalFields(elem) {
+      var additionalFields = [];
+      if(elem.hasAttribute('data-country-code')) {
+        additionalFields.push({
+          name: 'country_code',
+          value: elem.getAttribute('data-country-code')
+        });
+      }
+      if(elem.hasAttribute('data-currency-code')) {
+        additionalFields.push({
+          name: 'currency_code',
+          value: elem.getAttribute('data-currency-code')
+        });
+      }
+      return additionalFields;
     }
   }
 
@@ -1138,10 +1157,11 @@
       // Cross Domain Links option
       if(LyHelper.isDomainFeatureEnabled()) {
         for(var i = 0; i < langify.locale.languages.length; i++) {
-          let newHref = 'https://' + langify.locale.languages[i].domain + window.location.pathname + window.location.search + window.location.hash
-          // When cross-domain link is pointing to the same domain with subfolders, don't merge the current pathname into the url
+          let newHref = 'https://' + langify.locale.languages[i].domain + window.location.pathname + window.location.search + window.location.hash;
+          // When cross-domain link is pointing to the same domain with subfolders, window.location.pathname would have to be unlocalized before it can be merged into the url
           if(new String(langify.locale.languages[i].domain).indexOf(window.location.hostname) === 0) {
-            newHref = 'https://' + langify.locale.languages[i].domain + window.location.search + window.location.hash
+            let unlocalizedPathname = langify.locale.root_url !== '/' ? window.location.pathname.replace(langify.locale.root_url, '') : window.location.pathname;
+            newHref = 'https://' + langify.locale.languages[i].domain + unlocalizedPathname + window.location.search + window.location.hash
           }
           hreflangList.push({
             href: newHref,
