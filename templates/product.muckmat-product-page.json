@@ -371,6 +371,7 @@
     },
     "d491a26d-c3ab-4f2c-90cc-85e6c1783ed3": {
       "type": "image-within-container",
+      "disabled": true,
       "blocks": {
         "template--17574336266544__d491a26d-c3ab-4f2c-90cc-85e6c1783ed3-1683287261ba66d37a-0": {
           "type": "heading",
