@@ -205,6 +205,56 @@
         "padding_bottom": 20
       }
     },
+    "2e25755a-e733-463b-9d4e-812732f9d95a": {
+      "type": "image-within-container",
+      "blocks": {
+        "template--17575199899952__2e25755a-e733-463b-9d4e-812732f9d95a-1683301945c4fc89c6-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "template--17575199899952__2e25755a-e733-463b-9d4e-812732f9d95a-1683301945c4fc89c6-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "template--17575199899952__2e25755a-e733-463b-9d4e-812732f9d95a-1683301945c4fc89c6-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--17575199899952__2e25755a-e733-463b-9d4e-812732f9d95a-1683301945c4fc89c6-0",
+        "template--17575199899952__2e25755a-e733-463b-9d4e-812732f9d95a-1683301945c4fc89c6-1",
+        "template--17575199899952__2e25755a-e733-463b-9d4e-812732f9d95a-1683301945c4fc89c6-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/table_4.png",
+        "image_overlay_opacity": 0,
+        "image_height": "large",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "related-products": {
       "type": "related-products",
       "settings": {
@@ -227,6 +277,7 @@
     "main",
     "46a7ed41-e19e-41b0-8c3f-c4112762ffdc",
     "multicolumn",
+    "2e25755a-e733-463b-9d4e-812732f9d95a",
     "related-products"
   ]
 }
