@@ -8,47 +8,39 @@
         "padding_bottom": 0
       }
     },
-    "147ac852-3afa-489c-a0ee-b9f3e4da33f2": {
-      "type": "collage",
+    "5badbe6b-0454-4dba-be11-aea592155feb": {
+      "type": "rich-text",
       "blocks": {
-        "template--18488956944712__147ac852-3afa-489c-a0ee-b9f3e4da33f2-1684231866924bf67e-0": {
-          "type": "image",
+        "template--18488956944712__5badbe6b-0454-4dba-be11-aea592155feb-1684231919cec99c7e-0": {
+          "type": "heading",
           "settings": {
+            "heading": "<p>Local Sales and Installations<\/p>",
+            "heading_size": "h1"
           }
         },
-        "template--18488956944712__147ac852-3afa-489c-a0ee-b9f3e4da33f2-1684231866924bf67e-1": {
-          "type": "product",
+        "template--18488956944712__5badbe6b-0454-4dba-be11-aea592155feb-1684231919cec99c7e-1": {
+          "type": "text",
           "settings": {
-            "product": "",
-            "second_image": false
-          }
-        },
-        "template--18488956944712__147ac852-3afa-489c-a0ee-b9f3e4da33f2-1684231866924bf67e-2": {
-          "type": "collection",
-          "settings": {
-            "collection": ""
+            "text": "<h3>Contact local sales partners, installation help, and water consultants near you!<\/h3>"
           }
         }
       },
       "block_order": [
-        "template--18488956944712__147ac852-3afa-489c-a0ee-b9f3e4da33f2-1684231866924bf67e-0",
-        "template--18488956944712__147ac852-3afa-489c-a0ee-b9f3e4da33f2-1684231866924bf67e-1",
-        "template--18488956944712__147ac852-3afa-489c-a0ee-b9f3e4da33f2-1684231866924bf67e-2"
+        "template--18488956944712__5badbe6b-0454-4dba-be11-aea592155feb-1684231919cec99c7e-0",
+        "template--18488956944712__5badbe6b-0454-4dba-be11-aea592155feb-1684231919cec99c7e-1"
       ],
       "settings": {
-        "heading": "Multimedia collage",
-        "heading_size": "h1",
-        "desktop_layout": "left",
-        "mobile_layout": "column",
-        "card_styles": "product-card-wrapper",
+        "desktop_content_position": "center",
+        "content_alignment": "center",
         "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     }
   },
   "order": [
     "main",
-    "147ac852-3afa-489c-a0ee-b9f3e4da33f2"
+    "5badbe6b-0454-4dba-be11-aea592155feb"
   ]
 }
