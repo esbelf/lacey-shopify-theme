@@ -111,8 +111,8 @@
         "address2_label": "Leilighet, suite osv.",
         "optional_address2_label": "Leilighet, suite osv. (valgfritt)",
         "city_label": "By",
-        "country_label": "Land\/region",
-        "country_code": "Lands-\/regionkode",
+        "country_label": "Land/region",
+        "country_code": "Lands-/regionkode",
         "province_label": "Provins",
         "province_placeholder": "Provins",
         "county_label": "fylke",
@@ -128,8 +128,8 @@
         "governorate_placeholder": "Governorate",
         "emirate_label": "Emirat",
         "emirate_placeholder": "Emirat",
-        "state_and_territory_label": "Stat\/territorium",
-        "state_and_territory_placeholder": "Stat\/territorium",
+        "state_and_territory_label": "Stat/territorium",
+        "state_and_territory_placeholder": "Stat/territorium",
         "phone_label": "Telefon",
         "optional_phone_label": "Telefon valgfritt)",
         "phone_placeholder": "Telefon",
@@ -190,12 +190,12 @@
           "other": "Produktene er ikke tilgjengelige"
         },
         "products_not_available": {
-          "one": "Dette produktet vil bli fjernet fra handlekurven din fordi det ikke er tilgjengelig i ditt land\/region.",
-          "other": "Disse produktene vil bli fjernet fra handlekurven din fordi de ikke er tilgjengelige i ditt land\/region."
+          "one": "Dette produktet vil bli fjernet fra handlekurven din fordi det ikke er tilgjengelig i ditt land/region.",
+          "other": "Disse produktene vil bli fjernet fra handlekurven din fordi de ikke er tilgjengelige i ditt land/region."
         },
         "all_products_in_cart_unavailable": {
-          "one": "Dette produktet er ikke tilgjengelig i ditt land\/din region.",
-          "other": "Disse produktene er ikke tilgjengelige i ditt land\/region."
+          "one": "Dette produktet er ikke tilgjengelig i ditt land/din region.",
+          "other": "Disse produktene er ikke tilgjengelige i ditt land/region."
         },
         "unavailable_label": "Utilgjengelig"
       },
@@ -422,8 +422,8 @@
         "name_on_card_label": "Navn på kort",
         "name_on_card_placeholder": "Navn på kort",
         "card_expired": "Utløpt",
-        "card_expiry_label": "Utløpsdato (MM \/ ÅÅ)",
-        "card_expiry_placeholder": "Utløpsdato (MM \/ ÅÅ)",
+        "card_expiry_label": "Utløpsdato (MM / ÅÅ)",
+        "card_expiry_placeholder": "Utløpsdato (MM / ÅÅ)",
         "credit_card_start_month": "Start måned",
         "credit_card_start_year": "Startår",
         "delete_customer_mandate_modal_title": "Vil du fjerne dette betalingskortet?",
@@ -439,8 +439,8 @@
         "card_verification_value_explanation": "3-digit security code usually found on the back of your card. American Express cards have a 4-digit code located on the front.",
         "card_verification_value_explanation_amex": "4-sifret sikkerhetskode på forsiden av kortet ditt",
         "card_verification_value_explanation_other": "3-sifret sikkerhetskode på baksiden av kortet ditt",
-        "card_start_label": "Utstedelsesdato (MM \/ ÅÅ)",
-        "card_start_placeholder": "Utstedelsesdato (MM \/ ÅÅ)",
+        "card_start_label": "Utstedelsesdato (MM / ÅÅ)",
+        "card_start_placeholder": "Utstedelsesdato (MM / ÅÅ)",
         "card_issue_number_label": "Utstedelsesnummer",
         "card_issue_number_placeholder": "Utstedelsesnummer",
         "card_change_label": "Endring",
@@ -449,8 +449,8 @@
         "masked_digits_label": "•••• %{siste sifre}",
         "payment_method_saved": "Betalingsmåten er lagret",
         "card_vaulted_company_location": "Kortet er lagret for denne plasseringen",
-        "expiry_long": "(Utløper %{month}\/%{år})",
-        "expiry_short": "(Utløp %{month}\/%{år})",
+        "expiry_long": "(Utløper %{month}/%{år})",
+        "expiry_short": "(Utløp %{month}/%{år})",
         "saved_by_payment_method": "Lagret av %{payment_method}",
         "pay_with_payment_method": "Betal med %{payment_method}",
         "different_credit_card_label": "Bruk et annet kredittkort",
@@ -552,9 +552,9 @@
         "address_city_too_long": "Byen er for lang (maksimum er 255 tegn)",
         "address_city_contains_emojis": "By kan ikke inneholde emojier",
         "address_city_contains_html_tags": "By kan ikke inneholde HTML-koder.",
-        "address_country_blank": "Velg et land\/region",
+        "address_country_blank": "Velg et land/region",
         "address_country_not_supported": "Vi sender ikke til dette landet eller området. Skriv inn en ny leveringsadresse og prøv på nytt.",
-        "address_province_blank": "Velg en stat\/provins",
+        "address_province_blank": "Velg en stat/provins",
         "address_company_blank": "Skriv inn et firmanavn",
         "address_company_too_long": "Firmanavnet er for langt (maksimalt er 255 tegn)",
         "address_company_contains_emojis": "Selskapet kan ikke inneholde emojier",
@@ -618,7 +618,7 @@
       },
       "payment_summary": {
         "gift_card_current_balance_notice": "Gjeldende saldo %{amount}",
-        "credit_card_expires_on_notice": "Utløper %{month}\/%{year}",
+        "credit_card_expires_on_notice": "Utløper %{month}/%{year}",
         "express_payment_gateway_label": "Uttrykke",
         "manual_payment_gateway_label": "Håndbok",
         "billing_address_title": "Billing address",
@@ -1036,7 +1036,7 @@
         "cart_updated_based_on_country": "Handlekurven din har blitt oppdatert basert på fraktlandet ditt."
       },
       "change_cart_localization": {
-        "verify_shipping_address": "Landet\/regionen din er oppdatert. Skriv inn leveringsadressen din for å fortsette utsjekkingen."
+        "verify_shipping_address": "Landet/regionen din er oppdatert. Skriv inn leveringsadressen din for å fortsette utsjekkingen."
       },
       "tips": {
         "title": "Legg til tips",
@@ -1140,7 +1140,7 @@
       "prefecture": "Prefektur",
       "province": "Provins",
       "state": "Stat",
-      "state_and_territory": "Stat\/territorium",
+      "state_and_territory": "Stat/territorium",
       "county": "fylke",
       "emirate": "Emirat",
       "governorate": "Governorate",
@@ -1247,7 +1247,7 @@
           "declined": "Betaling avvist",
           "inventory": "Items unavailable",
           "fraud": "Uredelig ordre",
-          "customer": "Kunden endret\/kansellerte ordre",
+          "customer": "Kunden endret/kansellerte ordre",
           "other": "Annen"
         },
         "cash_on_delivery": "Postoppkrav (COD)"
@@ -1276,7 +1276,8 @@
         "digital_product_not_available_for_company_locations": "Denne varen kan ikke legges til en B2B-bestilling",
         "selling_plan_not_applicable": "Kan ikke bruke salgsplan på variant",
         "shipping_address_not_required": "Denne handlekurven krever ikke frakt",
-        "shipping_address_invalid": "Det oppsto et problem med å beregne fraktprisene dine. Fortsett til kassen for å velge en fraktpris før du fullfører bestillingen."
+        "shipping_address_invalid": "Det oppsto et problem med å beregne fraktprisene dine. Fortsett til kassen for å velge en fraktpris før du fullfører bestillingen.",
+        "buy_now": "Buy Now"
       },
       "storefront": {
         "invalid_password": "Passordet er feil. Prøv igjen."
@@ -1487,7 +1488,7 @@
       "address1": "Adresse 1",
       "address2": "adresse 2",
       "city": "By",
-      "country": "Land\/region",
+      "country": "Land/region",
       "province": "Provins",
       "zip": "Postnummer",
       "phone": "Telefon",
@@ -1605,10 +1606,10 @@
     }
   },
   "localization": {
-    "country_label": "Land\/region",
+    "country_label": "Land/region",
     "language_label": "Språk",
     "update_language": "Oppdater språk",
-    "update_country": "Oppdater land\/region"
+    "update_country": "Oppdater land/region"
   },
   "newsletter": {
     "label": "E-post",
@@ -1705,9 +1706,9 @@
       "empty": "Vognen din er tom",
       "cart_error": "Det oppsto en feil under oppdatering av handlekurven. Vær så snill, prøv på nytt.",
       "cart_quantity_error_html": "Du kan bare legge til {{ quantity }}  av denne varen til handlekurven din.",
-      "taxes_and_shipping_policy_at_checkout_html": "Avgifter og <a href=\"{{ link }}&quot;>frakt<\/a> beregnes i kassen",
+      "taxes_and_shipping_policy_at_checkout_html": "Avgifter og <a href=\"{{ link }}&quot;>frakt</a> beregnes i kassen",
       "taxes_included_but_shipping_at_checkout": "Inkludert moms og frakt beregnes i kassen",
-      "taxes_included_and_shipping_policy_html": "Avgift inkludert. <a href=\"{{ link }}&quot;>Frakt<\/a> beregnes i kassen.",
+      "taxes_included_and_shipping_policy_html": "Avgift inkludert. <a href=\"{{ link }}&quot;>Frakt</a> beregnes i kassen.",
       "taxes_and_shipping_at_checkout": "Avgifter og frakt beregnes i kassen",
       "headings": {
         "product": "Produkt",
@@ -1719,7 +1720,7 @@
       "update": "Oppdater",
       "login": {
         "title": "Har en konto?",
-        "paragraph_html": "<a href=\"{{ link }}&quot; class=&quot;link underlined-link&quot;>Logg på<\/a> for å sjekke ut raskere."
+        "paragraph_html": "<a href=\"{{ link }}&quot; class=&quot;link underlined-link&quot;>Logg på</a> for å sjekke ut raskere."
       }
     },
     "footer": {
@@ -1740,7 +1741,7 @@
     "collection_template": {
       "empty": "Ingen produkter funnet",
       "title": "Samling",
-      "use_fewer_filters_html": "Bruk færre filtre eller <a class=\"{{ class }}&quot; href=&quot;{{ link }} &quot;>fjern alle<\/a>"
+      "use_fewer_filters_html": "Bruk færre filtre eller <a class=\"{{ class }}&quot; href=&quot;{{ link }} &quot;>fjern alle</a>"
     },
     "video": {
       "load_video": "Last inn video: {{ description }}"

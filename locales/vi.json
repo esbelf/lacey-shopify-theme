@@ -42,7 +42,8 @@
     "cart": {
       "view": "Xem giỏ hàng của tôi ({{ count }})",
       "item_added": "Mặt hàng đã thêm vào giỏ hàng",
-      "view_empty_cart": "Xem giỏ hàng của tôi"
+      "view_empty_cart": "Xem giỏ hàng của tôi",
+      "buy_now": "Buy Now"
     },
     "share": {
       "copy_to_clipboard": "Sao chép liên kết",

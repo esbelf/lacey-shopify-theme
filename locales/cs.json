@@ -42,7 +42,8 @@
     "cart": {
       "view": "Zobrazit košík ({{ count }})",
       "item_added": "Položka byla přidána do košíku",
-      "view_empty_cart": "Zobrazit můj košík"
+      "view_empty_cart": "Zobrazit můj košík",
+      "buy_now": "Buy Now"
     },
     "share": {
       "copy_to_clipboard": "Kopírovat odkaz",

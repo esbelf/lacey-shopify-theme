@@ -42,7 +42,8 @@
     "cart": {
       "view": "Prikaži mojo košarico ({{ count }})",
       "item_added": "Artikel je dodan v košarico",
-      "view_empty_cart": "Ogled moje košarice"
+      "view_empty_cart": "Ogled moje košarice",
+      "buy_now": "Buy Now"
     },
     "share": {
       "copy_to_clipboard": "Kopiraj povezavo",

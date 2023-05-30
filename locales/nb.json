@@ -42,7 +42,8 @@
     "cart": {
       "view": "Vis handlekurven ({{ count }})",
       "item_added": "Vare lagt i handlekurven",
-      "view_empty_cart": "Vis handlekurven"
+      "view_empty_cart": "Vis handlekurven",
+      "buy_now": "Buy Now"
     },
     "share": {
       "copy_to_clipboard": "Kopier kobling",

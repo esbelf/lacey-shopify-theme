@@ -42,7 +42,8 @@
     "cart": {
       "view": "Kosár megtekintése ({{ count }})",
       "item_added": "Betettük a terméket a kosárba",
-      "view_empty_cart": "Kosár megtekintése"
+      "view_empty_cart": "Kosár megtekintése",
+      "buy_now": "Buy Now"
     },
     "share": {
       "copy_to_clipboard": "Hivatkozás másolása",

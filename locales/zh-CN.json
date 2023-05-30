@@ -42,7 +42,8 @@
     "cart": {
       "view": "查看我的购物车 ({{ count }})",
       "item_added": "商品已加入购物车",
-      "view_empty_cart": "查看我的购物车"
+      "view_empty_cart": "查看我的购物车",
+      "buy_now": "Buy Now"
     },
     "share": {
       "copy_to_clipboard": "复制链接",

@@ -42,7 +42,8 @@
     "cart": {
       "view": "Winkelwagen bekijken ({{ count }})",
       "item_added": "Artikel toegevoegd aan winkelwagen",
-      "view_empty_cart": "Mijn winkelwagen bekijken"
+      "view_empty_cart": "Mijn winkelwagen bekijken",
+      "buy_now": "Buy Now"
     },
     "share": {
       "copy_to_clipboard": "Link kopiëren",

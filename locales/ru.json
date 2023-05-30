@@ -42,7 +42,8 @@
     "cart": {
       "view": "Просмотреть корзину ({{ count }})",
       "item_added": "Товар добавлен в корзину.",
-      "view_empty_cart": "Просмотреть корзину"
+      "view_empty_cart": "Просмотреть корзину",
+      "buy_now": "Buy Now"
     },
     "share": {
       "copy_to_clipboard": "Копировать ссылку",

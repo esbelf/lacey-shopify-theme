@@ -42,7 +42,8 @@
     "cart": {
       "view": "Vizualizare coș ({{ count }})",
       "item_added": "Articolul a fost adăugat în coș",
-      "view_empty_cart": "Vreau să-mi văd coșul"
+      "view_empty_cart": "Vreau să-mi văd coșul",
+      "buy_now": "Buy Now"
     },
     "share": {
       "copy_to_clipboard": "Copiați linkul",

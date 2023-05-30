@@ -42,7 +42,8 @@
     "cart": {
       "view": "Ver mi carrito ({{ count }})",
       "item_added": "Artículo agregado a tu carrito",
-      "view_empty_cart": "Ver mi carrito"
+      "view_empty_cart": "Ver mi carrito",
+      "buy_now": "Buy Now"
     },
     "share": {
       "copy_to_clipboard": "Copiar enlace",

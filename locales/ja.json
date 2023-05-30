@@ -42,7 +42,8 @@
     "cart": {
       "view": "カートを見る ({{ count }})",
       "item_added": "カートにアイテムが追加されました",
-      "view_empty_cart": "カートを見る"
+      "view_empty_cart": "カートを見る",
+      "buy_now": "Buy Now"
     },
     "share": {
       "copy_to_clipboard": "リンクをコピー",

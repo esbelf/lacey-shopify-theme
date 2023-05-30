@@ -42,7 +42,8 @@
     "cart": {
       "view": "Afficher mon panier ({{ count }})",
       "item_added": "Article ajouté au panier",
-      "view_empty_cart": "Afficher mon panier"
+      "view_empty_cart": "Afficher mon panier",
+      "buy_now": "Buy Now"
     },
     "share": {
       "copy_to_clipboard": "Copier le lien",
