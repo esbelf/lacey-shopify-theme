@@ -150,7 +150,7 @@
         "image_available": "Kuva {{ index }} on nyt saatavilla gallerianäkymässä"
       },
       "view_full_details": "Näytä kaikki tiedot",
-      "include_taxes": "Sisältää veron.",
+      "include_taxes": "Älä sisällytä veroa",
       "shipping_policy_html": "<a href=\"{{ link }}\">Toimituskulut<\/a> lasketaan kassalla.",
       "choose_options": "Valitse vaihtoehdot",
       "choose_product_options": "Valitse vaihtoehtoja tuotteelle {{ product_name }}",
