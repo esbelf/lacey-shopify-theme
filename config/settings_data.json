@@ -156,15 +156,6 @@
         "settings": {
         }
       },
-      "14818028230436078177": {
-        "type": "shopify:\/\/apps\/langify\/blocks\/langify\/b50c2edb-8c63-4e36-9e7c-a7fdd62ddb8f",
-        "disabled": false,
-        "settings": {
-          "theme_id": "",
-          "block_flags_css": false,
-          "rtl_css": "body {\n  direction: rtl;\n}"
-        }
-      },
       "6143736321357441667": {
         "type": "shopify:\/\/apps\/tidio-live-chat-chatbots\/blocks\/app-embed\/1002274d-fb18-4939-98f6-5f05a8deeadc",
         "disabled": true,
@@ -183,6 +174,15 @@
           "button_horizontal_position": "bottom_right",
           "button_vertical_position": "lowest",
           "greeting_message": "👋 Hi, message us with any questions. We're happy to help!"
+        }
+      },
+      "14818028230436078177": {
+        "type": "shopify:\/\/apps\/langify\/blocks\/langify\/b50c2edb-8c63-4e36-9e7c-a7fdd62ddb8f",
+        "disabled": true,
+        "settings": {
+          "theme_id": "",
+          "block_flags_css": false,
+          "rtl_css": "body {\n  direction: rtl;\n}"
         }
       }
     }
