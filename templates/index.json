@@ -44,6 +44,41 @@
         "padding_bottom": 16
       }
     },
+    "934d7a8d-7619-458e-b8ee-9ce685ce058d": {
+      "type": "video-with-text",
+      "blocks": {
+        "template--17548616237360__934d7a8d-7619-458e-b8ee-9ce685ce058d-16735340201090ad98-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Why the MuckMat® is Best"
+          }
+        },
+        "template--17548616237360__934d7a8d-7619-458e-b8ee-9ce685ce058d-16735340201090ad98-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our LakeMats® and MuckMats® are chemical-free, affordable, and environmentally friendly alternatives to fight against lake weeds and muck.<\/p><p><strong>Creates a firm lake bottom<\/strong><\/p><p><strong>Eliminates weeds!<\/strong><\/p><p><strong>Includes high quality materials: patented mat, frame and geogrid<\/strong><\/p>"
+          }
+        },
+        "template--17548616237360__934d7a8d-7619-458e-b8ee-9ce685ce058d-16735340201090ad98-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop Now",
+            "button_link": "shopify:\/\/products\/muckmat"
+          }
+        }
+      },
+      "block_order": [
+        "template--17548616237360__934d7a8d-7619-458e-b8ee-9ce685ce058d-16735340201090ad98-0",
+        "template--17548616237360__934d7a8d-7619-458e-b8ee-9ce685ce058d-16735340201090ad98-1",
+        "template--17548616237360__934d7a8d-7619-458e-b8ee-9ce685ce058d-16735340201090ad98-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/fe60135212834168aca85bec946e54e8.mp4",
+        "height": "adapt",
+        "layout": "text_first"
+      }
+    },
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
@@ -93,41 +128,6 @@
         "image": "shopify:\/\/shop_images\/sand_main_home.png",
         "image_2": "shopify:\/\/shop_images\/sand_main_home_mobile.png",
         "color_scheme": "background-1"
-      }
-    },
-    "934d7a8d-7619-458e-b8ee-9ce685ce058d": {
-      "type": "video-with-text",
-      "blocks": {
-        "template--17548616237360__934d7a8d-7619-458e-b8ee-9ce685ce058d-16735340201090ad98-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Why the MuckMat® is Best"
-          }
-        },
-        "template--17548616237360__934d7a8d-7619-458e-b8ee-9ce685ce058d-16735340201090ad98-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Our LakeMats® and MuckMats® are chemical-free, affordable, and environmentally friendly alternatives to fight against lake weeds and muck.<\/p><p><strong>Creates a firm lake bottom<\/strong><\/p><p><strong>Eliminates weeds!<\/strong><\/p><p><strong>Includes high quality materials: patented mat, frame and geogrid<\/strong><\/p>"
-          }
-        },
-        "template--17548616237360__934d7a8d-7619-458e-b8ee-9ce685ce058d-16735340201090ad98-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Shop Now",
-            "button_link": "shopify:\/\/products\/muckmat"
-          }
-        }
-      },
-      "block_order": [
-        "template--17548616237360__934d7a8d-7619-458e-b8ee-9ce685ce058d-16735340201090ad98-0",
-        "template--17548616237360__934d7a8d-7619-458e-b8ee-9ce685ce058d-16735340201090ad98-1",
-        "template--17548616237360__934d7a8d-7619-458e-b8ee-9ce685ce058d-16735340201090ad98-2"
-      ],
-      "settings": {
-        "color_scheme": "background-1",
-        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/d0be4f8519344a7bb1a326372ab6108b.mp4",
-        "height": "adapt",
-        "layout": "text_first"
       }
     },
     "multicolumn": {
@@ -189,10 +189,10 @@
   },
   "order": [
     "701933e4-db6d-476f-86a0-bcb37a6a13c2",
+    "934d7a8d-7619-458e-b8ee-9ce685ce058d",
     "featured_collection",
     "image_banner",
     "99a97d6e-10fe-47f2-9edf-883a4a87e116",
-    "934d7a8d-7619-458e-b8ee-9ce685ce058d",
     "multicolumn"
   ]
 }
