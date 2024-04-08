@@ -14,19 +14,27 @@
         "template--18488956944712__5badbe6b-0454-4dba-be11-aea592155feb-1684231919cec99c7e-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Local Sales and Installations<\/p>",
+            "heading": "<p>Our Partners <br\/><\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "heading_ybQ6rJ": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h1>Local Support, Sales, Consulting and Installation<\/h1>",
             "heading_size": "h1"
           }
         },
         "template--18488956944712__5badbe6b-0454-4dba-be11-aea592155feb-1684231919cec99c7e-1": {
           "type": "text",
           "settings": {
-            "text": "<h3>Contact local sales partners, installation help, and water consultants near you!<\/h3>"
+            "text": "<h2>For Nordics visit our certified reseller <a href=\"https:\/\/Strandduk.se\" target=\"_blank\" title=\"https:\/\/Strandduk.se\"><span style=\"text-decoration:underline\"><strong>Strandduk.se<\/strong><\/span><strong><br\/><\/strong><\/a>+46 (0) 730336054<br\/><br\/>For UK Support contact <a href=\"https:\/\/www.aquacultureequipment.co.uk\/\" target=\"_blank\" title=\"https:\/\/www.aquacultureequipment.co.uk\/\"><span style=\"text-decoration:underline\"><strong>www.aquacultureequipment.co.uk<\/strong><\/span><\/a>  <br\/>+44 7715 007964<\/h2>"
           }
         }
       },
       "block_order": [
         "template--18488956944712__5badbe6b-0454-4dba-be11-aea592155feb-1684231919cec99c7e-0",
+        "heading_ybQ6rJ",
         "template--18488956944712__5badbe6b-0454-4dba-be11-aea592155feb-1684231919cec99c7e-1"
       ],
       "settings": {
