@@ -7,6 +7,7 @@
       "blocks": {
         "announcement-bar-0": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text-eu": "Contact Our Partners Directly!",
             "text-com": "+1 (813) 321-5330",
