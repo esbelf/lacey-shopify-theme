@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "current": {
     "logo": "shopify:\/\/shop_images\/iconOnly.png",
@@ -185,14 +194,14 @@
           "rtl_css": "body {\n  direction: rtl;\n}"
         }
       },
-      "4015264832934714879": {
-        "type": "shopify:\/\/apps\/ecomsend-popups\/blocks\/app\/a5670cf8-5705-4b01-ad9e-447033feae26",
-        "disabled": false,
+      "6023461868751542726": {
+        "type": "shopify:\/\/apps\/bsure-checkout-rules\/blocks\/embed\/01dc9f18-0935-422b-a3f7-3d2458585368",
+        "disabled": true,
         "settings": {
         }
       },
-      "6023461868751542726": {
-        "type": "shopify:\/\/apps\/bsure-checkout-rules\/blocks\/embed\/01dc9f18-0935-422b-a3f7-3d2458585368",
+      "4015264832934714879": {
+        "type": "shopify:\/\/apps\/ecomsend-popups\/blocks\/app\/a5670cf8-5705-4b01-ad9e-447033feae26",
         "disabled": true,
         "settings": {
         }
