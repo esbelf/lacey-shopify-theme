@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "main": {
@@ -21,7 +30,7 @@
         "template--17548613648688__8d96cd0e-0aa2-44c6-af0c-33d1746e3554-1673535205375f0c90-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Questions, reach us directly<br\/><br\/><strong>Our Email<\/strong>: <a href=\"mailto:admin@goodbyetomuck.com\">connor@goodbyetomuck.com<\/a><br\/><br\/><strong>Live Chat<\/strong><\/p><p>give us a call or send us a message using the insite messaging system on the bottom right<br\/><br\/><strong>Our WhatsApp<\/strong>: <a href=\"tel:34674152312\">+34 674 152 312<br\/><br\/><\/a><strong>Nordics+Germany:<\/strong>  +46 (0) 793 25 74 57<br\/><br\/><strong>US+Canada: <\/strong>+1 260 577 2467<br\/><br\/><strong>UK<\/strong>: <a href=\"tel:441223926587\">+44 1223 92 658<br\/><\/a><br\/><\/p>"
+            "text": "<p>Questions, reach us directly<br\/><br\/><strong>Our Email<\/strong>: <a href=\"mailto:admin@goodbyetomuck.com\">connor@goodbyetomuck.com<\/a><br\/><br\/><strong>Live Chat<\/strong><\/p><p>give us a call or send us a message using the insite messaging system on the bottom right<br\/><br\/><strong>Our Phone and WhatsApp<\/strong>: <a href=\"tel:34674152312\">+34 674 152 312<br\/><br\/><\/a><strong>Nordics+Germany:<\/strong>  +46 (0) 793 25 74 57<br\/><br\/><strong>Poland: <\/strong><br\/><br\/><strong>UK<\/strong>: <a href=\"tel:441223926587\">+44 1223 92 658<br\/><br\/><\/a><strong>US+Canada: <\/strong>+1 260 577 2467<a href=\"tel:441223926587\"><br\/><\/a><br\/><\/p>"
           }
         }
       },
