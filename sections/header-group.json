@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "name": "t:sections.header.name",
   "type": "header",
@@ -7,13 +16,12 @@
       "blocks": {
         "announcement-bar-0": {
           "type": "announcement",
-          "disabled": true,
           "settings": {
-            "text-eu": "Contact Our Partners Directly!",
+            "text-eu": "Questions? - Give us a call!",
             "text-com": "+1 (813) 321-5330",
             "text_alignment": "center",
             "color_scheme": "accent-1",
-            "link": ""
+            "link": "shopify:\/\/pages\/contact"
           }
         },
         "8f3eba53-6355-4231-b784-82105a324c92": {
